@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  【干货】最新的一期《Nature》人工智能专栏文章
+title:  【视觉】应用Python和OpenCV结合进行运动对象的检测和跟踪
 date:   2015-06-02 09:00:05
 categories: 学习资料
 ---
 
-![Alt text]({{ site.baseurl}}/images/2015-06-02/Python&OpenCV.gif)
+![Alt text]({{ site.baseurl}}/images/bd_hr.png)
