@@ -7,4 +7,3 @@ categories:  LearningMaterials
 
 <img src="{{site.baseurl}}/images/post/2015-06-02/PythonOpenCV.gif" alt="pic1"" title="pic1" />
 
-![](github.com/wbtxd2004/wbtxd2004.github.io/images/post/2015-06-02/PythonOpenCV.gif)
