@@ -5,4 +5,4 @@ date:   2015-06-02 09:00:05
 categories:  LearningMaterials
 ---
 
-![alt test](https://github.com/wbtxd2004/wbtxd2004.github.io/blob/master/images/bg_hr.png)
+![alt test](http://images.haiwainet.cn/2015/0602/20150602062415383.jpg)
