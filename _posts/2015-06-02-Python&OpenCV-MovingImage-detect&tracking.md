@@ -5,4 +5,4 @@ date:   2015-06-02 09:00:05
 categories: 学习资料
 ---
 
-![Alt text]({{ site.baseurl}}/images/bd_hr.png)
+![]({{site.baseurl}}/images/bd_hr.png)
