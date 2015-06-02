@@ -5,4 +5,4 @@ date:   2015-06-02 09:00:05
 categories:  LearningMaterials
 ---
 
-![alt test](http://img4q.duitang.com/uploads/item/201311/20/20131120213622_mJCUy.thumb.700_0.gif)
+![alt test](https://github.com/wbtxd2004/wbtxd2004.github.io/blob/master/images/post/2015-06-02/PythonOpenCV.gif)
