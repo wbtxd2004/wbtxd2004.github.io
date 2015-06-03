@@ -3,7 +3,8 @@ source:       .
 destination:  ./_site
 plugins:      ./_plugins
 layouts:      ./_layouts
-#paginate:     8
+paginate:     2
+paginate_path: "record/page:num/"
 
 # Handling Reading
 safe:         false
@@ -27,18 +28,24 @@ email: wbtxd2004@gmail.com
 githubpage: https://github.com/wbtxd2004
 baseurl: "" # the subpath of your site, e.g. /blog/
 github_username:  wbtxd2004
+timezone: 'Asia/Shanghai'
+
 
 #菜单配置
 nav:
   - text: 首页
     url: /index.html
-  - text: 文章归档
-    url: /archives.html
-  - text: 作品
-    url: /works.html
-  - text: 联系我
-    url: http://www.zhanxin.info/contact.html
-  - text: 博客源代码
-    url: https://github.com/pizn/pizn.github.com
+  - text: 文章列表
+    url: /record.html
+  - text: 关于
+    url: /about
+  #- text: 联系我
+  #  url: http://www.zhanxin.info/contact.html
+  #- text: 博客源代码
+  #  url: https://github.com/pizn/pizn.github.com
+
+
+#style config
+style: /style
 
 

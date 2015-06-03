@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  深度学习资源汇总
-date:   2015-06-02 09:00:05
+date:   2015-06-02
 categories:  LearningMaterials
 ---
 
