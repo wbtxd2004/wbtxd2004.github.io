@@ -84,3 +84,15 @@ categories:  LearningMaterials
 
 
 [【汇总】20150602人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206450689&idx=4&sn=38b9a28c1ac69997662596e15d975865&scene=1#rd)
+
+###2015-06-04
+[【干货】应用机器学习的建议](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206881284&idx=1&sn=a282c5a4e5abda7e352889a689177c7c&scene=1#rd)
+
+
+[【学习】深度学习-LeCun、Bengio和Hinton的联合综述（下）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206881284&idx=2&sn=28326ecae48d9075c0b8145bbc249daf&scene=1#rd)
+
+
+[【研究】微软分布式机器学习方案新突破](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206881284&idx=3&sn=9927dd339cee2712ce8c1c8497062d35&scene=1#rd)
+
+
+[【推荐】音乐重度患者探寻网易云音乐的歌单推荐算法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206881284&idx=4&sn=a4e04fbe8cb323199171f76ed2ee472f&scene=1#rd)
