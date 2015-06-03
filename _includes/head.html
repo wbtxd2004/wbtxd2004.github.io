@@ -1,12 +1,33 @@
-<head> 
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+	<!--
+     **
+     * Author:         武斌
+     * Contact:        wbtxd2004@gmail.com
+     * Theme Name:     demo
+     * Create Date:    2015.06
+     * Update:         2015.06
+     **
+    -->
+  	<meta charset="utf-8">
+  	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+ 	<!--标题
+  	<title>
+  		{% if page.title %}
+  			{{ page.title }}
+  		{% else %}
+  			{{ site.title }}{% endif %}
+  	</title>
+  	-->
+  	<title>WuBin（武斌）</title>
+  	<meta name="generator" content="Jekyll" />
+	<meta name="author" content="{{ site.author.name }}" />
+	<meta name="description" content="{{ page.description }}" />
+	<meta name="keywords" content="{{ page.keywords | join: ',' }}" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<!--页面样式-->
+  	<link rel="stylesheet" href="{{ "{{ site.baseurl }}/css/main.css" | prepend: site.baseurl }}" type="text/css">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Spirax' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="{{ site.baseurl }}/images/style/favicon.ico" type="image/x-icon" />
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
-  <link rel="stylesheet" href="{{ "{{ site.baseurl}}/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 </head>
