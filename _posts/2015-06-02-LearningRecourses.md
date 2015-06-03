@@ -67,6 +67,8 @@ categories:  LearningMaterials
 [【第一期微信讲座整理精华版】贾扬清（谷歌大脑科学家、caffe缔造者）深入探讨深度学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206807926&idx=1&sn=dd78c33e2af4ee8592b72e9467027053&scene=1#rd)
 
 ---
+
+
 ###2015-06-03
 
 [【干货】利用图片指纹检测高相似度图片](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206844426&idx=1&sn=f633ee1608f5739dd0659a1443de9167&scene=1#rd)
