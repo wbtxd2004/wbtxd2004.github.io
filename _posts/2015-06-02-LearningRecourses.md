@@ -65,3 +65,20 @@ categories:  LearningMaterials
 
 
 [【第一期微信讲座整理精华版】贾扬清（谷歌大脑科学家、caffe缔造者）深入探讨深度学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206807926&idx=1&sn=dd78c33e2af4ee8592b72e9467027053&scene=1#rd)
+
+---
+###2015-06-03
+
+[【干货】利用图片指纹检测高相似度图片](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206844426&idx=1&sn=f633ee1608f5739dd0659a1443de9167&scene=1#rd)
+
+
+[【学习】深度学习-LeCun、Bengio和Hinton的联合综述（上）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206844426&idx=2&sn=06859037b1250b55d0c9d5612d3cc219&scene=1#rd)
+
+
+[【研究】另类数据分析：怎么从一个人的名字判断他的家境？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206844426&idx=3&sn=7c9c9b765e69dc029d202ef096a3fce3&scene=1#rd)
+
+
+[【推荐】巨头纷纷加码 人脸识别技术产业受关注](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206844426&idx=4&sn=603c71e315cbd911499c8f3a5277d12c&scene=1#rd)
+
+
+[【汇总】20150602人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206450689&idx=4&sn=38b9a28c1ac69997662596e15d975865&scene=1#rd)
