@@ -3,6 +3,7 @@ layout: post
 title:  深度学习资源汇总
 date:   2015-06-02
 categories:  LearningMaterials
+
 ---
 
 ### 下面是我在微信群里收藏的关于机器学习以及深度学习的资料，为了方便保存，在这里做一个记录。
