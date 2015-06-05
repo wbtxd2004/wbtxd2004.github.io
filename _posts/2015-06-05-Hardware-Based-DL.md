@@ -3,7 +3,8 @@ layout: post
 title:  基于深度学习的装机配置单(手动整理)
 date:   2015-06-05
 categories:  杂谈
-
+published: true
+author: wubin
 ---
 
 #基于深度学习的装机配置单#
