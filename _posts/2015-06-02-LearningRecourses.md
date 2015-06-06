@@ -97,3 +97,14 @@ categories:  LearningMaterials
 
 
 [【推荐】音乐重度患者探寻网易云音乐的歌单推荐算法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206881284&idx=4&sn=a4e04fbe8cb323199171f76ed2ee472f&scene=1#rd)
+
+###2015-06-05
+[【干货】深度分析Twitter Heron](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206969664&idx=1&sn=dc3564677b56485e53347a0c0ddb5c04&scene=1#rd)
+
+[【学习】让Pig在风暴中飞驰——Pig On Storm](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206969664&idx=2&sn=8ae83d8a055c449dc545b56761b5acac&scene=1#rd)
+
+[【研究】Microsoft Research project can interpret, caption photos](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206969664&idx=3&sn=e900a0b1c466ff1b0d6288fd27c006ae&scene=1#rd)
+
+[【推荐】HBase 在腾讯大数据的应用实践](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206969664&idx=4&sn=16b56fe772e90a6c3496355f677768b3&scene=1#rd)
+
+[【汇总】20150604人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206563062&idx=4&sn=269b3eb1b111f2978997b1b3f8bc9d1d&scene=1#rd)
