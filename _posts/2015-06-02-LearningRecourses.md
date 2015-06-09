@@ -108,3 +108,44 @@ categories:  LearningMaterials
 [【推荐】HBase 在腾讯大数据的应用实践](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206969664&idx=4&sn=16b56fe772e90a6c3496355f677768b3&scene=1#rd)
 
 [【汇总】20150604人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206563062&idx=4&sn=269b3eb1b111f2978997b1b3f8bc9d1d&scene=1#rd)
+
+###2015-06-07
+
+[【干货】Caffe 深度学习框架上手教程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207003964&idx=1&sn=b7af00fde67807b1df13eff63f5c93ac&scene=1#rd)
+
+
+[【学习】Deep Learning & Machine Learning 深度学习与机器学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207003964&idx=2&sn=06e2e86600af97ccd3a309d854f69497&scene=1#rd)
+
+
+[【研究】探索机器学习中的数据科学](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207003964&idx=3&sn=3bc734fcc5f1783a7ed770412c756bdd&scene=1#rd)
+
+
+[【推荐】2015年北京R语言会议日程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207003964&idx=4&sn=810224c4695db3e2b605ce1ba2a25aa6&scene=1#rd)
+
+
+[【汇总】20150606人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206594813&idx=4&sn=c1aacbfe6fee14fc33ee511863937639&scene=1#rd)
+
+
+[【推荐】DNNGraph-A deep model generation DSL in Haskell](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207041297&idx=4&sn=480e462304b5e7da1621a161d379e5e1&scene=1#rd)
+
+
+[【干货】用拓扑图呈现多层级关系图](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207041297&idx=1&sn=d010cde53a39566592c49646e6dbb482&scene=1#rd)
+
+
+[【学习】从WordCount看Spark大数据处理的核心机制（1）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207041297&idx=2&sn=6e33f8efdb05331c3d894128f6512714&scene=1#rd)
+
+
+[【研究】几大数据备份和容灾方法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207041297&idx=3&sn=dc16175bbf0b002c1c1571f85341bebe&scene=1#rd)
+
+
+[【推荐】DNNGraph-A deep model generation DSL in Haskell](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207041297&idx=4&sn=480e462304b5e7da1621a161d379e5e1&scene=1#rd)
+
+### 2015-06-08
+
+[【干货】用Python的NumPy, Matplotlib和Pandas库进行数据探索之终极指南](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207120764&idx=1&sn=58d2973ee77af8895aae8c451c5757fc&scene=1#rd)
+
+[【学习】8大排序算法图文讲解](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207120764&idx=2&sn=1bc1978b264e11e4d4d5e2566ae9954c&scene=1#rd)
+
+[【研究】Google 爬虫如何抓取 JavaScript 的？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207120764&idx=3&sn=bcd7a117038a3eeddf437764b6014c7c&scene=1#rd)
+
+[【推荐】基于物联网的大数据应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207120764&idx=4&sn=e970ea59d892fc282d3ca50410d8d350&scene=1#rd)
