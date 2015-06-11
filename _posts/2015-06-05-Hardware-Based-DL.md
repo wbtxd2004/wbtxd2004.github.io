@@ -91,7 +91,7 @@ author: wubin
 		其他：黑盘（WD4001FAEX）
 		参考报机：1699*3=5097 RMB
 				
-6. 固态硬盘For RAID：1个[浦科特PX-G512M6e（512GB）](http://detail.zol.com.cn/solid_state_drive/index383241.shtml)index383241.shtml)PCI-E M.2 SSD cache for RAID，Intel RST in Linux技术  
+6. 固态硬盘For RAID：1个[浦科特PX-G512M6e（512GB）](http://detail.zol.com.cn/solid_state_drive/index383241.shtml)PCI-E M.2 SSD cache for RAID，Intel RST in Linux技术  
 		
 		参考报价：2799 RMB
 		
