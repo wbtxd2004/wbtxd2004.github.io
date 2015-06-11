@@ -149,3 +149,34 @@ categories:  LearningMaterials
 [【研究】Google 爬虫如何抓取 JavaScript 的？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207120764&idx=3&sn=bcd7a117038a3eeddf437764b6014c7c&scene=1#rd)
 
 [【推荐】基于物联网的大数据应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207120764&idx=4&sn=e970ea59d892fc282d3ca50410d8d350&scene=1#rd)
+
+### 2015-06-09
+
+[【汇总】20150609人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206699410&idx=4&sn=e2d6dee07aeb8b2262def4a7d44b1b52&scene=1#rd)
+
+
+
+[【干货】机器学习(Machine Learning)&深度学习(Deep Learning)资料](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207170559&idx=1&sn=dd9823f5573751308614a1881cf863fd&scene=1#rd)
+
+
+[【学习】每个程序员要注意的 9 种反模式](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207170559&idx=2&sn=e24d8effd2506ba8ca7549a66560406c&scene=1#rd)
+
+
+[【研究】用机器学习找出受欢迎的篮球视频集锦](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207170559&idx=3&sn=f8ec8099dcb366ea54c9cf3265113e5b&scene=1#rd)
+
+
+[【推荐】数据科学中Python与R的比较](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207170559&idx=4&sn=490c5f50993b06f0c0149bef870dd407&scene=1#rd)
+
+### 2015-06-10
+
+[【干货】深入浅出LSTM神经网络](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207209604&idx=1&sn=08dc33acbb482cf737590180d668fae0&scene=1#rd)
+
+[【学习】代码覆盖率工具 Istanbul 入门教程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207209604&idx=2&sn=822b980dc8507de7fbb52dc4126fbad9&scene=1#rd)
+
+[【研究】运维角度浅谈MySQL数据库优化](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207209604&idx=3&sn=32810c2af54ea1580bc36fea3ee7d2ed&scene=1#rd)
+
+[【推荐】提高Python运行效率的六个窍门](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207209604&idx=4&sn=16a2830c683f5ea8a4af5043bcfed06f&scene=1#rd)
+
+[【汇总】20150610人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206745406&idx=4&sn=b788d45a1cd02f2119d6200f56498bed&scene=1#rd)
+
+
