@@ -81,15 +81,15 @@ author: wubin
 		针脚数：288pin
 		参考报价：5899*2=11798 RMB
 		
-5. 硬盘: 3个 [西部数据4TB ](http://detail.zol.com.cn/hard_drives/index346787.shtml)  组RAID5
+5. 硬盘: 3个 [西部数据4TB ](http://detail.zol.com.cn/hard_drives/index368122.shtml)  组RAID5
 		
 		硬盘容量：4000G
 		缓存：64M
 		转速：7200rpm
 		接口类型：SATA3.0
 		接口速率：6Gb/s
-		其他：黑盘（WD4001FAEX）
-		参考报机：1699*3=5097 RMB
+		其他：黑盘（WD4003FZEX）
+		参考报机：1799*3=5397 RMB
 				
 6. 固态硬盘For RAID：1个[浦科特PX-G512M6e（512GB）](http://detail.zol.com.cn/solid_state_drive/index383241.shtml)PCI-E M.2 SSD cache for RAID，Intel RST in Linux技术  
 		
