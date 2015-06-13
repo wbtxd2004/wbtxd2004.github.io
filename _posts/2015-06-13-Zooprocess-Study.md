@@ -165,7 +165,7 @@ Zooprocess 是由Marc Picheral 开发出来并且为我们所使用的，然而�
 建立一个名为test的项目，选择无扫描文件。
 项目建立之后，会生成一系列的子目录对于不同的目的，如图所示：
 
-<img src="{{site.baseurl}}/images/post/2015-06-14/4.PNG" width="600"/>
+<img src="{{site.baseurl}}/images/post/2015-06-14/4.PNG"/>
 
 enter sample ID：例如001
 
@@ -196,7 +196,7 @@ enter sample ID：例如001
 
 	扫描后的样本的原始的.tif图像文件和log.txt记录文件和meta.txt元数据文件都会在\path\to\project\Zooscan_scan\_raw目录下建立并存储。
 	
-	<img src="{{site.baseurl}}/images/post/2015-06-14/_raw.png" width="600"/>
+	<img src="{{site.baseurl}}/images/post/2015-06-14/raw.png" width="600"/>
 	
 	* log文件记录了扫描方法（参数）的信息。
 	* meta文件给出了采样方法（网格大小、质量）和ZooSCAN的准备（前置筛选和二次抽样率等）信息。
@@ -204,7 +204,7 @@ enter sample ID：例如001
 	
 	这个过程会持续很长时间，做了很多的工作，从原图像中检测并且识别个体，并且把识别后的单个个体片段提取出来，以jpg的格式存储在\\path\\to\\project\\Zooscan_scan\\_work目录下。存储的文件除了每一个识别出来的个体片段外还包括原图像以及去掉背景后样本图和本次处理后对应的**pid文件**。这个.PID文件是后面数据分析的主要文件，它是一个连接了log.txt文件、meta.txt文件、应用的处理功能和meas.txt（一个包含所有目标（列）和测量值（行）的表格）文件的单一文件。测量值中可能会用于数据分析的计算值有Area，Major和Minor（同测量的目标拥有相同区域的椭圆的长轴和短轴）。其他测量值是用于自动识别目标的形状和结构的参数以及他们在托盘中的位置。除了work目录内，PID文件也被自动的复制到项目目录下的"PID_Result"目录下。PID文件可以通过“PID Viewer”程序来查看。
 	
-	<img src="{{site.baseurl}}/images/post/2015-06-14/pid.png" width="600"/>
+	<img src="{{site.baseurl}}/images/post/2015-06-14/pid.png" />
 	<img src="{{site.baseurl}}/images/post/2015-06-14/pid2.png" width="600"/>
 
 6. 检查图像质量
