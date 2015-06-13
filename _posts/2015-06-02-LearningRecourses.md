@@ -179,4 +179,42 @@ categories:  LearningMaterials
 
 [【汇总】20150610人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206745406&idx=4&sn=b788d45a1cd02f2119d6200f56498bed&scene=1#rd)
 
+### 2015-06-11
+
+[【干货】视觉直观感受 7 种常用的排序算法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207242871&idx=1&sn=cdf8c110e28e85ad6564a2dbe39f4692&scene=1#rd)
+
+
+[【学习】SparkR(R on Spark)编程指南](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207242871&idx=2&sn=f437db3cd3c5eb0dd51f9ad68b6f5663&scene=1#rd)
+
+
+[【研究】运维角度浅谈MySQL数据库优化](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207242871&idx=3&sn=6958c520cb65ea316003f5b30c568adb&scene=1#rd)
+
+
+[【推荐】另类新浪微博基本数据采集方法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207242871&idx=4&sn=735da9ee51a7c78d758bebd62cd50c68&scene=1#rd)
+
+
+[【汇总】20150611人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206765599&idx=4&sn=119e0c4d77ca71e43d40746d9fd36588&scene=1#rd)
+
+
+### 2015-06-12
+
+[【学习】浅谈计算机图形学的内容和学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207283010&idx=2&sn=52e8b7d9850a82737b2a18cd2b414220&scene=1#rd)
+
+[【研究】奇点理论：是关于人工智能的科学理论？还是垃圾科学？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207283010&idx=3&sn=7db70d718a1e879396ccb2f772807a92&scene=1#rd)
+
+[【推荐】17 Coding Challenges to Help You Train Your Brain](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207283010&idx=4&sn=333ece3fcb2e438d802f2411d94f5862&scene=1#rd)
+
+[【微信群讲座火热预告】ACL主席王海峰和百度巨牛们探讨NLP的挑战和未来](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207283010&idx=1&sn=2bf4fddabd8df57c6c3e882a1d95e363&scene=1#rd)
+
+
+
+### 2015-06-13
+
+[【干货】使用 scikit-learn 进行机器学习的简介](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207314218&idx=1&sn=fce09e1d0b6e3993f1b3b2513a989701&scene=1#rd)
+
+[【学习】如何在Python中使用static、class、abstract方法（权威指南）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207314218&idx=2&sn=3b5894c5d80887a13b739809e5c414f9&scene=1#rd)
+
+[【研究】10分钟！搞懂泊松分布 and 指数分布](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207314218&idx=3&sn=936cb07664cba1191cdc560ce2762cc0&scene=1#rd)
+
+[【汇总】20150613人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206863273&idx=4&sn=c8086d1d10fa54a40f4624a0452cfbe9&scene=1#rd)
 
