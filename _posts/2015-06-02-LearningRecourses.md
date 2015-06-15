@@ -218,3 +218,16 @@ categories:  LearningMaterials
 
 [【汇总】20150613人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206863273&idx=4&sn=c8086d1d10fa54a40f4624a0452cfbe9&scene=1#rd)
 
+### 2015-06-14
+
+[【干货】机器学习工具包/库的综述/比较](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207349841&idx=1&sn=371115b9b4374b2bd54387d56ec719fc&scene=1#rd)
+
+[【学习】深度学习之“深”——DNN的隐喻分析](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207349841&idx=2&sn=77c6955a92131d9f8f3a51109056cd1b&scene=1#rd)
+
+[【研究】2459篇经济学论文的LDA聚类](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207349841&idx=3&sn=5a17893a7d51e447085ac12cb80e25b7&scene=1#rd)
+
+[【推荐】大数据新手入门：给刚玩Hadoop的朋友一些建议](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207349841&idx=4&sn=b486b82e32cbbde1cf480114e52fbcbd&scene=1#rd)
+
+[【汇总】20150614人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206915846&idx=4&sn=2ecae388a90c452ba26913a7304c27ff&scene=1#rd)
+
+
