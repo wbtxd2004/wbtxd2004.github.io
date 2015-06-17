@@ -230,4 +230,30 @@ categories:  LearningMaterials
 
 [【汇总】20150614人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206915846&idx=4&sn=2ecae388a90c452ba26913a7304c27ff&scene=1#rd)
 
+### 2015-06-15
 
+[【干货】MLSS Machine Learning Summer Schools](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207386823&idx=1&sn=32c41adb159fdeef70714d6283b1430d&scene=1#rd)
+
+[【学习】遗传算法与符号回归](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207386823&idx=2&sn=19356c9afd5854fc9e0f329ef1314134&scene=1#rd)
+
+[【研究】8大经典数据挖掘算法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207386823&idx=3&sn=0cbf064ec6301a4ae0099b9011680160&scene=1#rd)
+
+[【推荐】关于大数据的思考——《大数据思维与决策》读后感](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207386823&idx=4&sn=900636167ca63460dd252d09f1c6092c&scene=1#rd)
+
+[【汇总】20150615人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206975019&idx=4&sn=240686e5cf7fb2fe2375aef2214b0286&scene=1#rd)
+
+### 2015-06-16
+
+[【干货】课程资料:文本分析](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207437999&idx=1&sn=4467a25c2c59008842db3b9e7395d24c&scene=1#rd)
+
+[【学习】CVPR 2015 OpenCV 3.0 tutorial](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207437999&idx=2&sn=6829dcbeb66425fc6bdacbfd73106d46&scene=1#rd)
+
+[【研究】Deeplearning4j的Word2Vec专题页](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207437999&idx=3&sn=32a413f08e21fc63f1ce515900d8d9c1&scene=1#rd)
+
+[【推荐】用户深度体验报告：Uber的产品和算法NB在哪？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207437999&idx=4&sn=62b259436f09452ed62d38333d8a2424&scene=1#rd)
+
+[【汇总】20150616人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207051081&idx=4&sn=99b45f03f2b2e349c00833f1a72a0b6b&scene=1#rd)
+
+### 2015-06-17
+
+[第八届中国R语言会议（北京）会议纪要](http://mp.weixin.qq.com/s?__biz=MjM5NDQ3NTkwMA==&mid=208320521&idx=1&sn=6ef0a9d0157a48853419c7a599e30084&scene=1#rd)
