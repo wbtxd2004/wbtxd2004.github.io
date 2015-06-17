@@ -257,3 +257,13 @@ categories:  LearningMaterials
 ### 2015-06-17
 
 [第八届中国R语言会议（北京）会议纪要](http://mp.weixin.qq.com/s?__biz=MjM5NDQ3NTkwMA==&mid=208320521&idx=1&sn=6ef0a9d0157a48853419c7a599e30084&scene=1#rd)
+
+[【干货】Computational Statistics in Python](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207474424&idx=1&sn=9362e9e1a4957bc76797546fe0a531ad&scene=1#rd)
+
+[【学习】Statistics 110: Probability](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207474424&idx=2&sn=955cae2d73e4d169f118fe3508362688&scene=1#rd)
+
+[【研究】Awesome Multi-class Boosting Resources](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207474424&idx=3&sn=e60b8cc1ac0ebe28396d3209b5030fce&scene=1#rd)
+
+[【推荐】Graphical Data Analysis with R](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207474424&idx=4&sn=6f4f5e930f88b4e3e1f6bc3629701b35&scene=1#rd)
+
+[【汇总】20150617人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207127152&idx=4&sn=634ada3af848036112b9b7fce36671a9&scene=1#rd)
