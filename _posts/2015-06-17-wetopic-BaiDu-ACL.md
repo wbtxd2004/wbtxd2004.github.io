@@ -3,7 +3,7 @@ layout: post
 title:  ACL主席王海峰和百度巨牛们探讨NLP的挑战和未来(微信讲座文字版)
 date:   2015-06-17 23:26:05
 categories: record
-published: true
+published: false
 author: wubin
 
 ---
