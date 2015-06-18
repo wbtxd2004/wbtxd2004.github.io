@@ -267,3 +267,16 @@ categories:  LearningMaterials
 [【推荐】Graphical Data Analysis with R](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207474424&idx=4&sn=6f4f5e930f88b4e3e1f6bc3629701b35&scene=1#rd)
 
 [【汇总】20150617人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207127152&idx=4&sn=634ada3af848036112b9b7fce36671a9&scene=1#rd)
+
+
+### 2015-06-18
+
+[【汇总】20150618人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207193657&idx=4&sn=a2675a7e912227238e1108da464254c5&scene=1#rd)
+
+[【干货】机器学习经典书籍推荐](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207516925&idx=1&sn=5501c9cfcc4a93768328260ca13eead8&scene=1#rd)
+
+[【学习】机器翻译的前世今生](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207516925&idx=2&sn=7dd44a103b492d7c2bc20e1ae861634d&scene=1#rd)
+
+[【研究】神经(感知)机器翻译介绍](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207516925&idx=3&sn=f2effff0cb8c9de7abf3dafd603d70a4&scene=1#rd)
+
+[【推荐】推荐系统资源列表（List of Recommender Systems）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207516925&idx=4&sn=d5202a075aa64616cfee71f6ceb55f84&scene=1#rd)
