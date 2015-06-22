@@ -280,3 +280,34 @@ categories:  LearningMaterials
 [【研究】神经(感知)机器翻译介绍](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207516925&idx=3&sn=f2effff0cb8c9de7abf3dafd603d70a4&scene=1#rd)
 
 [【推荐】推荐系统资源列表（List of Recommender Systems）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207516925&idx=4&sn=d5202a075aa64616cfee71f6ceb55f84&scene=1#rd)
+
+### 2015-06-19&20
+
+[机器学习中的范数规则化之（一）L0、L1与L2范数 - zouxy09的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/zouxy09/article/details/24971995?from=groupmessage&isappinstalled=0)
+
+[【干货】Inceptionism: Going Deeper into Neural Networks](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207561466&idx=1&sn=bd3d1d34d2bbd6d102ef54af9439db17&scene=1#rd)
+
+[【学习】机器学习：更多的数据总是优于更好的算法吗？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207561466&idx=2&sn=daa8631c1652faa2094a6e166c8dbfbe&scene=1#rd)
+
+[【研究】Netflix工程总监眼中的分类算法：深度学习优先级最低](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207561466&idx=3&sn=f124bec07df2479da4db1cf03563800f&scene=1#rd)
+
+[【推荐】Airbnb开源数据和机器学习代码](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207561466&idx=4&sn=195a9790bd210d21c843363aa508a50d&scene=1#rd)
+
+[【汇总】20150619人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207304620&idx=4&sn=a7ad31fcfc21ed83de14ac5642703353&scene=1#rd)
+
+
+[SenseTime，知图，码隆科技，Linkface，Face++... 如何看待 CV 界创业潮？ - Naiyan Wang 的回答 - 知乎](http://www.zhihu.com/question/31430100/answer/51997378?utm_source=weibo&utm_medium=weibo_share&utm_content=share_answer&utm_campaign=share_button&from=timeline&isappinstalled=0)
+
+### 2015-06-21
+
+[【干货】TalkingData大规模机器学习的应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207588136&idx=1&sn=acd08720f4dcca01b637e71ed2e9105b&scene=1#rd)
+
+[【学习】译见：哪个行业应该更多地投资在大数据上？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207588136&idx=2&sn=a73ad11f31ecb81e9ce8f6edb086dae4&scene=1#rd)
+
+[【研究】谱聚类(Spectal Clustering)——简单易学的机器学习算法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207588136&idx=3&sn=cf2fa3e92ccc1abbf70abcde789bfb57&scene=1#rd)
+
+[【推荐】CVPR 2015会议总结报告](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207588136&idx=4&sn=d1508fcda60c36cb5157c5af2da2ab2e&scene=1#rd)
+
+[【汇总】20150620人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207357210&idx=4&sn=dab7ff684f1fec1f32744b56c1bc4d70&scene=1#rd)
+
+[BP神经网络](http://wenku.baidu.com/link?url=0LopnVVOayUR639WDVCUnXtxGzC3BU_YwLz5YHJka6Cnr3o1YddYjfW0J-ceKNKJ2oY7YAnEnsAINq8lJ0YR_dYIpSmBPpm4jBv2-HuLwbK )
