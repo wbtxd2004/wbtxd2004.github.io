@@ -281,7 +281,7 @@ categories:  LearningMaterials
 
 [【推荐】推荐系统资源列表（List of Recommender Systems）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207516925&idx=4&sn=d5202a075aa64616cfee71f6ceb55f84&scene=1#rd)
 
-### 2015-06-19&20
+### 2015-06-19
 
 [机器学习中的范数规则化之（一）L0、L1与L2范数 - zouxy09的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/zouxy09/article/details/24971995?from=groupmessage&isappinstalled=0)
 
@@ -298,7 +298,7 @@ categories:  LearningMaterials
 
 [SenseTime，知图，码隆科技，Linkface，Face++... 如何看待 CV 界创业潮？ - Naiyan Wang 的回答 - 知乎](http://www.zhihu.com/question/31430100/answer/51997378?utm_source=weibo&utm_medium=weibo_share&utm_content=share_answer&utm_campaign=share_button&from=timeline&isappinstalled=0)
 
-### 2015-06-21
+### 2015-06-20
 
 [【干货】TalkingData大规模机器学习的应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207588136&idx=1&sn=acd08720f4dcca01b637e71ed2e9105b&scene=1#rd)
 
@@ -311,3 +311,39 @@ categories:  LearningMaterials
 [【汇总】20150620人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207357210&idx=4&sn=dab7ff684f1fec1f32744b56c1bc4d70&scene=1#rd)
 
 [BP神经网络](http://wenku.baidu.com/link?url=0LopnVVOayUR639WDVCUnXtxGzC3BU_YwLz5YHJka6Cnr3o1YddYjfW0J-ceKNKJ2oY7YAnEnsAINq8lJ0YR_dYIpSmBPpm4jBv2-HuLwbK )
+
+### 2015-06-21
+
+[【干货】Caffe Usage Summarization](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207619178&idx=1&sn=0ad1dea02894751debaf76b783fb4e17&scene=1#rd)
+
+[【学习】Gradient-based Hyperparameter Optimization](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207619178&idx=2&sn=395f123717d3edf421770fbf970c3db8&scene=1#rd)
+
+[【研究】DeepLearning from OReilly to start: books, blogs, podcasts](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207619178&idx=3&sn=592d1b5e72e9721723a1dc0d3601a744&scene=1#rd)
+
+[【推荐】Research on Deep Learning for NLP at Huawei Noah’s Ark Lab](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207619178&idx=4&sn=4af6d550d65a2e1af9ffeb32099f8f0f&scene=1#rd)
+
+[【汇总】20150621人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207431659&idx=4&sn=dcadfe0bcbcd40cfcbab82f8d5fb4ed5&scene=1#rd)
+
+### 2015-06-22
+
+[【干货】人脸检测研究2015最新进展](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207642520&idx=1&sn=decf5acf11baa0d0c1ad964070dc53b2&scene=1#rd)
+
+[【学习】会议 ShanghaiTech Symposium on Data Science (SSDS) 2015](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207642520&idx=2&sn=18d92b113118f4382fa124d2c2bbad28&scene=1#rd)
+
+[【研究】Memory Networks](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207642520&idx=3&sn=d5759aed0aad7654e136bf1d55cb1eae&scene=1#rd)
+
+[【推荐】认知、流形与虚实世界](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207642520&idx=4&sn=d3a44e4e4ee61e683764b64f690a830d&scene=1#rd)
+
+[【汇总】20150622人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207487956&idx=4&sn=e85fc86c2638529d43528e01ec5a1ddb&scene=1#rd)
+
+### 2015-06-23
+
+[【干货】MLCONF 2014 SAN FRANCISCO slide&video](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207688120&idx=1&sn=b433a11cf72176c0cd09a5bd1c2bcbe7&scene=1#rd)
+
+[【学习】SIGMOD 2015 TUTORIAL](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207688120&idx=2&sn=6984940f4e99424f9a0adf8261485fbe&scene=1#rd)
+
+[【研究】Google's New Chatbot Taught Itself to Be Creepy](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207688120&idx=3&sn=a77d3f3d9d5908e7468769d69d11c02c&scene=1#rd)
+
+[【推荐】ECOLE会议讲稿(PPT)](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207688120&idx=4&sn=b280f69d2978a97c53a46547fb2c6e0c&scene=1#rd)
+
+[【汇总】20150623人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207545830&idx=4&sn=b3eacb52528f873c8efad41296afd2a5&scene=1#rd)
