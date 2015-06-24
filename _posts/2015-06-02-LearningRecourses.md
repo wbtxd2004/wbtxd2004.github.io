@@ -347,3 +347,16 @@ categories:  LearningMaterials
 [【推荐】ECOLE会议讲稿(PPT)](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207688120&idx=4&sn=b280f69d2978a97c53a46547fb2c6e0c&scene=1#rd)
 
 [【汇总】20150623人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207545830&idx=4&sn=b3eacb52528f873c8efad41296afd2a5&scene=1#rd)
+
+
+### 2015-06-24
+
+[【群沙龙预告】斯坦福、谷歌、百度、阿里人工智能顶级专家，探讨未来5年产业机会](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207728623&idx=1&sn=c46191fe014b31ad1c75a203801c4bba&scene=1#rd)
+
+[【学习】计算机视觉进展二十年 (1995~2015)](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207728623&idx=2&sn=fb9b0b134578e3f1032a9eae1313bb56&scene=1#rd)
+
+[【研究】百度大数据应用与实践](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207728623&idx=3&sn=89cbd0e8f2d2bd08f83700d5724ec698&scene=1#rd)
+
+[【推荐】Understanding Neural Networks Through Deep Visualization](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207728623&idx=4&sn=d032ef19c95dba03d5b738fcaefd3447&scene=1#rd)
+
+[【汇总】20150624人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207581605&idx=4&sn=3ab902b7dd13834c430407225de92234&scene=1#rd)
