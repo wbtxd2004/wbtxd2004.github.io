@@ -360,3 +360,17 @@ categories:  LearningMaterials
 [【推荐】Understanding Neural Networks Through Deep Visualization](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207728623&idx=4&sn=d032ef19c95dba03d5b738fcaefd3447&scene=1#rd)
 
 [【汇总】20150624人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207581605&idx=4&sn=3ab902b7dd13834c430407225de92234&scene=1#rd)
+
+### 2015-06-25
+
+[【群沙龙预告】斯坦福、谷歌、百度、阿里人工智能顶级专家，探讨未来5年产业机会](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207775395&idx=1&sn=2d61e08b7b9450d43610c2d18aafd45d&scene=1#rd)
+
+[【学习】Scalable Machine Learning](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207775395&idx=2&sn=50e20a5ab67cc561bb4efec20905b308&scene=1#rd)
+
+[【研究】CS224d: Deep Learning for Natural Language Processing](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207775395&idx=3&sn=20d31937ad44c1e7dbd29bd518487f6d&scene=1#rd)
+
+[【推荐】CCAI2015：中国人工智能大会将于7月26-27日在京举行](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207775395&idx=4&sn=7955212ee5d6a7d4c28c55d9db38723f&scene=1#rd)
+
+[【汇总】20150625人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207621436&idx=4&sn=24bdc970e88b3cd533677cf0303c8e9c&scene=1#rd)
+
+
