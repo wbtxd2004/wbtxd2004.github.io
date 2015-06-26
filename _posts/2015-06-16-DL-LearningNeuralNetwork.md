@@ -16,14 +16,6 @@ author: wubin
 
 为了描述神经网络，我们先从最简单的神经网络讲起，这个神经网络仅由一个“神经元”构成，以下即是这个“神经元”的图示：
 
-![神经元](http://ufldl.stanford.edu/wiki/index.php/File:SingleNeuron.png)
+<img src="{{site.baseurl}}/images/post/2015-06-02/PythonOpenCV.gif" width="600"/>
 
-$$E=mc^2$$ is a inline formula
-
-
-$$ 
-\begin{aligned} \dot{x} &= \sigma(y-x) \\ 
-\dot{y} &= \rho x - y - xz \\ 
-\dot{z} &= -\beta z + xy \end{aligned} 
-$$
 
