@@ -10,4 +10,4 @@ author: wubin
 
 ### 个人整理的深度学习的介绍
 
-
+{% youku XNTM5ODAyNDU2 %}
