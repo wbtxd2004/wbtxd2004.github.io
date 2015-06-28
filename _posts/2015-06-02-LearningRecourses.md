@@ -373,4 +373,46 @@ categories:  LearningMaterials
 
 [【汇总】20150625人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207621436&idx=4&sn=24bdc970e88b3cd533677cf0303c8e9c&scene=1#rd)
 
+### 2015-06-26
+
+[【群沙龙预告】斯坦福、谷歌、百度、阿里人工智能顶级专家，探讨未来5年产业机会](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207810664&idx=1&sn=604715d572664982637df534583a3edd&scene=1#rd)
+
+[【学习】深度学习的统计分析III:记忆&核](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207810664&idx=2&sn=9dd39b46dd97730e79dcbb4c5372a400&scene=1#rd)
+
+
+[【研究】Python Easy Neural Network Extruder](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207810664&idx=3&sn=88bd77e06436f02e212d39221f2be04f&scene=1#rd)
+
+[【推荐】语义分析解锁大数据封印](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207810664&idx=4&sn=ee2d92aa8f985f8d6810a1a421899507&scene=1#rd)
+
+[【汇总】20150626人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207664714&idx=4&sn=6269a8da13d6ba03552e48864e55bb00&scene=1#rd)
+
+[BAT & P 在第十届国际统计前沿大会上都说了啥？](http://mp.weixin.qq.com/s?__biz=MzAxNjE4MjA1Mw==&mid=207722211&idx=1&sn=6b50e35cfd60964786af986e71d305dd&scene=1#rd)
+
+### 2015-06-27
+
+[【文字整理稿来啦】百度阿里“深度”碰撞](http://mp.weixin.qq.com/s?__biz=MzAxNTE2MjcxNw==&mid=201636651&idx=1&sn=4309ec70084c48707e37a80db9edd72c&scene=1#rd)
+
+[【群沙龙预告】斯坦福、谷歌、百度、阿里人工智能顶级专家，探讨未来5年产业机会](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207853659&idx=1&sn=63f0ab7a08e886f43c08eb62fea217a5&scene=1#rd)
+
+[【会议】ACPR 2015 – KUALA LUMPUR, MALAYSIA](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207853659&idx=2&sn=337ddbaddd05f12724e4d1b5323e677b&scene=1#rd)
+
+[【研究】A Review of Classic Edge Detectors](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207853659&idx=3&sn=2e2efef6cf69f37ac7db927a6ad2b0e5&scene=1#rd)
+
+[【推荐】无人驾驶 极速而来（ICT创业沙龙第31期）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207853659&idx=4&sn=0ebb171b5c164793689aa6a651c65986&scene=1#rd)
+
+[【汇总】20150627人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207703412&idx=4&sn=4a03ada1082a32c575e8d9e599b4be5a&scene=1#rd)
+
+### 2015-06-28
+
+[【群沙龙预告】斯坦福、谷歌、百度、阿里人工智能顶级专家，探讨未来5年产业机会](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207885853&idx=1&sn=82399387abcd46941e376ddb11732408&scene=1#rd)
+
+[【学习】泥沙龙笔记：把酒话桑麻，聊聊 NLP 工业研发的掌故](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207885853&idx=2&sn=23f5b09250a65878b620eb1788bc1e88&scene=1#rd)
+
+[【研究】The Ebb & Flow of Deep Learning: a Theory of Local Learning](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207885853&idx=3&sn=947cef4a9c06be11519d34481e0b85ef&scene=1#rd)
+
+[【推荐】数据挖掘十大算法之贝叶斯分类算法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207885853&idx=4&sn=351eba084cdd778602dbf78a00cfef53&scene=1#rd)
+
+[【汇总】20150628人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207740193&idx=4&sn=68258f73989d05c4b3c5bb3cf4b6af05&scene=1#rd)
+
+
 
