@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  斯坦福、谷歌、百度、阿里人工智能顶级专家，探讨未来5年产业机会微信讲座实录
+title:  ［转］斯坦福、谷歌、百度、阿里人工智能顶级专家，探讨未来5年产业机会微信讲座实录
 date:   2015-06-28
 categories:  record
-published: false
+published: true
 author: wubin
 
 ---
 
+>本文转发自机器学习研究会微信公众号发的“[【20150628群沙龙完整版】斯坦福、谷歌、百度、阿里人工智能顶级专家，探讨未来5年产业机会][1]”的文章。下面内容是个人整理。更加详细的资料请查看官方的帖子。
 ## 嘉宾介绍
 
 1）李飞飞：
@@ -382,4 +383,4 @@ author: wubin
 雷鸣：那就到此结束，谢谢几位嘉宾了！
 
 
-
+[1]: http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207938216&idx=1&sn=6e27cac8b39438d56634c5081eb72c9a&scene=1#rd

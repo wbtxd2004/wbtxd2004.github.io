@@ -414,5 +414,30 @@ categories:  LearningMaterials
 
 [【汇总】20150628人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207740193&idx=4&sn=68258f73989d05c4b3c5bb3cf4b6af05&scene=1#rd)
 
+### 2015-06-29
+
+[【20150628群沙龙完整版】斯坦福、谷歌、百度、阿里人工智能顶级专家，探讨未来5年产业机会](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207938216&idx=1&sn=6e27cac8b39438d56634c5081eb72c9a&scene=1#rd)
+
+[【学习】Deep down the rabbit hole: CVPR 2015 and beyond](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207938216&idx=2&sn=a17db9af2bb3a49782cb12517f511a63&scene=1#rd)
+
+[【研究】Smelly Maps: The Digital Life of Urban Smellscapes](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207938216&idx=3&sn=a29aef71c91ce0a44c6abb13e7c54e6a&scene=1#rd)
+
+[【推荐】需求与匹配 从数据挖掘角度看世纪佳缘推荐系统](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207938216&idx=4&sn=969db4ca2ae8c142bf686bc66ef81ad4&scene=1#rd)
+
+[【汇总】20150629人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207794391&idx=4&sn=dc3b65366272d3076b7b7c02098526e4&scene=1#rd)
+
+### 2015-06-30
+
+[【干货】8个最好的机器学习速查表（Cheat Sheets）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208002779&idx=1&sn=ed6f275a135ab2aaf401219358c41108&scene=1#rd)
+
+[【学习】深度学习之神经网络与支持向量机](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208002779&idx=2&sn=709e17cb42c02e9dc69ec85fa885f027&scene=1#rd)
+
+[【研究】Adam：大规模分布式机器学习框架](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208002779&idx=3&sn=a8cd425eca95b2b67e78b57ad9d21b64&scene=1#rd)
+
+[【推荐】大数据落地进行时 从概念化走向价值化](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208002779&idx=4&sn=8e2feb6cc2215d0325084a04623fb9aa&scene=1#rd)
+
+[【汇总】20150630人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207894222&idx=4&sn=60a0f22d8d543217ea7c720b1edfb123&scene=1#rd)
+
+
 
 

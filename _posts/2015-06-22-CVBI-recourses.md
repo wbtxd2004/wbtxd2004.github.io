@@ -18,3 +18,7 @@ author: wubin
 
 [如何看待 2014 年以来计算机视觉（Computer Vi...](http://www.zhihu.com/question/31430100/answer/52065846)
 
+### 2015-06-29
+
+[Editor: COS访谈第十八期：陈天奇 | 统计之都 (中国统计学门户网站，免费统计学服务平台)](http://cos.name/2015/06/interview-of-tianqi/)
+
