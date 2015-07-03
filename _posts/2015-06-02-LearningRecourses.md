@@ -439,5 +439,30 @@ categories:  LearningMaterials
 [【汇总】20150630人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207894222&idx=4&sn=60a0f22d8d543217ea7c720b1edfb123&scene=1#rd)
 
 
+### 2015-07-01
+
+[【干货】Critique of Paper by "Deep Learning Conspiracy"](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208068219&idx=1&sn=708571b6b05b9a805f2b53b380b5535c&scene=1#rd)
+
+[【学习】Identify students at risk for dropping out of online courses](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208068219&idx=2&sn=45f0714355f1b68b6a13356cd989b149&scene=1#rd)
+
+[【研究】朋友与相似关系的大数据验证](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208068219&idx=3&sn=758bac08e3075d1e4c13a14b33f71eeb&scene=1#rd)
+
+[【推荐】Deep Learning Workshop, ICML'15](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208068219&idx=4&sn=548d192adf0cc47a67859ccf0bda8887&scene=1#rd)
+
+[【汇总】20150701人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=207968340&idx=4&sn=e4b9bdc16b14037cdb891401f4b57a14&scene=1#rd)
+
+### 2015-07-02
+
+[【干货】Awesome Deep Vision](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208125044&idx=1&sn=00d78219be427d9614646ebffc4510db&scene=1#rd)
+
+[【学习】常用的开源中文分词工具](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208125044&idx=2&sn=8835c96808d08df9f646164b0707f9c3&scene=1#rd)
+
+[【研究】K-means聚类算法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208125044&idx=3&sn=0f52aa01a6e4c4afafe115df4bb5c5ad&scene=1#rd)
+
+[【推荐】一个类似Hacker News的深度学习分享社区](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208125044&idx=4&sn=0cc68e5aad8bb9a5d59b63e1c84d0bfb&scene=1#rd)
+
+[【汇总】20150702人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208030314&idx=4&sn=23be2bb125e995253217c0ece0386614&scene=1#rd)
+
+
 
 
