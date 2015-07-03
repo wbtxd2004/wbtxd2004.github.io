@@ -20,5 +20,5 @@ author: wubin
 
 ### 2015-06-29
 
-[Editor: COS访谈第十八期：陈天奇 | 统计之都 (中国统计学门户网站，免费统计学服务平台)](http://cos.name/2015/06/interview-of-tianqi/)
+[Editor: COS访谈第十八期：陈天奇-统计之都 (中国统计学门户网站，免费统计学服务平台)](http://cos.name/2015/06/interview-of-tianqi/)
 
