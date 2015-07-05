@@ -22,3 +22,7 @@ author: wubin
 
 [Editor: COS访谈第十八期：陈天奇-统计之都 (中国统计学门户网站，免费统计学服务平台)](http://cos.name/2015/06/interview-of-tianqi/)
 
+### 2015-07-05
+
+[向死而生－李开复](http://mp.weixin.qq.com/s?__biz=MjM5NzMyODA2MQ==&mid=211448006&idx=1&sn=e14100002b4d852295db7c4232c07889&scene=5#rd)
+
