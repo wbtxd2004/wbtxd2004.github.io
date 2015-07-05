@@ -492,6 +492,19 @@ author: wubin
 
 [【汇总】20150704人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208145233&idx=4&sn=367dbf2a6953e685b8c593b1e5248b26&scene=1#rd)
 
+### 2015-07-05
+
+[【上周精华版】诺亚方舟实验室李航：深度学习还局限在复杂的模式识别上等19篇](http://mp.weixin.qq.com/s?__biz=MzAxNTE2MjcxNw==&mid=207833520&idx=1&sn=7261a588e172d173a8baf88c7c719216&scene=5#rd)
+
+[【干货】 机器学习，神经网络在控制科学中的前景和应用大吗？为什么？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208234797&idx=1&sn=598b277c5b0a3c24975162c5ea165915&scene=1#rd)
+
+[【学习】基于深层神经网络的命名实体识别技术]( http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208234797&idx=2&sn=fb1faefc1eecb75161ab68f7bdf41ac6&scene=1#rd)
+
+[【研究】Interactive Deep Neural Net Hallucinations (+source code)](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208234797&idx=3&sn=e83ff6636d16285548c42667588e7983&scene=1#rd)
+
+[【推荐】邢波老师致广大学员的一封信](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208234797&idx=4&sn=52f1c0121d59d30f657c476bef9a28be&scene=1#rd)
+
+[【汇总】20150705人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208184258&idx=4&sn=3ffa53409c26e76611fbdfda9c9c6778&scene=1#rd)
 
 
 
