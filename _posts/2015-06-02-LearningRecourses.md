@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  深度学习资源汇总
-date:   2015-06-02
+date:   2015-07-04
 categories:  LearningMaterials
+published: true
+author: wubin
 
 ---
 
@@ -462,6 +464,33 @@ categories:  LearningMaterials
 [【推荐】一个类似Hacker News的深度学习分享社区](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208125044&idx=4&sn=0cc68e5aad8bb9a5d59b63e1c84d0bfb&scene=1#rd)
 
 [【汇总】20150702人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208030314&idx=4&sn=23be2bb125e995253217c0ece0386614&scene=1#rd)
+
+### 2015-07-03
+
+[【干货】 2015年第二届中国可视化与可视分析大会](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208165107&idx=1&sn=ea01e2b3532a0e35b7edc8f0eb78f77d&scene=1#rd)
+
+[【学习】How Brain Recognizes Faces From Min Info](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208165107&idx=2&sn=cfaba381d19b2a9e4de2d77317e936df&scene=1#rd)
+
+[【研究】泥沙龙笔记：再聊乔老爷的递归陷阱](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208165107&idx=3&sn=431b14b0303f7038da3f1f1b20024e6e&scene=1#rd)
+
+[【推荐】第十届中国中文信息学会暑期学校](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208165107&idx=4&sn=694121f082532bad4709876bed01d67b&scene=1#rd)
+
+[【汇总】20150703人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208096681&idx=4&sn=cc7d14f7dc822b259871897cd84e7563&scene=1#rd)
+
+### 2015-07-04
+
+[【干货】 知识图谱研究青年学者研讨会在清华大学顺利召开](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208202817&idx=1&sn=6a25f5be30b236320fe71476b9adabf8&scene=1#rd)
+
+[【学习】QUESO (Quantification of Uncertainty for Estimation.etc](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208202817&idx=2&sn=0dbf6549399922aea5cee8163b6fd818&scene=1#rd)
+
+
+[【研究】立委NLP相关博文汇总一览](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208202817&idx=3&sn=58f90db8727703ae9c69b81199099284&scene=1#rd)
+
+
+[【推荐】诺亚方舟实验室李航：深度学习还局限在复杂的模式识别上](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208202817&idx=4&sn=4f34d6157b5eead3a4e6f53bfa7c7c32&scene=1#rd)
+
+
+[【汇总】20150704人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208145233&idx=4&sn=367dbf2a6953e685b8c593b1e5248b26&scene=1#rd)
 
 
 
