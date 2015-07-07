@@ -26,3 +26,7 @@ author: wubin
 
 [向死而生－李开复](http://mp.weixin.qq.com/s?__biz=MjM5NzMyODA2MQ==&mid=211448006&idx=1&sn=e14100002b4d852295db7c4232c07889&scene=5#rd)
 
+### 2015-07-06
+
+[这才是无人机，这才是飞行器，大疆之类真的弱爆了！](http://mp.weixin.qq.com/s?__biz=MzA5NjI2OTM4NA==&mid=207822154&idx=1&sn=642d95687fa7ce961be205ad1e6d01f1&scene=1#rd)
+

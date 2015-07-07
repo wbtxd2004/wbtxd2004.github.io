@@ -506,5 +506,17 @@ author: wubin
 
 [【汇总】20150705人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208184258&idx=4&sn=3ffa53409c26e76611fbdfda9c9c6778&scene=1#rd)
 
+### 2015-07-06
+
+[【干货】 Introduction to Machine Learning](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208273452&idx=1&sn=e53c513d0f6812287099e399e2213978&scene=1#rd)
+
+[【学习】主题模型及其变种的实现代码汇总](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208273452&idx=2&sn=a973d35e3b7c75c2c522ed65148ab96a&scene=1#rd)
+
+[【研究】三个理由：为什么“百度深度语音识别技术超越Google和苹果”的说法不靠谱](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208273452&idx=3&sn=39e468a4508874430c1078024e88af98&scene=1#rd)
+
+[【推荐】猜你喜欢-----推荐系统原理介绍](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208273452&idx=4&sn=da7caa4a56161ea1ee6cb6f273da0d56&scene=1#rd)
+
+[【汇总】20150706人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208229243&idx=4&sn=42a361fb54a9c3f9c0a228462237d296&scene=1#rd)
+
 
 
