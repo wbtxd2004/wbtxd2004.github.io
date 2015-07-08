@@ -518,5 +518,17 @@ author: wubin
 
 [【汇总】20150706人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208229243&idx=4&sn=42a361fb54a9c3f9c0a228462237d296&scene=1#rd)
 
+### 2015-07-07
+
+[【干货】机器学习和统计模型的差异](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208318288&idx=1&sn=8ad0f297b9bb24dbbcb3db0ac42427c1&scene=1#rd)
+
+[【学习】给计算机“大脑”全新的“思维”](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208318288&idx=2&sn=1505051ba55351a14cb19c9484b39a24&scene=1#rd)
+
+[【研究】针对光照变化的人脸识别算法研究](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208318288&idx=3&sn=5ed899513f66471222150e119784b56b&scene=1#rd)
+
+[【推荐】数据挖掘研究方向、热点以及对大数据研究的认识](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208318288&idx=4&sn=7ba7ddd45851253d21747bd1dc7cf1e1&scene=1#rd)
+
+[【汇总】20150707人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208264180&idx=4&sn=46d9363db48bfeda87077cdac5f40a56&scene=1#rd)
+
 
 
