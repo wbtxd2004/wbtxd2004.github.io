@@ -46,6 +46,7 @@ cd $CAFFE_ROOT
 ```
 caffe train --solver=examples/cifar10/cifar10_full_solver.prototxt
 ```
+
 这个命令。
 这个*.solver_prototxt的内容是：
 
