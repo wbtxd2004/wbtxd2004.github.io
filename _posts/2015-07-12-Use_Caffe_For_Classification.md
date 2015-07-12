@@ -80,50 +80,50 @@ LMDB的全称是Lightning Memory-Mapped Database，闪电般的内存映射数�
 
 训练好模型后，下一步就是使用训练好的模型对图像进行分类了，在这里主要有两种方式，一种是基于python的，一种是C++的，我现在正在看这两部分的代码，有点复杂。
 
-1. 使用caffe提供的classify.py代码对图像进行分类。这一部分主要是参照参考资料5以及自己看代码。
- * 修改参数
+1.	使用caffe提供的classify.py代码对图像进行分类。这一部分主要是参照参考资料5以及自己看代码。
   
-  将参数中的"--model_def"的值改为网络结构的prototxt，例如我是这样改的：
+	* 修改参数
   
-    parser.add_argument(
+	将参数中的"--model_def"的值改为网络结构的prototxt，例如我是这样改的：
+  
+		parser.add_argument(
         "--model_def",
         default=os.path.join(pycaffe_dir,
                 "../../examples/cifar10/cifar10_full_train_test.prototxt"),
         help="Model definition file."
-    )
+    	)
   
-  将参数pretrained_model改为之前训练好的参数文件，例如我是这样改的：
-  
-    parser.add_argument(
+	将参数pretrained_model改为之前训练好的参数文件，例如我是这样改的：
+
+		parser.add_argument(
         "--pretrained_model",
         default=os.path.join(pycaffe_dir,
                 "../../examples/cifar10/cifar10_full_iter_70000.caffemodel"),
         help="Trained model weights file."
-    )
+        )
 
-  
- * 执行命令
- 
- 进入终端，切换到caffe的跟目录，执行命令。
- 
-    cd $CAFFE_ROOT
- 
-    python examples/cifar10/python/classifytest.py\
-    examples/cifar10/classify/cat.jpg\
-    output
- 
- 程序运行结束后，会生成output.npy文件，里面是分类结果。但是现在这个功能不完善，只是提供一个正确率，所以需要进一步的改进。
-
-2. 使用caffe提供的classification.cpp程序对图像进行分类，这一部分主要参照参考资料6，这一部分没有测试，正在看代码，下一步就是测试。
- 
- 在参考资料中，用到的代码如下：
+	* 执行命令
 	
-    ./build/examples/cpp_classification/classification.bin \ models/bvlc_reference_caffenet/deploy.prototxt \ models/bvlc_reference_caffenet/bvlc_reference_caffenet.caffemodel \ data/ilsvrc12/imagenet_mean.binaryproto \ data/ilsvrc12/synset_words.txt \ examples/images/cat.jpg
+	进入终端，切换到caffe的跟目录，执行命令。
+	
+ 
+		cd $CAFFE_ROOT
 
+		python examples/cifar10/python/classifytest.py\
+		examples/cifar10/classify/cat.jpg\
+		output
  
- 可以借鉴。
+	程序运行结束后，会生成output.npy文件，里面是分类结果。但是现在这个功能不完善，只是提供一个正确率，所以需要进一步的改进.
  
-3. 使用自己设计的代码进行分类，这一部分可以参照参考资料3，我现在还没有详细的做，先把1和2看明白了再说吧。
+2.	使用caffe提供的classification.cpp程序对图像进行分类，这一部分主要参照参考资料6，这一部分没有测试，正在看代码，下一步就是测试。
+ 
+	在参考资料中，用到的代码如下：
+	
+		./build/examples/cpp_classification/classification.bin \ models/bvlc_reference_caffenet/deploy.prototxt \ models/bvlc_reference_caffenet/bvlc_reference_caffenet.caffemodel \ data/ilsvrc12/imagenet_mean.binaryproto \ data/ilsvrc12/synset_words.txt \ examples/images/cat.jpg
+ 
+	可以借鉴。
+ 
+3.	使用自己设计的代码进行分类，这一部分可以参照参考资料3，我现在还没有详细的做，先把1和2看明白了再说吧。
 
 之前使用python的方式（第一种），参照参考资料5对测试图片进行了分类，不过效果很不明显，分类成功率只有17%，目前正处在一个纠错的过程中。分类结果如图所示：
 <img src="{{site.baseurl}}/images/post/2015-07-12/caffe_classification.png" width="600"/>
