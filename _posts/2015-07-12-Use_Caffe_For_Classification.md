@@ -36,47 +36,41 @@ LMDB的全称是Lightning Memory-Mapped Database，闪电般的内存映射数�
 
 在训练的过程中，只要使用对应的model对测试集进行训练就好了。
 
-```
-cd $CAFFE_ROOT
-./examples/cifar10/train_full.sh
-```
+    cd $CAFFE_ROOT
+    ./examples/cifar10/train_full.sh
 
 通过阅读“train_full.sh”，可以知道脚本主要使用了
 
-```
-caffe train --solver=examples/cifar10/cifar10_full_solver.prototxt
-```
+    caffe train --solver=examples/cifar10/cifar10_full_solver.prototxt
 
 这个命令。
 这个*.solver_prototxt的内容是：
 
-```
-# reduce learning rate after 120 epochs (60000 iters) by factor 0f 10                                               
-# then another factor of 10 after 10 more epochs (5000 iters)
-# The train/test net protocol buffer definition
-net: "examples/cifar10/cifar10_full_train_test.prototxt"
-# test_iter specifies how many forward passes the test should carry out.
-# In the case of CIFAR10, we have test batch size 100 and 100 test iterations,
-# covering the full 10,000 testing images.
-test_iter: 100
-# Carry out testing every 1000 training iterations.
-test_interval: 1000
-# The base learning rate, momentum and the weight decay of the network.
-base_lr: 0.001
-momentum: 0.9
-weight_decay: 0.004
-# The learning rate policy
-lr_policy: "fixed"
-# Display every 200 iterations
-display: 200
-# The maximum number of iterations
-max_iter: 60000
-# snapshot intermediate results
-snapshot: 10000
-snapshot_prefix: "examples/cifar10/cifar10_full"
-# solver mode: CPU or GPU
-solver_mode: GPU
-```
+    # reduce learning rate after 120 epochs (60000 iters) by factor 0f 10                                               
+    # then another factor of 10 after 10 more epochs (5000 iters)
+    # The train/test net protocol buffer definition
+    net: "examples/cifar10/cifar10_full_train_test.prototxt"
+    # test_iter specifies how many forward passes the test should carry out.
+    # In the case of CIFAR10, we have test batch size 100 and 100 test iterations,
+    # covering the full 10,000 testing images.
+    test_iter: 100
+    # Carry out testing every 1000 training iterations.
+    test_interval: 1000
+    # The base learning rate, momentum and the weight decay of the network.
+    base_lr: 0.001
+    momentum: 0.9
+    weight_decay: 0.004
+    # The learning rate policy
+    lr_policy: "fixed"
+    # Display every 200 iterations
+    display: 200
+    # The maximum number of iterations
+    max_iter: 60000
+    # snapshot intermediate results
+    snapshot: 10000
+    snapshot_prefix: "examples/cifar10/cifar10_full"
+    # solver mode: CPU or GPU
+    solver_mode: GPU
 
 可以看出来这是一个网络的配置文件，首先设定了训练和测试的网络结构“examples/cifar10/cifar10\_full\_train\_test.prototxt”,其次设定了迭代次数、学习率、动量和权重衰减值等。
 对于训练网络的设定，可以看之前在github上的总结。
@@ -91,14 +85,12 @@ solver_mode: GPU
   
   将参数中的"--model_def"的值改为网络结构的prototxt，例如我是这样改的：
   
- ```
-   parser.add_argument(
+    parser.add_argument(
         "--model_def",
         default=os.path.join(pycaffe_dir,
                 "../../examples/cifar10/cifar10_full_train_test.prototxt"),
         help="Model definition file."
-)
- ```
+    )
   
   将参数pretrained_model改为之前训练好的参数文件，例如我是这样改的：
   
