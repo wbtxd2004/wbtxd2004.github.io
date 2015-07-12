@@ -2,7 +2,7 @@
 layout: post
 category: 分享
 title:  实验室郑老师分享资料
-date:   2015-06-22
+date:   2015-07-12
 tagline: by WuBin 武斌
 tags: [CVBI, DeepLearning]
 published: true
@@ -30,4 +30,8 @@ author: wubin
 ### 2015-07-06
 
 [这才是无人机，这才是飞行器，大疆之类真的弱爆了！](http://mp.weixin.qq.com/s?__biz=MzA5NjI2OTM4NA==&mid=207822154&idx=1&sn=642d95687fa7ce961be205ad1e6d01f1&scene=1#rd)
+
+### 2015-07-12
+
+[深度学习史上最全总结（文末有福利）](http://mp.weixin.qq.com/s?__biz=MzA5Njc1NjMzMw==&mid=206472535&idx=1&sn=61650b3d845d708ca776ce4c735311b1&scene=1#rd)
 

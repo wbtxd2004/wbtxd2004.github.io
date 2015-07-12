@@ -534,5 +534,53 @@ published: true
 
 [【汇总】20150707人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208264180&idx=4&sn=46d9363db48bfeda87077cdac5f40a56&scene=1#rd)
 
+### 2015-07-08
+
+[【干货】贾扬清：希望Caffe成为深度学习领域的Hadoop](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208336437&idx=1&sn=3f58e930b16acaaa81746640cad78d9d&scene=1#rd)
+
+[【推荐】不是BAT怎么迈向超级智能？——深度学习XSystem平台让创新者大有可为](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208336437&idx=4&sn=b0a517360e060e5049165cc6d4934129&scene=1#rd)
+
+[【学习】推荐系统－实战总结](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208336437&idx=2&sn=b5a09da8317c74538ea9c1ed635254f9&scene=1#rd)
+
+### 2015-07-09
+
+[【干货】深度学习成长的烦恼](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208352839&idx=1&sn=42b99ea6a1109c059d97031490f5bb42&scene=1#rd)
+
+[【学习】Social Media & Text Analytics](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208352839&idx=2&sn=3ad6a859cb2cb692747417a052bcb082&scene=1#rd)
+
+[【研究】Easy Multi-GPU Deep Learning with DIGITS 2](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208352839&idx=3&sn=f7305f23b73a1807740ebc99d7e48b49&scene=1#rd)
+
+[【推荐】Top YouTube Videos on Machine Learning & Deep Learning](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208352839&idx=4&sn=a0ec418639fbb7feb20ce43c21d37122&scene=1#rd)
+
+[【汇总】20150709人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208299396&idx=4&sn=23c4f4da79cbe61d263395bf78fe79cf&scene=1#rd)
+
+### 2015-07-10
+
+[【预告】汽车自己开、机器人遍地跑？—谷歌大疆等专家高管巅峰对话](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208364782&idx=1&sn=bc150cfaf56e4ad2cd4aaa33c3c36c14&scene=1#rd)
+
+[【研究】图像视觉各个领域文献目录](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208364782&idx=2&sn=bfd3f58823db0b142882450157098722&scene=1#rd)
+
+[【学习】Airbnb如何设计机器学习模型](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208364782&idx=3&sn=7627998cdd71ce66c10766515ff62336&scene=1#rd)
+
+[【推荐】百度高校技术汇：语音技术部&深度学习研究]( http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208364782&idx=4&sn=eca8cfee3ee9b2f86a7f92f1d0b5ebab&scene=1#rd)
+
+[【汇总】20150710人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208321245&idx=4&sn=b2f31ddf6bd41705bcf9156b3a212f85&scene=1#rd)
+
+[深度学习史上最全总结（文末有福利）](http://mp.weixin.qq.com/s?__biz=MzA5Njc1NjMzMw==&mid=206472535&idx=1&sn=61650b3d845d708ca776ce4c735311b1&scene=1#rd)
+
+### 2015-07-11
+
+[【点击进入】汽车自己开、机器人遍地跑？—谷歌大疆等专家高管巅峰对话](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208380232&idx=1&sn=cd4c1d76afd91b1fcd43e3f9ed63a4ef&scene=1#rd)
+
+[【研究】在线教育领域的机器学习应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208380232&idx=2&sn=be67365c528324f8bab8614c4b0fd30f&scene=1#rd)
+
+[【学习】借助亚马逊S3和RapidMiner将机器学习应用到文本挖掘](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208380232&idx=3&sn=32c29f3ff4bad59fbd8e18c9ea14391c&scene=1#rd)
+
+[【推荐】语义分析对金融大数据的影响](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208380232&idx=4&sn=0250d134250a6350c9fa1defb70ab5bb&scene=1#rd)
+
+[【汇总】20150711人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208368328&idx=4&sn=1e33b50a00394fedd81be72eea5c359c&scene=1#rd)
+
+### 2015-07-12
+
 
 
