@@ -91,19 +91,18 @@ solver_mode: GPU
   
   将参数中的"--model_def"的值改为网络结构的prototxt，例如我是这样改的：
   
-  ```
+ ```
    parser.add_argument(
         "--model_def",
         default=os.path.join(pycaffe_dir,
                 "../../examples/cifar10/cifar10_full_train_test.prototxt"),
         help="Model definition file."
 )
-
-  ```
+ ```
   
   将参数pretrained_model改为之前训练好的参数文件，例如我是这样改的：
   
-  ```
+ ```
    parser.add_argument(
         "--pretrained_model",
         default=os.path.join(pycaffe_dir,
@@ -111,7 +110,7 @@ solver_mode: GPU
         help="Trained model weights file."
 )
 
-  ```
+ ```
   
  * 执行命令
  
