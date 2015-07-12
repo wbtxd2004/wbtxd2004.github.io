@@ -102,29 +102,23 @@ solver_mode: GPU
   
   将参数pretrained_model改为之前训练好的参数文件，例如我是这样改的：
   
- ```
-   parser.add_argument(
+    parser.add_argument(
         "--pretrained_model",
         default=os.path.join(pycaffe_dir,
                 "../../examples/cifar10/cifar10_full_iter_70000.caffemodel"),
         help="Trained model weights file."
-)
+    )
 
- ```
   
  * 执行命令
  
  进入终端，切换到caffe的跟目录，执行命令。
  
- ```
- cd $CAFFE_ROOT
- ```
+    cd $CAFFE_ROOT
  
- ```
- python examples/cifar10/python/classifytest.py\
- examples/cifar10/classify/cat.jpg\
- output
- ```
+    python examples/cifar10/python/classifytest.py\
+    examples/cifar10/classify/cat.jpg\
+    output
  
  程序运行结束后，会生成output.npy文件，里面是分类结果。但是现在这个功能不完善，只是提供一个正确率，所以需要进一步的改进。
 
