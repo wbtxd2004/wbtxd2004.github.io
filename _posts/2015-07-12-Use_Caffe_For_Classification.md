@@ -53,7 +53,6 @@ caffe train --solver=examples/cifar10/cifar10_full_solver.prototxt
 ```
 # reduce learning rate after 120 epochs (60000 iters) by factor 0f 10                                               
 # then another factor of 10 after 10 more epochs (5000 iters)
- 
 # The train/test net protocol buffer definition
 net: "examples/cifar10/cifar10_full_train_test.prototxt"
 # test_iter specifies how many forward passes the test should carry out.
