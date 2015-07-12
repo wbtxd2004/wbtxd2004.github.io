@@ -42,6 +42,7 @@ cd $CAFFE_ROOT
 ```
 
 通过阅读“train_full.sh”，可以知道脚本主要使用了
+
 ```
 caffe train --solver=examples/cifar10/cifar10_full_solver.prototxt
 ```
@@ -49,33 +50,34 @@ caffe train --solver=examples/cifar10/cifar10_full_solver.prototxt
 这个*.solver_prototxt的内容是：
 
 ```
- # reduce learning rate after 120 epochs (60000 iters) by factor 0f 10                                               
- # then another factor of 10 after 10 more epochs (5000 iters)
+# reduce learning rate after 120 epochs (60000 iters) by factor 0f 10                                               
+# then another factor of 10 after 10 more epochs (5000 iters)
  
- # The train/test net protocol buffer definition
- net: "examples/cifar10/cifar10_full_train_test.prototxt"
- # test_iter specifies how many forward passes the test should carry out.
- # In the case of CIFAR10, we have test batch size 100 and 100 test iterations,
- # covering the full 10,000 testing images.
- test_iter: 100
- # Carry out testing every 1000 training iterations.
- test_interval: 1000
- # The base learning rate, momentum and the weight decay of the network.
- base_lr: 0.001
- momentum: 0.9
- weight_decay: 0.004
- # The learning rate policy
- lr_policy: "fixed"
- # Display every 200 iterations
- display: 200
- # The maximum number of iterations
- max_iter: 60000
- # snapshot intermediate results
- snapshot: 10000
- snapshot_prefix: "examples/cifar10/cifar10_full"
- # solver mode: CPU or GPU
- solver_mode: GPU
+# The train/test net protocol buffer definition
+net: "examples/cifar10/cifar10_full_train_test.prototxt"
+# test_iter specifies how many forward passes the test should carry out.
+# In the case of CIFAR10, we have test batch size 100 and 100 test iterations,
+# covering the full 10,000 testing images.
+test_iter: 100
+# Carry out testing every 1000 training iterations.
+test_interval: 1000
+# The base learning rate, momentum and the weight decay of the network.
+base_lr: 0.001
+momentum: 0.9
+weight_decay: 0.004
+# The learning rate policy
+lr_policy: "fixed"
+# Display every 200 iterations
+display: 200
+# The maximum number of iterations
+max_iter: 60000
+# snapshot intermediate results
+snapshot: 10000
+snapshot_prefix: "examples/cifar10/cifar10_full"
+# solver mode: CPU or GPU
+solver_mode: GPU
 ```
+
 可以看出来这是一个网络的配置文件，首先设定了训练和测试的网络结构“examples/cifar10/cifar10\_full\_train\_test.prototxt”,其次设定了迭代次数、学习率、动量和权重衰减值等。
 对于训练网络的设定，可以看之前在github上的总结。
 
@@ -98,6 +100,7 @@ caffe train --solver=examples/cifar10/cifar10_full_solver.prototxt
 )
 
   ```
+  
   将参数pretrained_model改为之前训练好的参数文件，例如我是这样改的：
   
   ```
@@ -123,6 +126,7 @@ caffe train --solver=examples/cifar10/cifar10_full_solver.prototxt
  examples/cifar10/classify/cat.jpg\
  output
  ```
+ 
  程序运行结束后，会生成output.npy文件，里面是分类结果。但是现在这个功能不完善，只是提供一个正确率，所以需要进一步的改进。
 
 2. 使用caffe提供的classification.cpp程序对图像进行分类，这一部分主要参照参考资料6，这一部分没有测试，正在看代码，下一步就是测试。
@@ -132,6 +136,7 @@ caffe train --solver=examples/cifar10/cifar10_full_solver.prototxt
  ```
  ./build/examples/cpp_classification/classification.bin \ models/bvlc_reference_caffenet/deploy.prototxt \ models/bvlc_reference_caffenet/bvlc_reference_caffenet.caffemodel \ data/ilsvrc12/imagenet_mean.binaryproto \ data/ilsvrc12/synset_words.txt \ examples/images/cat.jpg
  ```
+ 
  可以借鉴。
  
 3. 使用自己设计的代码进行分类，这一部分可以参照参考资料3，我现在还没有详细的做，先把1和2看明白了再说吧。
