@@ -1,11 +1,15 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: about
+title: About Me
+header: About Me
+group: navigation
 ---
 
-This is the Jekyll theme that changed by wubin. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+##1. 个人信息
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+ * **Name:** WuBin
+ * **Email:** [wbtxd2004@gmail.com](mailto:wbtxd2004@gmail.com)
+ * **Github:** [wbtxd2004](https://github.com/wbtxd2004)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+##2. 项目经历

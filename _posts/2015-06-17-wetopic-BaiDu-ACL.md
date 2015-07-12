@@ -1,14 +1,17 @@
 ---
 layout: post
+category: 分享
 title:  ACL主席王海峰和百度巨牛们探讨NLP的挑战和未来(微信讲座文字版)
 date:   2015-06-17 23:26:05
-categories: record
+tagline: by WuBin 武斌
+tags: [DeepLearning, weichat, BaiDu, NLP]
 published: false
 author: wubin
 
 ---
+微信讲座-ACL主席王海峰和百度巨牛们探讨NLP的挑战和未来
 
-# 微信讲座-ACL主席王海峰和百度巨牛们探讨NLP的挑战和未来
+<!--more-->
 
 ## 嘉宾：
 1. 王海峰

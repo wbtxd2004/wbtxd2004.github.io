@@ -2,11 +2,16 @@
 layout: post
 title:  深度学习-认识深度学习的大牛们
 date:   2015-06-25
-categories:  DL
+category: Deep Learning
+tagline: by WuBin 武斌
+tags: [DeepLearning]
 published: true
 author: wubin
 
 ---
+简单介绍深度学习历史上的几位有名的学者以及他们之间的一些关系和轶事。
+
+<!--more-->
 
 >本文是根据刘小兵的帖子[“深度学习之江湖~那些大神们”][1]学习改动而来的，他讲的比较幽默风趣，而且让我获得知识，感谢他。
 

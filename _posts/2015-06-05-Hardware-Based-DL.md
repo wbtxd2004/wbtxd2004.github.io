@@ -1,12 +1,16 @@
 ---
 layout: post
+category: 杂谈
 title:  基于深度学习的装机配置单(手动整理)
 date:   2015-06-05
-categories:  杂谈
-published: true
+tagline: by WuBin 武斌
+tags: [DeepLearning, Computer DIV, caffe]
 author: wubin
-
+published: true
 ---
+一份为了学习和使用caffe所设计深度学习装机配置单，仅供参考。
+
+<!--more-->
 
 #基于深度学习的装机配置单#
 
@@ -73,13 +77,13 @@ author: wubin
 		参考报价： 4799 RMB
 		
 		
-4. 内存：2个[海盗船32GB DDR4 2400 统治者铂金](http://detail.zol.com.cn/memory/index401681.shtml)官网型号[CMD32GX4M4A2400C14](http://www.corsair.com/zh-cn/dominator-platinum-series-32gb-4-x-8gb-ddr4-dram-2400mhz-c14-memory-kit-cmd32gx4m4a2400c14)
+4. 内存：2个[海盗船32GB DDR4 2666 统治者铂金 CMD32GX4M4A2666C16)](http://www.corsair.com/zh-cn/dominator-platinum-series-32gb-4-x-8gb-ddr4-dram-2666mhz-c16-memory-kit-cmd32gx4m4a2666c16)
 		
 		内存容量：套装（4×8GB）
 		内存类型：DDR4
-		内存主频：2400MHz
+		内存主频：2666MHz
 		针脚数：288pin
-		参考报价：5899*2=11798 RMB
+		参考报价：5000*2=10000 RMB
 		
 5. 硬盘: 3个 [西部数据4TB ](http://detail.zol.com.cn/hard_drives/index368122.shtml)  组RAID5
 		
@@ -91,9 +95,9 @@ author: wubin
 		其他：黑盘（WD4003FZEX）
 		参考报机：1799*3=5397 RMB
 				
-6. 固态硬盘For RAID：1个[浦科特PX-G512M6e（512GB）](http://detail.zol.com.cn/solid_state_drive/index383241.shtml)PCI-E M.2 SSD cache for RAID，Intel RST in Linux技术  
+6. 固态硬盘For RAID：1个[浦科特PX-G512M6e（512GB）](http://detail.zol.com.cn/solid_state_drive/index383241.shtml)或者[三星SSD SM951](http://detail.zol.com.cn/395/394804/param.shtml)PCI-E M.2 SSD cache for RAID，Intel RST in Linux技术  
 		
-		参考报价：2799 RMB
+		参考报价：2799 RMB/3450RMB
 		
 6. 固态硬盘：1个 [三星SSD 850PRO （512GB） ](http://detail.zol.com.cn/solid_state_drive/index384146.shtml) 
 

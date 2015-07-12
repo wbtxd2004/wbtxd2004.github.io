@@ -1,12 +1,17 @@
 ---
 layout: post
 title:  神经网络学习笔记
+category: Machine Learning
 date:   2015-06-26
-categories:  ML
+tagline: by WuBin 武斌
+tags: [DeepLearning, Machine Learning, Neural Network]
 published: true
 author: wubin
 
 ---
+关于神经网络的学习，不定期更新中。
+
+<!--more-->
 
 ## 关于神经网络
 

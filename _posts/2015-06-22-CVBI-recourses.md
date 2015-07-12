@@ -1,16 +1,17 @@
 ---
 layout: post
+category: 分享
 title:  实验室郑老师分享资料
 date:   2015-06-22
-categories:  LearningMaterials
+tagline: by WuBin 武斌
+tags: [CVBI, DeepLearning]
 published: true
 author: wubin
 
 ---
+下面是我们实验室微信群里分享的资料，为了方便保存，在这里做一个记录。
 
-### 下面是我们实验室微信群里分享的资料，为了方便保存，在这里做一个记录。
-
-
+<!--more-->
 
 ### 2015-06-22
 

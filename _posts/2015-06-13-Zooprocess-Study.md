@@ -1,11 +1,16 @@
 ---
 layout: post
+category: Zooplankton Classification
 title:  ZooProcess的学习
 date:   2015-06-13
-categories:  ZooScan
-published: true
+tagline: by WuBin 武斌
+tags: [DeepLearning, ZooScan, zooplankton]
 author: wubin
+published: true
 ---
+用于图像分析的ZooScan系统的ZooProcess学习。
+
+<!--more-->
 #ZooProcess
 
 ##Zooprocess介绍

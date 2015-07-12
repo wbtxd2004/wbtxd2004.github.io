@@ -1,27 +1,8 @@
-<!DOCTYPE html>  
-<html>
-
-  {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-
-    <div id="main_content_wrap" class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-  <!--添加上滑效果-->
-    <script type="text/javascript" src="{{ site.baseurl }}{{ site.style }}/js/jquery-1.8.3.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}{{ site.style }}/js/jquery-scrollTo.js"></script>
-    <script type="text/javascript" src="{{ site.baseurl }}{{ site.style }}/js/common.js"></script>
-
-  <!--添加完毕-->
-
-  {% include footer.html %}
-
-  </body>
-
-</html>
+---
+theme :
+  name : Snail
+Snail :
+  about_path : /about.html
+---
+{% include JB/setup %}
+{% include themes/Snail/default.html %}
