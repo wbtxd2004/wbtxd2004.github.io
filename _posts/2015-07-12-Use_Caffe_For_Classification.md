@@ -9,6 +9,7 @@ author: wubin
 published: true
 ---
 本文主要介绍了通过caffe以及CIFAR－10数据集进行图像分类的过程。
+
 <!--more-->
 ## 创建训练集
 
