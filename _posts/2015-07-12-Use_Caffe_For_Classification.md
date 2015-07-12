@@ -14,7 +14,7 @@ published: true
 
 ## 创建训练集
 
-在测试阶段我们选择的训练集是CIFAR－10，共有60000张图像，其中有10000张为测试图像，这个分为10类,详细的介绍在戴嘉伦的github上有详细的介绍。
+在测试阶段我们选择的训练集是CIFAR-10，共有60000张图像，其中有10000张为测试图像，这个分为10类,详细的介绍在戴嘉伦的github上有详细的介绍。
 
 其实在拿到一个数据集后，一般是包含两部分的，一是图像本身，二是图像中包含label数据。有了训练集以后我们要把它转换成Caffe可以读取的数据格式，主要有Lmdb和LevelDB两种形式。
 
@@ -24,7 +24,7 @@ LMDB的全称是Lightning Memory-Mapped Database，闪电般的内存映射数�
 
 它们都是键/值对（Key/Value Pair）嵌入式数据库管理系统编程库。虽然lmdb的内存消耗是leveldb的1.1倍，但是lmdb的速度比leveldb快10%至15%，更重要的是lmdb允许多种训练模型同时读取同一组数据集。因此lmdb取代了leveldb成为Caffe默认的数据集生成格式。
 
-对于CIFAR－10数据集，Caffe通过其example下的“create\_cifar10.sh”脚本对data目录下的二进制的Cifar数据集转换成lmdb格式。其中主要用到了“convert\_cifar\_data.cpp”这个程序，这个程序目前还没有看明白。
+对于CIFAR-10数据集，Caffe通过其example下的“create\_cifar10.sh”脚本对data目录下的二进制的Cifar数据集转换成lmdb格式。其中主要用到了“convert\_cifar\_data.cpp”这个程序，这个程序目前还没有看明白。
 
 当然如果数据集是自己的数据集的话，可以通过caffe_root/examples/imagenet下的“create\_imagenet.sh”脚本将自有的图片和Label文件转化为lmdb格式，不过这个目前还在测试中。
 	
