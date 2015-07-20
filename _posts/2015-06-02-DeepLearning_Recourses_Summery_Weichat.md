@@ -581,6 +581,110 @@ published: true
 [【汇总】20150711人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208368328&idx=4&sn=1e33b50a00394fedd81be72eea5c359c&scene=1#rd)
 
 ### 2015-07-12
+ 
+[【干货】深度学习工具caffe详细安装指南](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208394781&idx=1&sn=dc6d231dbd292ae111d05f24658996c6#rd)
+
+[【学习】GPU基础算法: Reduce, Scan, Histogram](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208394781&idx=2&sn=f777710d9e4a244f5cbc947b6bec981b#rd)
+
+[【深度】Python 中的进程、线程、协程、同步、异步、回调](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208394781&idx=3&sn=e710e277b761f4168ad63a795be15f8f#rd)
+
+[【招聘】阿里旗下蚂蚁金服与猎聘网](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208394781&idx=4&sn=f6a19b76243b9a55cc292720dfb30dcd#rd)
+ 
+### 2015-07-13
+
+[【Y Bengio写的深度学习展望文章】《The Promise of Deep Learning》By Yoshua Bengio](http://asmarterplanet.com/blog/2015/07/promise-deep-learning.html)
 
 
+[【沙龙预告】汽车自己开、机器人遍地跑？—谷歌大疆等专家高管巅峰对话](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208403909&idx=1&sn=1f0fdff83e2cda4f6a5261a08449286f&scene=1#rd)
 
+[【研究】MySQL 高可用架构在业务层面的分析研究](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208403909&idx=2&sn=ca1d7e601a952890b2a55184da2fdc2a&scene=1#rd)
+
+[【学习】深度学习在不同场景下的一些挑战及解决方案](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208403909&idx=3&sn=fd24a0d771e7004b242011d16432927f&scene=1#rd)
+
+[【推荐】Airbnb数据科学家深度剖析：快速增长的背后，数据在干什么](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208403909&idx=4&sn=8538e9de21ed6a148f6409b399d5409b&scene=1#rd)
+
+[【汇总】20150713人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208405143&idx=4&sn=cd369a1601deb53a4fed0ea66ee3eb4b&scene=1#rd)
+
+
+### 2015-07-14
+
+[【干货】PayPal高级工程总监：读完这100篇论文 就能成大数据高手](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208412246&idx=1&sn=e7488609522ac1770bcf33d32f849c71&scene=1#rd)
+
+[【学习】从setTimeout谈JavaScript运行机制](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208412246&idx=2&sn=8a6876e6df0b26fc44633d72345dd175&scene=1#rd)
+
+[【研究】MySQL 调优/优化的 100 个建议](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208412246&idx=3&sn=8df7acc5ca22a213680c2416af3f5fe6&scene=1#rd)
+
+[【推荐】最牛B的编码套路](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208412246&idx=4&sn=7a739099c72a1179ec0f0e8551a2a6c8&scene=1#rd)
+
+[【汇总】20150714人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208429827&idx=4&sn=45188368571ac2189cda2010322f0d7d&scene=1#rd)
+
+### 2015-07-15
+
+[【沙龙预告】汽车自己开、机器人遍地跑？—谷歌大疆等专家高管巅峰对话](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206762231&idx=1&sn=c3e5c7c026daa6c7ed4a5e1784ab07e9&scene=1#rd)
+
+[【干货】让开发者成功玩转机器学习的十大诀窍！](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206762231&idx=2&sn=d51f50b478bf77dacff2e6699fceeeee&scene=1#rd)
+
+[【学习】深度学习在不同场景下的一些挑战及解决方案](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206762231&idx=3&sn=7c2bec6ac59198a7443cca403b4f6001&scene=1#rd)
+
+[【推荐】如何猜你喜欢——推荐系统原理介绍！](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206762231&idx=4&sn=f14df06ae64d3545a15907530e46d049&scene=1#rd)
+
+[【汇总】20150715人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206374086&idx=4&sn=ad1c433808d50d12326e4b5068146309&scene=1#rd)
+
+### 2015-07-16
+
+[【沙龙预告】汽车自己开、机器人遍地跑？—谷歌大疆等专家高管巅峰对话](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208436335&idx=1&sn=371d79a338952e5e45f77503c5231f37&scene=1#rd)
+
+[【学习】什么是高大上的数据分析方法？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208436335&idx=2&sn=cb8a7843c53a24c20a38328f5c321c0f&scene=1#rd)
+
+[【深度】大型网站系统架构的演化](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208436335&idx=3&sn=c4b5949d6cf86786d704c40c1a0955c7&scene=1#rd)
+
+[【推荐】12步轻松搞定 python 装饰器](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208436335&idx=4&sn=b78b0876e264d554d90628779ca31d22&scene=1#rd)
+
+[【汇总】20150716人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208529620&idx=4&sn=94f4397ee3cc64f5c110957d0c42b580&scene=1#rd)
+
+### 2015-07-17
+
+[【沙龙预告】汽车自己开、机器人遍地跑？—谷歌大疆等专家高管巅峰对话](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208451107&idx=1&sn=ccb59bad52fc20bd2af146a9199e1c8a&scene=1#rd)
+
+[【干货】500 行 Python 代码做一个英文解析器](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208451107&idx=2&sn=ae7342692fbc7139e7cba8702e34b68d&scene=1#rd)
+
+[【学习】神经网络训练中的Tricks之高效BP（反向传播算法）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208451107&idx=3&sn=9acb3350f96c8b08bc78991955250733&scene=1#rd)
+
+[【推荐】微博广告推荐中有关Hadoop的那些事](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208451107&idx=4&sn=af3c4c47b69b470a33a7509f0c10d029&scene=1#rd)
+
+[【汇总】20150717人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208571058&idx=4&sn=5ec5b4675aae9af28c5c41e7ce26191e&scene=1#rd)
+
+
+### 2015-07-18
+
+[【沙龙预告】汽车自己开、机器人遍地跑？—谷歌大疆等专家高管巅峰对话](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208461814&idx=1&sn=21b532a1d36be0a8157bf869c84a93f7&scene=1#rd)
+
+[【学习】解密 JavaScript 中的 this](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208461814&idx=2&sn=f237bea1dac4f7b0a907245faa9c3164&scene=1#rd)
+
+[【深度】从感知摄像机看图像识别技术的具体行业应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208461814&idx=3&sn=b00041f3d89d7a6bcb5e79b631ecf105&scene=1#rd)
+
+[【推荐】用 Python 脚本实现对 Linux 服务器的监控](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208461814&idx=4&sn=3327f6cb1b000e8991b792eeec65aeca&scene=1#rd)
+
+[【汇总】20150718人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208596175&idx=4&sn=58911a884439e4385e43b34b63091a24&scene=1#rd)
+
+[【TED视频】人工智能会给我们带来怎样的世界？](http://mp.weixin.qq.com/s?__biz=MzA5Njc1NjMzMw==&mid=206513334&idx=1&sn=7a9258caff9a14892fdbfd46afb1e1d8&scene=1#rd)
+
+[见证奇迹：人工智能“复活”蒙娜丽莎](http://mp.weixin.qq.com/s?__biz=MzA5Njc1NjMzMw==&mid=206513334&idx=2&sn=6e8551d629ea68cebab3f6da9a17d28f&scene=1#rd)
+
+
+### 2015-07-19
+
+[【沙龙预告】汽车自己开、机器人遍地跑？—谷歌大疆等专家高管巅峰对话](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208477442&idx=1&sn=1ee1d96a147ce9dbd967fa5bfc5130a2&scene=1#rd)
+
+[【干货】P2P 僵尸网络入门](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208477442&idx=2&sn=d3cc002433621c4e49970176d6fa1a79&scene=1#rd)
+
+[【学习】jQuery开发者眼中的AngularJS](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208477442&idx=3&sn=51b265171544688f126abb19f0c0f4a2&scene=1#rd)
+
+[【推荐】机器学习中的数学(1)：回归、梯度下降](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208477442&idx=4&sn=d50cc360b5f5e9f4d6f97847c5880345&scene=1#rd)
+
+[【每日资讯汇总】20150719人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208630063&idx=4&sn=cc5ee2bfc202696dcc5bd5a284998082&scene=1#rd)
+
+
+### 2015-07-20
+
+[深度学习和经验主义的胜利](http://iphone.myzaker.com/zaker/article_wx.php?app_id=950&_appid=AndroidPhone&_version=5.0&_bsize1080_1920&sharechannel=wx&pk=55a782e61bc8e0a575000005)
