@@ -688,3 +688,27 @@ published: true
 ### 2015-07-20
 
 [深度学习和经验主义的胜利](http://iphone.myzaker.com/zaker/article_wx.php?app_id=950&_appid=AndroidPhone&_version=5.0&_bsize1080_1920&sharechannel=wx&pk=55a782e61bc8e0a575000005)
+
+[【20150719群沙龙精华版】汽车自己开、机器人遍地跑？—谷歌大疆等专家高管巅峰对话](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208495250&idx=1&sn=a2f4093829a8af364b4e908db0a9cd5a#rd)
+
+[【干货】机器学习中的数学：线性回归、偏差、方差权衡](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208495250&idx=2&sn=a4a7a185ae642f59a6fabc2bb4d62d44#rd)
+
+[【学习】人脸识别：应用开启创新潮，算法进展才起步](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208495250&idx=3&sn=108005d4f15b6a8086b43f5ac2f2f51c#rd)
+
+[【推荐】中科院专家山世光：人脸识别技术用于开户和支付尚不成熟](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208495250&idx=4&sn=528fa533ee4e089989f99b8de6c119f2#rd)
+
+
+### 2015-07-20
+
+[集智的第一本原创著作：科学的极致——漫谈人工智能](http://mp.weixin.qq.com/s?__biz=MjM5NzQyODk2Mw==&mid=208191752&idx=1&sn=4d18c0ae04a33cffbf8dd62e88cac4c8&scene=1#rd)
+
+[【干货】机器学习和图像识别是怎样彻底改变搜索的？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208503731&idx=1&sn=b0f552a78a92fb508cff791002f72ea3&scene=1#rd)
+
+[【学习】十张图解释机器学习的基本概念](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208503731&idx=2&sn=8d7b47db430aefd2a30b83cfd323cffa&scene=1#rd)
+
+[【深度】PayPal如何使用深度学习和监测工作来打击欺诈](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208503731&idx=3&sn=0629fdc3a45533cb7eb3fec8eb7662ec&scene=1#rd)
+
+[【推荐】人工智能解决了这些问题，大白就不再是梦了](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208503731&idx=4&sn=e8ac034002e4b7bcdd66a1b153d9b6c4&scene=1#rd)
+
+[【汇总】20150721人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208700844&idx=4&sn=51c72ac442416b891c7a6c48ce8ce939&scene=1#rd)
+
