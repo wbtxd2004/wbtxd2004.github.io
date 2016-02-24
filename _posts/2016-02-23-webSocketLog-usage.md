@@ -210,6 +210,60 @@ SocketLog适合Ajax调试和API调试， 举一个常见的场景，用SocketLog
 
 -  提示：另一种更简单的方法，因为OneThink每次执行完sql语句都会调用$this->debug， 所以我们可以把slog($this->queryStr,$this->_linkID); 直接写在 Db.class.php文件的debug方法中。 这样不管是mysqli还是mysql驱动都有效。
 
+##在ThinkPHP3.2.3中使用
+
+这个是我根据自己的学习（小白），通过一些简单的配置之后发现可以用，就贴上来了。
+
+将*slog.php*复制到ThinkPHP/Library/SocketLog目录下（需新建），修改namespace和类名：
+
+	<?php
+		namespace SocketLog;
+		class SocketLog
+然后将slog.function.php修改为一个函数放到Application/Common/function.php下，修改如下：
+
+	/**
+ 	* SocketLog函数
+	*/
+
+	function slog($log,$type='log',$css='')
+	{
+	    $socket = new SocketLog\SocketLog;
+	    if(is_string($type))
+	    {
+	        $type=preg_replace_callback('/_([a-zA-Z])/',create_function('$matches', 'return strtoupper($matches[1]);'),$type);
+	        if(method_exists($socket,$type) || in_array($type,$socket::$log_types))
+	        {
+	           //return  call_user_func(array($socket,$type),$log,$css);
+	           return  $socket::$type($log,$css);
+	        }
+	    }
+	
+	    if(is_object($type) && 'mysqli'==get_class($type))
+	    {
+	           return $socket->mysqlilog($log,$type);
+	    }
+	
+	    if(is_resource($type) && ('mysql link'==get_resource_type($type) || 'mysql link persistent'==get_resource_type($type)))
+	    {
+	           return $socket->mysqllog($log,$type);
+	    }
+	
+	
+	    if(is_object($type) && 'PDO'==get_class($type))
+	    {
+	           return $socket->pdolog($log,$type);
+	    }
+	
+	    throw new Exception($type.' is not SocketLog method');
+	}
+	
+注意：我之前就是因为
+	
+	 //return  call_user_func(array($socket,$type),$log,$css);
+	return  $socket::$type($log,$css);
+call\_user_func函数一直不成功，直接调用就好了。
+然后就可以在你想slog的地方slog了！
+
 ## 视频教程
  [http://edu.yuantuan.com/course/198](http://edu.yuantuan.com/course/198)
 
