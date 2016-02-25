@@ -15,7 +15,7 @@ author: wubin
 
 <!--more-->
 
-#说明
+# 说明
 
 SocketLog适合Ajax调试和API调试， 举一个常见的场景，用SocketLog来做微信调试， 我们在做微信API开发的时候，如果API有bug，微信只提示“改公众账号暂时无法提供服务，请稍候再试” ，我们根本不知道API出来什么问题。  有了SocketLog就不一样了， 我们可以知道微信给API传递了哪些参数， 程序有错误我们也能看见错误信息(下方有张图片，可能加载慢，请耐心等待一下)
 
@@ -31,7 +31,7 @@ SocketLog适合Ajax调试和API调试， 举一个常见的场景，用SocketLog
  * 效果展示： 我们在浏览网站的时候在浏览器console中就知道程序做了什么，这对于二次开发产品十分有用。 下面效果图在console中打印出浏览discuz程序时，执行了哪些sql语句， 以及执行sql语句的调用栈。程序的warning，notice等错误信息也可以打到console中。
 ![enter image description here][1]
 
-#使用方法
+# 使用方法
  * 首先，请在chrome浏览器上安装好插件。
  * 安装服务端`npm install -g socketlog-server` , 运行命令 `socketlog-server` 即可启动服务。 将会在本地起一个websocket服务 ，监听端口是1229 。 如果想服务后台运行： `socketlog-server > /dev/null &` 我们提供公用的服务端，需要去申请client_id : http://slog.thinkphp.cn/
  * 如果你的服务器有防火墙，请开启1229和1116两个端口，这两个端口是socketlog要使用的。
@@ -57,7 +57,7 @@ SocketLog适合Ajax调试和API调试， 举一个常见的场景，用SocketLog
  * 第一个参数是日志内容，日志内容不光能支持字符串哟，大家如果传递数组,对象等一样可以打印到console中。
  * 第二个参数是日志类型，可选，如果没有指定日志类型默认类型为log， 第三个参数是自定样式，在这里写上你自定义css样式即可。
 
-##配置
+## 配置
 * 在载入slog.function.php文件后，还可以对SocketLog进行一些配置。
 * 例如：我们如果想将程序的报错信息页输出到console，可以配置
 
@@ -109,7 +109,7 @@ SocketLog适合Ajax调试和API调试， 举一个常见的场景，用SocketLog
         ),'config');
         slog('test'); `
 
-##支持composer 
+## 支持composer 
 
  * 使用composer安装命令 `composer require luofei614\socketlog`
 
@@ -136,10 +136,10 @@ SocketLog适合Ajax调试和API调试， 举一个常见的场景，用SocketLog
         Slog::alert('msg');//将日志以alert方式弹出
         Slog::log('msg','color:red;font-size:20px;');//自定义日志的样式，第三个参数为css样式
 
-##支持ThinkPHP
+## 支持ThinkPHP
     ThinkPHP5后， 在框架层集成了SocketLog ，只需要设置配置即可用
 
-##对数据库进行调试
+## 对数据库进行调试
   * SocketLog还能对sql语句进行调试，自动对sql语句进行explain分析，显示出有性能问题的sql语句。 如下图所示。 
   ![enter image description here][3]
   * 图中显示出了三条sql语句 ， 第一条sql语句字体较大，是因为它又性能问题， 在sql语句的后台已经标注Using filesort。 我们还可以点击某个sql语句看到sql执行的调用栈，清楚的知道sql语句是如何被执行的，方便我们分析程序、方便做开源程序的二次开发。图中第三条sql语句为被点开的状态。
@@ -156,7 +156,7 @@ SocketLog适合Ajax调试和API调试， 举一个常见的场景，用SocketLog
 
   * 注意，有时候在数据比较少的情况下，mysql查询不会使用索引，explain也会提示Using filesort等性能问题， 其实这时候并不是真正有性能问题， 你需要自行进行判断，或者增加更多的数据再测试。
 
-##对API进行调试
+## 对API进行调试
   网站调用了API ，如何将API程序的调试信息也打印到浏览器的console中？ 前面我们讲了一个配置 force_client_id， 能将日志强制记录到指定的浏览器。 用这种方式也可以将API的调试信息打印到console中，但是force_client_id 只能指定一个client_id， 如果我们的开发环境是多人共用，这种方式就不方便了。
   其实只要将浏览器传递给网站的User-Agent 再传递给API， API程序中不用配置force_client_id， 也能识别当前访问程序的浏览器， 将日志打印到当前访问程序的浏览器， 我们需要将SDK代码稍微做一下修改。 调用API的SDK，一般是用curl写的，增加下面代码可以将浏览器的User-Agent传递到API 。 
 
@@ -171,13 +171,13 @@ SocketLog适合Ajax调试和API调试， 举一个常见的场景，用SocketLog
             $headers[]='Socketlog: '.$_SERVER['HTTP_SOCKETLOG'];
         }
         curl_setopt($ch,CURLOPT_HTTPHEADER,$headers); 
-
+ 
 ##区分正式和开发环境
 
   进入chrome浏览器的“工具”-->“扩展程序”  ，  点击SocketLog的“选项”进行设置。
 
 
-##分析开源程序
+## 分析开源程序
 
    有了SocketLog，我们能很方便的分析开源程序，下面以OneThink为例， 大家可以在 http://www.topthink.com/topic/2228.html 下载最新的OneThink程序。 安装好OneThink后，按下面步骤增加SocketLog程序。 
 
@@ -210,7 +210,7 @@ SocketLog适合Ajax调试和API调试， 举一个常见的场景，用SocketLog
 
 -  提示：另一种更简单的方法，因为OneThink每次执行完sql语句都会调用$this->debug， 所以我们可以把slog($this->queryStr,$this->_linkID); 直接写在 Db.class.php文件的debug方法中。 这样不管是mysqli还是mysql驱动都有效。
 
-##在ThinkPHP3.2.3中使用
+## 在ThinkPHP3.2.3中使用
 
 这个是我根据自己的学习（小白），通过一些简单的配置之后发现可以用，就贴上来了。
 
@@ -269,7 +269,7 @@ call\_user_func函数一直不成功，直接调用就好了。
 
 感谢猿团的张盛翔（诺墨）提供教程。
 
-##About Me
+## About Me
 * Author: @luofei614 新浪微博：http://weibo.com/luofei614
 * 三生社群CTO，ThinkPHP核心开发者之一，待过新浪云计算
 
