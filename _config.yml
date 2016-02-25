@@ -6,7 +6,7 @@ permalink: /:categories/:year/:month/:day/:title
 # 转换时排除某些文件、文件夹
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 # 代码高亮设置，oygments为支持语法高亮的工具
-highlighter: pygments
+highlighter: rouge
 # 设置解析器为kramdown
 markdown: kramdown
 
