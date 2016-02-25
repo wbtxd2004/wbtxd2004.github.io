@@ -17,7 +17,7 @@ author: wubin
 
 >本文是在ThinkPHP3.2下进行测试实现的,使用ThinkPHP自带的图片上传裁剪库。其他环境没有测试。
 
-##Html
+## Html
 
 	<div class="form-group">
       <label for="" class="col-sm-3 control-label">创意草图</label>
@@ -45,7 +45,7 @@ author: wubin
       <a id="btnpicture" class="btn btn-info" onclick="pictureup()">上传</a>
     </div>
  
-##AJAX
+## AJAX
 
 	<script>
     function pictureup(){

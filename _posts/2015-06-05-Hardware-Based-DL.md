@@ -12,7 +12,7 @@ published: true
 
 <!--more-->
 
-#基于深度学习的装机配置单#
+# 基于深度学习的装机配置单#
 
 目前可以选择的显卡是NVIDIA的三个不同系列的，第一个是Tesla系列的K40，第二个是GeForce系列的GTX TITAN X，第三个是GeForce系列的GTX 980 Ti。
 
@@ -20,7 +20,7 @@ published: true
 关于SLI技术，可以参考[百科页面](http://zh.wikipedia.org/wiki/NVIDIA_SLI)和[官方页面](http://www.geforce.cn/hardware/technology/sli)。
 
 
-##1. 基于GTX 980 Ti的装机配置##
+## 1. 基于GTX 980 Ti的装机配置##
 
 1. 显卡：4个[华硕GTX 980Ti-6GD5](http://detail.zol.com.cn/vga/index402453.shtml)显卡
 	
@@ -164,7 +164,7 @@ published: true
 
 总计：69994元，七万左右
 
-##2. 基于Titan X的装机配置##
+## 2. 基于Titan X的装机配置##
 
 
 1. 显卡：4个[影驰GeForce GTX Titan X](http://detail.zol.com.cn/vga/index398289.shtml)显卡

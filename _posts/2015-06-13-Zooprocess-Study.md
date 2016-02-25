@@ -11,15 +11,15 @@ published: true
 用于图像分析的ZooScan系统的ZooProcess学习。
 
 <!--more-->
-#ZooProcess
+# ZooProcess
 
-##Zooprocess介绍
+## Zooprocess介绍
 
 ZooProcess 是基于ImageJ 宏语言的一套程序。所以Zooprocess对用户来说是免费的，用户也可以用它来满足他们的需求。
 
 Zooprocess 是由Marc Picheral 开发出来并且为我们所使用的，然而他并不是一名程序员。 Zooprocess 依旧在完善并且新的版本会在主页上发布出来。 我们认为**文件的格式和项目的结构**是不允许被修改的。但是上行的兼容性是会保持的。
 
-##安装
+## 安装
 
 1. 计算机规格
 	
@@ -155,7 +155,7 @@ Zooprocess 是由Marc Picheral 开发出来并且为我们所使用的，然而�
 	
 		从提供的文件夹内安装前三个软件，Xnview自己上网下载，任何版本都可以。
 
-##启动和使用Zooprocess
+## 启动和使用Zooprocess
 
 **注意：**
 
@@ -165,7 +165,7 @@ Zooprocess 是由Marc Picheral 开发出来并且为我们所使用的，然而�
 * 在安装的过程中会提示你选择Hydroptic版本，这里我选择的是V3版本，对应的VuScan版本是9.0.51，所以在之前的安装中要选择这个版本。
 * 安装完成后会要求你建立一个项目，并且选择对应的设备。**Zooprocess在没有创建或者导入一个first project的情况下可能不会工作。所以在这里可以建立一个测试的项目，在以后也可以把它删掉。**在这里我建立了一个名为test的项目，选择无扫描设备。
 
-###建立测试项目
+### 建立测试项目
 
 建立一个名为test的项目，选择无扫描文件。
 项目建立之后，会生成一系列的子目录对于不同的目的，如图所示：
@@ -184,7 +184,7 @@ enter sample ID：例如001
 
 在这里需要我们填充很多信息，包括采样的地点、经度、纬度、采样网格的大小等参数，这些会在以后的log文件和meta元数据文件中写入。具体的条目我就不再详细介绍了，毕竟不是很明白。
 
-###使用一个例子项目来了解Zooprocess的工作流程。
+### 使用一个例子项目来了解Zooprocess的工作流程。
 
 1. 下载例子，[下载地址](http://www.obs-vlfr.fr/LOV/ZooPart/ZooScan/article.php3?id_article=219)，下载the project to be utilized with Zooprocess这个条目对应的文件。
 2. 将下载下来的文件拷贝到Zooprocess的工作目录下，然后打开ImageJ，就可以选择我们下载下来的项目Zooscan_rond_carre_zooprocess_tp了。

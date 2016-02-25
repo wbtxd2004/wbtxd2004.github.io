@@ -17,7 +17,7 @@ author: wubin
 
 >本篇文档是转自CSDN上ball球的博客[ 从微信自定义菜单说php json_encode不转义中文汉字的方法](http://blog.csdn.net/qmhball/article/details/45690017),我在使用ThinkPHP＋[wechat-php-sdk](https://github.com/gaoming13/wechat-php-sdk)开发微信时遇到了一样的错误，最终通过本方法解决。
 
-##问题
+## 问题
 
 最近在开发微信自定义菜单。
 接口比较简单，就是按微信要求的格式post一段json数据过去就成。
@@ -28,7 +28,7 @@ author: wubin
 
 不支持unicode字符！
 那么如何才能使json_encode不转义汉字呢？
-##方法1
+## 方法1
 如果你的php版本是5.4+， 那么恭喜你，一个参数JSON_UNESCAPED_UNICODE就能搞定。
 
 	<?php                                                                                         
@@ -44,7 +44,7 @@ author: wubin
 
 	{"name":"羊羊羊","type":"view","url":"http:\/\/xuan9806.com\/"}
 	
-##方法2(未测试)
+## 方法2(未测试)
 如果不幸由于种种原因你的php无法升到高版本，那么可以这么做：
 把字段中的中文urlencode， 在json_encode后将得到的字串整体urldecode即可
 

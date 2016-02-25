@@ -12,7 +12,7 @@ published: true
 
 <!--more-->
 
-###2015-06-02及以前
+### 2015-06-02及以前
 
 [【干货】最新的一期《Nature》人工智能专栏文章](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206645639&idx=1&sn=fc2aad25f21e238d9efaf194a25cb7f3#rd)
 
@@ -76,7 +76,7 @@ published: true
 ---
 
 
-###2015-06-03
+### 2015-06-03
 
 [【干货】利用图片指纹检测高相似度图片](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206844426&idx=1&sn=f633ee1608f5739dd0659a1443de9167&scene=1#rd)
 
@@ -92,7 +92,7 @@ published: true
 
 [【汇总】20150602人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206450689&idx=4&sn=38b9a28c1ac69997662596e15d975865&scene=1#rd)
 
-###2015-06-04
+### 2015-06-04
 [【干货】应用机器学习的建议](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206881284&idx=1&sn=a282c5a4e5abda7e352889a689177c7c&scene=1#rd)
 
 
@@ -104,7 +104,7 @@ published: true
 
 [【推荐】音乐重度患者探寻网易云音乐的歌单推荐算法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206881284&idx=4&sn=a4e04fbe8cb323199171f76ed2ee472f&scene=1#rd)
 
-###2015-06-05
+### 2015-06-05
 [【干货】深度分析Twitter Heron](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206969664&idx=1&sn=dc3564677b56485e53347a0c0ddb5c04&scene=1#rd)
 
 [【学习】让Pig在风暴中飞驰——Pig On Storm](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=206969664&idx=2&sn=8ae83d8a055c449dc545b56761b5acac&scene=1#rd)
@@ -115,7 +115,7 @@ published: true
 
 [【汇总】20150604人工智能与机器学习简报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=206563062&idx=4&sn=269b3eb1b111f2978997b1b3f8bc9d1d&scene=1#rd)
 
-###2015-06-07
+### 2015-06-07
 
 [【干货】Caffe 深度学习框架上手教程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=207003964&idx=1&sn=b7af00fde67807b1df13eff63f5c93ac&scene=1#rd)
 
