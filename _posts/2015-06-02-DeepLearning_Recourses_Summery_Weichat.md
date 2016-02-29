@@ -712,3 +712,88 @@ published: true
 
 [【汇总】20150721人工智能内参-日报](http://mp.weixin.qq.com/s?__biz=MzA3MjkxMzA4Mw==&mid=208700844&idx=4&sn=51c72ac442416b891c7a6c48ce8ce939&scene=1#rd)
 
+### 2016-02-25
+
+[【干货】50PB海量数据排序，谷歌是如何做的](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208625354&idx=1&sn=1c4756224bfc8048a6af9c94fd8446e0&scene=0&previewkey=hNkFUIVKn2RXjA0hSBe8AZ1iJUUG%2F7eLf7OA%2FVEtaJE%3D#rd)
+
+[【推荐】Facebook用人工智能武装无人机，以更好的连接全世界](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208625354&idx=2&sn=e715e6325ac5be3d58d6e65a28b29ac7&scene=0&previewkey=hNkFUIVKn2RXjA0hSBe8AZ1iJUUG%2F7eLf7OA%2FVEtaJE%3D#rd)
+
+[【推荐】谷歌公开可以确定几乎所有图像位置的神经网络]( http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208625354&idx=3&sn=b2fb0bad6e3dfd81279b2caba958c224&scene=0&previewkey=hNkFUIVKn2RXjA0hSBe8AZ1iJUUG%2F7eLf7OA%2FVEtaJE%3D#rd)
+
+[【学习】什么是机器学习——引经据典咬文嚼字篇](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208625354&idx=4&sn=3705c448b4118759e7c4091902039721&scene=0&previewkey=hNkFUIVKn2RXjA0hSBe8AZ1iJUUG%2F7eLf7OA%2FVEtaJE%3D#rd)
+
+### 2016-02-26
+
+[【干货】Yann Lecunn在College de France深度学习报告笔记](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401688799&idx=1&sn=4b2cae1c7b931ba878b5d16b9d8c5b5e&scene=0#rd)
+
+[【论文】著名会议wsdm2016最佳论文奖予了雅虎研究院Yi Chang组的论文](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401688799&idx=2&sn=cbd095ebf19e519a1e645488796b5396&scene=0#rd)
+
+[【学习】逻辑回归(Logistic Regression)统计模型](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401688799&idx=3&sn=f4e254aa7306bb10024143e574c0d405&scene=0#rd)
+
+[【推荐】这将是人工智能反抗人类的导火索！](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401688799&idx=4&sn=c4ad357cc12a1d9e85a9b623ac47e168&scene=0#rd)
+
+[Caffe 作者贾扬清：我为什么离开 Google，加入 Facebook？](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=402640516&idx=1&sn=203392e6731880adcd1700e403285f87&scene=1&srcid=0226v20Ora8963PmA2AuVViy#rd)
+
+### 2016-02-27
+
+[【干货】雅虎的人工智能有独门武器！](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401694121&idx=1&sn=d742d0a768e618691601f9a0d4bb7a0b&scene=0#rd)
+
+[【干货】支付宝红包的高并发挑战及解决思路](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401694121&idx=2&sn=0bf9e22f6e83a82fe320d81a2e6475d0&scene=0#rd)
+
+[【推荐】Facebook的人工智能通过读童书来学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401694121&idx=3&sn=56c76a865e53b9ab10fd7de44a8ca578&scene=0#rd)
+
+[【论文】斯坦福在后ImageNet时代的重大项目Visual Genome论文正式公布](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401694121&idx=4&sn=235f576553058820c3d617d648d9d967&scene=0#rd)
+
+1.【今日资讯头条|索尼也在做VR 可能开发虚拟现实手套控制器】
+来源：腾讯科技
+据国外媒体报道，本周公布的3项专利申请显示，索尼可能正在开发一款手套控制器，配合PS VR虚拟现实设备使用。这款控制器并非将形状古怪的手柄捆绑在手套上，而是在手套上设置多个发光点，帮助类似PS Move体感设备的摄像头进行追踪。
+[链接](http://tech.qq.com/a/20160227/031778.htm)
+
+3.【业界|工信部调研深圳无人机企业 监管法案或年内出台】
+来源：新浪科技
+据悉，本次考察共选取了3家无人机企业，包括FLYPRO飞豹、一电、以及大疆。工信部此次调研无人机企业，或意味着无人机的监管规定由工信部牵头制定。而此前，无人机的相关法规都由民航总局发布。
+[链接](http://tech.sina.com.cn/it/2016-02-26/doc-ifxpvysx1694773.shtml)
+
+3.【新闻|谷歌深度学习程序PlaNet可识别照片拍摄位置】
+来源：腾讯科技
+名为PlaNet的深度学习程序是由谷歌计算机视觉处理专家托拜斯-韦扬德（Tobias Weyand）及其团队主导开发的。这一程序通过对图片进行像素级分析的基础上，与图片库中的存储数据进行像素比对以实现二者之间的最佳匹配，并为用户提供图片拍摄地点的最好解读。
+[链接](http://tech.qq.com/a/20160227/031471.htm)
+
+4.【新闻|技术不好用？ 奔驰反用人类取代机器人】
+来源：雷锋网
+奔驰表示，机器人需要很长时间才能重新编程和适应他们新的生产任务。因此该公司已经聘请了更灵活，更灵巧的人类完成相关任务。机器人不能处理个性化工作，梅赛德斯奔驰雇佣更多人类员工可以节省资金，并且确保新产品可以及时推出。
+[链接](http://www.leiphone.com/news/201602/r4IqqjzvudgeJCPJ.html)
+
+### 2016-02-28
+
+[【干货】微软分布式机器学习工具包DMTK综述](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401698639&idx=1&sn=456a69e6e329203864a6db24bc8a5a33&scene=0#rd)
+
+[【推荐】李白对话录 - RNN 与语言学算](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401698639&idx=2&sn=681c577c62968057794483e8e0a32cc4&scene=0#rd)
+
+[【推荐】百度超大规模分布式安全系统实践](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=208625354&idx=3&sn=b2fb0bad6e3dfd81279b2caba958c224&scene=0&previewkey=hNkFUIVKn2RXjA0hSBe8AZ1iJUUG%2F7eLf7OA%2FVEtaJE%3D#rd)
+
+[【论文】深度学习帮助人类获取精确地表水位](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401698639&idx=4&sn=9dedcd2198b15e5c17386075519f1060&scene=0#rd)
+
+
+1.【今日资讯头条|雅虎人工智能有独门武器？】
+来源：TECH2IPO创见
+又有一家科技巨头向全世界公开了他们的 know-how 人工智能。Yahoo 发布了 CaffeOnSpark 人工智能的源代码，每个学术研究人员或是大公司都可以使用或是加以修改。在人工智能方面，Yahoo 公司有着独到的长处，因为在培训人工智能系统的时候，数据就和算法一样重要。而且 Yahoo 手握着全球最有趣最大的资料库之一：相片社群网站 Flickr。
+[链接](http://tech.163.com/16/0226/08/BGO52LCO00094P0U.html#index_wit)
+
+3.【业界|借助专业相机 无人机正变得越来越出色】
+来源：无人机日常
+得益于无人机的普及，无人机的相机正在变得越来越强大，无人机与相机的结合让我们有能力去将无人机运用到不同的场景，在本文中我们将介绍一些有实际用途的无人机相机。因为这些相机，无人机行业正变得越来越好。
+[链接](http://tech.163.com/16/0226/08/BGO3HHKM00094P0U.html#index_wit)
+
+3.【新闻|“人工神经网络”成艺术展主角？谷歌为其开展】
+来源：腾讯科技
+据外媒报道，谷歌搜索将联合Gray Area Foundation for the Arts艺术基金会举办一个艺术展，展出由“人工神经网络”工具创造的作品。去年6月，谷歌的工程师向社会公布展示了他们独特的“人工神经网络”工具和相关算法，声称可以讲普通照片转化为有着迷幻漩涡和瑕疵的新物体。
+[链接](http://tech.qq.com/a/20160228/006142.htm)
+
+4.【新闻|这是目前被曝光最靠谱的苹果VR视频】
+来源：钛媒体
+在 苹果概念设计师Martin Hajek 的设想中，未来的苹果VR设备传承了苹果一贯简约的设计风格，圆润的边框棱角不是那么的分明，它借鉴了大量Apple Watch的工艺和设计元素，包括位于前额初的Apple Watch同款跟踪传感器和表带等。
+[链接](http://tech.sina.com.cn/it/2016-02-28/doc-ifxpvysv4972155.shtml)
+
+### 2016-02-29
+### 2016-03-01
