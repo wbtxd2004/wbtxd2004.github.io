@@ -795,5 +795,157 @@ published: true
 在 苹果概念设计师Martin Hajek 的设想中，未来的苹果VR设备传承了苹果一贯简约的设计风格，圆润的边框棱角不是那么的分明，它借鉴了大量Apple Watch的工艺和设计元素，包括位于前额初的Apple Watch同款跟踪传感器和表带等。
 [链接](http://tech.sina.com.cn/it/2016-02-28/doc-ifxpvysv4972155.shtml)
 
-### 2016-02-29
 ### 2016-03-01
+
+1.【今日资讯头条|无人驾驶汽车撞上公共汽车 谷歌首次担责】
+来源：BI中文站
+Alphabet旗下谷歌周一表示，2月中旬，在该公司无人驾驶汽车与一辆公交巴士的轻微碰擦事故中，无人驾驶汽车应当“承担部分责任”。这可能是谷歌无人驾驶汽车首次在事故中需要承担责任。谷歌表示，在事故发生后，已对软件进行调整，避免未来类似事故的发生。
+[链接](http://tech.qq.com/a/20160301/007253.htm)
+
+2.【业界|HTC Vive头盔开卖10分钟售出1.5万台】
+来源：中关村在线
+据了解，HTC Vive消费者版本已经于2月29日开始在全球范围内限量预售，首批订单将于4月开始发货。由于HTC Vive售价达到800美元（国行套装为6888元），而且需要与一台1000美元的PC配合使用，加之这仍然是一项未经验证的技术，所以如此销量的确令人惊讶。
+[链接：](http://tech.163.com/16/0301/09/BH2I3JGU00094P0U.html#index_wit)
+
+3.【新闻|专访Facebook围棋项目负责人：和谷歌仍有差距】
+来源：腾讯科技
+作为Facebook 人工智能研究院智能围棋项目的负责人，田渊栋的Dark Forest相比大名鼎鼎的谷歌Deepmind的AlphaGo低调了许多，他自己也谦虚地说，Dark Forest的水准较谷歌还是有不小的差距，自己仍在不断的做改进。
+[链接：](http://tech.qq.com/a/20160301/024236.htm)
+
+4.【新闻|沃尔沃用无人机和机器人来实现倒垃圾自动化】
+来源：雷锋网
+沃尔沃于本周早些时候宣布，该公司旗下的ROAR(机器人自主拒绝处理系统)项目已进入原型测试阶段。该系统的设计初衷是要实现将路边垃圾箱内的垃圾自动倾倒进垃圾车内的漏斗中，无需人力辅助。
+[链接：](http://tech.163.com/16/0301/07/BH2BFE2V00094P0U.html#index_wit)
+
+[【推荐】面向数据科学家/机器学习工程师的机器学习/数据挖掘/NLP最佳图书推荐](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401786679&idx=1&sn=7892118ca7345d464c0c0bfcc989f533&scene=1&srcid=0301pjtMfoK0Ji3d6TL0roA9#rd)
+
+[【学习】神经网络的艺术](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401786679&idx=2&sn=a5158c51b03991270fdbc5165f81243f&scene=1&srcid=0301ozWDkGubCH6RwvLOR84H#rd)
+
+[【干货】机器学习入门到进阶学习路线图](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401786679&idx=3&sn=919faac1005171410692e8e268821919&scene=1&srcid=0301HcUZQjiVhRFMRazKaWwv#rd)
+
+[【学习】人工智能正在逐步走进金融领域](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401786679&idx=4&sn=25462a0b0af5ae03524a9fd4dfbbe5f3&scene=1&srcid=0301CNhwYnK10CYH8BzxFORB#rd)
+
+### 2016-03-02
+
+[【推荐】一个数据挖掘领域的全球专家列表](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401805201&idx=2&sn=c4a3069b6d2ef52e71188f4c0363f8b7&scene=1&srcid=0302h49azHZB67tBlaOiaDpU#rd)
+
+[【学习】Technical Note:文本分析参数估计](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401805201&idx=3&sn=ba09211af34211fa0348c16255864dbb&scene=1&srcid=0302CZ8PXU429iZ2nzfG6OFG#rd)
+
+[【干货】刘知远：面向大规模知识图谱的表示学习技术](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401805201&idx=4&sn=93267b8c12ee39bccb698cc2d291c688&scene=1&srcid=0302uHWgY2RZDr0SSuYp9ABp#rd)
+
+### 2016-03-03
+
+[基于深度学习的机器翻译研究进展](http://mp.weixin.qq.com/s?__biz=MzAxNzE0OTg0OQ==&mid=401751668&idx=1&sn=08c7ea4f2a1b88d027968e6594af37d5&scene=1&srcid=0303cNSUeKl8iyNgrBJlTHVn#rd)
+
+[【学习】Yoshua Bengio团队论文：Architectural Complexity Measures of RNNs](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401814609&idx=2&sn=6e53adbd3311b862b0a4cc8dd1d84096&scene=1&srcid=0303TxaINvF0v7mNgWRIMtKR#rd)
+
+[【学习】深入理解FFM原理与实践](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401814609&idx=3&sn=34186aadb1c2a0f402ac39a5fd5e7db8&scene=1&srcid=0303y8dK52kRbFG8GmxTTSfj#rd)
+
+[【推荐】LingPipe：自然语言处理工具包](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401814609&idx=4&sn=694fcc4ef5142e154d40cd140d0555bc&scene=1&srcid=0303EUvxmrOfYcKA1hywghgB#rd)
+
+1.【今日资讯头条|李彦宏两会提案：制定完善无人汽车政策法规】
+来源：网易科技
+百度公司对外公布全国政协委员、百度CEO李彦宏三项提案，分别聚焦加快制定无人驾驶车政策法规、盘活专网资源、优化空域资源管理。李彦宏的第一个提案是《关于加快制定和完善无人驾驶汽车相关政策法规，抢占产业发展制高点的提案》。
+[链接](http://tech.163.com/16/0303/07/BH7EQTC8000915BF.html#index_wit)
+
+2.【业界|买不起HoloLens？微软将为开发者提供模拟器】
+来源：新浪科技
+微软周三宣布，将很快推出一款HoloLens模拟器，让开发者不必购买HoloLens硬件即可为这款增强现实眼罩开发应用。借助这款模拟器，开发者便可在模拟的房间内测试自己的应用，并使用键盘命令、鼠标和Xbox手柄在其中走来走去。
+[链接](http://tech.sina.com.cn/it/2016-03-03/doc-ifxqafha0319810.shtml)
+
+3.【新闻|英特尔开发增强现实的头戴式设备】
+来源：中国证券网
+据外媒3日报道，英特尔公司正加入增强现实的行列里。知情人士透露，这家芯片巨头正在开发一款可穿戴的增强现实头戴式设备。这些人士称，英特尔计划利用旗下称做RealSense的3D摄像技术，从而将其设备和其他公司区隔开来。
+[链接](http://tech.sina.com.cn/it/2016-03-03/doc-ifxqaffy3538662.shtml)
+
+4.【新闻|安全专家自称能在1英里外侵入旧金山警方无人机】
+来源：腾讯科技
+安全研究员尼尔斯·罗迪（Nils Rodday）周三在旧金山RSA安全大会上称，旧金山警方使用的高级无人机存在很多漏洞。由于无人机与控制器之间的通讯没有使用任何加密技术，因此劫持无人机并不是特别复杂。
+[链接](http://tech.qq.com/a/20160303/041925.htm)
+
+### 2016-03-04
+
+1.【今日资讯头条|德银：虚拟现实让人想起2007年的智能手机】
+来源：腾讯科技
+德意志银行在最新报告中指出，虚拟现实的创新速度让分析师想到了2007年的智能手机。相关产品开始相继涌现，但可能还需要等待几年时间才真正成为实现。不过，德银仍然对此“十分看好”该市场，并还列举了推动虚拟现实发展的3大关键趋势。
+[链接](http://tech.qq.com/a/20160304/048284.htm)
+
+2.【业界|VRSE与联合国合作推出虚拟现实体验】
+来源：yivian
+知名虚拟现实制作公司Vrse创作的体验有《The Displace》、《 Clouds Over Sidra》、《 Waves Of Grace》和《 Catatonic》和更多最新的制作。Vrse再次和联合国联手，打造加沙生活虚拟现实体验《My Mother s Wing》。
+[链接](http://tech.163.com/16/0304/09/BHA8K4RC00094OE0.html#index_wit)
+
+3.【新闻|传统汽车商当心，谷歌无人驾驶部门开始大规模招人】
+来源：腾讯科技
+据外电报道，谷歌无人驾驶汽车部门正在招兵买马，大肆招募具有汽车行业经验的人才。该部门现在至少有170名员工。据这些员工们在职业社交网络LinkedIn上所建的个人资料页面显示，其中很多员工是软件和系统工程师。有些员工则是从谷歌其他部门调过来的。
+[链接](http://tech.qq.com/a/20160304/037231.htm)
+
+4.【新闻|非洲大陆成为无人机投资者的新福地？】
+来源：无人机日常
+在非洲有关无人机管理的法规很少，可以说这片大陆欢迎所有形式的商用无人机的到来。Rocketmine的总部位于约翰内斯堡，他们是南非首批获得商用无人机经营许可的企业之一，他们为诸如矿业与农业等产业提供“航拍数据解决方案”。
+
+[链接](http://tech.163.com/16/0304/10/BHAAT4FF00094P0U.html#index_wit)
+
+[【学习】基于Spark的异构分布式深度学习平台](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401826933&idx=2&sn=44e927bcb4a0f94cb8e747c66fbfbd6b&scene=1&srcid=0304ExryWMwsPwaqnE6NMIba#rd)
+
+[【学习】深度学习一种变相的马尔可夫链吗？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401826933&idx=3&sn=b9cad1b04c4e47fb112aa283f389317c&scene=1&srcid=0304OxgPyZgZEuz92TMzgJdL#rd)
+
+[【推荐】Bayesian Reinforcement Learning: A Survey ](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401826933&idx=4&sn=e69487cdc301dce9ab7bbc469d9d248e&scene=1&srcid=0304kl1TpUBiOZrg97QKogZN#rd)
+
+### 2016-03-05
+
+[【推荐】入侵华尔街，人工智能如何改变金融业 ](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401833799&idx=2&sn=00d67fd85a3f12f3ab734e9557137775&scene=1&srcid=03053GF7TUyiqxWLbEeQE0cV#rd)
+
+[【推荐】伯克利统计系深度学习课程 ](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401833799&idx=3&sn=d8b3fefff88c2a95d24d03f873f1450e&scene=1&srcid=0305SAASt0rjHtA0F7krZKVo#rd)
+
+[【论文】Decision Forests, CNNs and the Models In-Between ](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401833799&idx=4&sn=5bcbdb7a284e82ab5df72fc3148ff15f&scene=1&srcid=03050lDjiGSNVxjqtpNRU4Db#rd)
+
+1.【今日资讯头条|Oculus：不支持苹果是因为Mac显卡不行】
+来源：新浪科技
+Oculus创始人帕尔默·洛基(Palmer Luckey)近期在接受Shack News采访时表示，虚拟现实设备Rift没有支持Mac电脑是苹果的问题。洛基表示，对于满足虚拟现实所需的图形处理能力而言，苹果的计算机设计并不理想。
+[链接](http://tech.sina.com.cn/it/2016-03-04/doc-ifxqafha0357556.shtml)
+
+2.【业界|实体书太古板 谷歌将为其加入AR功能】
+来源：腾讯科技
+近日，谷歌去年在美国专利商标局申请的两项专利遭到曝光。第一项专利显示谷歌准备打造一款“会讲话的设备”，该设备将在实体书的基础上增加扬声器，动作和压力传感器等配件。只要打开这本神奇的“书”，书脊附近的投影仪就会自动投射出增强现实（AR）图像并播放相关音效。
+[链接](http://tech.qq.com/a/20160305/043147.htm)
+
+3.【新闻|三星要让你戴VR头盔坐过山车】
+来源：腾讯科技
+ 报外媒报道称，三星将与世界上最大的主题公园六旗（Six Flags）娱乐有限公司联手，为北美的九家主题公园带来不一样的“突破性体验”。用三星Gear VR为消费者搭建九台虚拟现实过山车，让人们能够获得不一样的、全新的突破性过山车体验。
+[链接](http://tech.qq.com/a/20160304/056815.htm)
+
+4.【新闻|视觉感知黑科技 大疆精灵4首发上手体验视频】
+来源：雷锋网
+大疆刚发布了新一代消费级航拍无人机精灵4，新机除了对飞行性能进行了升级外，还加入了“自动避障、视觉跟踪和指点飞行”三个黑科技功能，第一次将真正的视觉感知技术带到了消费级无人机。
+[链接](http://www.leiphone.com/news/201603/ntymWQeMhlPnjQWV.html)
+
+### 2016-03-07
+
+[【20160306群沙龙精华版】智能金融：无人金融？- 阿里、宜信、PayPal顶级专家揭示金融未来](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401852918&idx=1&sn=9d0739d0d7bb61a77b3b10f4622927d5&scene=1&srcid=0307M4nmSgX0oOVDcBHO7QHT#rd)
+
+[【干货】计算机视觉、图像检索、机器学习笔记系列（2016-03）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401852918&idx=2&sn=8776373a5480865518eb781f957cda74&scene=1&srcid=0307FTtV7ob735dwUcKVsx8h#rd)
+
+[【学习】剑桥大学NLIP组S.Teufel《词汇语义学》8讲](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401852918&idx=3&sn=03436d2b5c9a5fe5cb627b1cd3c194de&scene=1&srcid=0307ayNeFgYqkbJlZAc112GX#rd)
+
+[【学习】Dynamic Memory Networks for Visual and Textual Q&A](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401852918&idx=4&sn=4d2edd8553d8986d7624975c2ded2d76&scene=1&srcid=0307i8zQC1g6cwzVwpvqdq5G#rd)
+
+1.【今日资讯头条|无人驾驶汽车大难题:人工智能的感知差异显著】
+来源：第一财经日报
+谷歌提供的报告进一步表示，在上述272次脱离无人驾驶的状态中，因为“感知差异”因素造成的脱离次数为119次。另一家正致力于无人驾驶技术的传统汽车公司福特也在今年1月宣布，将启动无人驾驶汽车的冰雪路面测试。
+[链接](http://tech.sina.com.cn/it/2016-03-07/doc-ifxqaffy3673695.shtml)
+
+2.【业界|英国将开测无人驾驶卡车车队】
+来源：cnbeta
+据悉，英国将于今年晚些时候开测无人驾驶卡车车队，不过它不仅仅是为了提升物流的速度，还有望减轻道路的拥塞状况。该国交通部希望能够在重型运输车辆（HGV）的使用上处于领先地位，且试验将在公共道路上展开。
+[链接](http://tech.163.com/16/0307/09/BHHVPI1700094P0U.html#index_wit)
+
+3.【新闻|大疆质疑英特尔无人机避障技术含量】
+来源：澎湃新闻网
+3月5日，大疆新一代无人机“精灵4”在纽约发布后，返回中国亮相。王帆在该场合对英特尔在CES（美国拉斯维加斯国际消费类电子产品展览会）上的展出予以抨击，称其无人机壁障技术是“一场精心布置的秀，让大家以为他们掌握了先进的技术。”
+[链接](http://tech.163.com/16/0307/09/BHHV74HH00094P0U.html#index_wit)
+
+4.【新闻|无人机热潮将至 肩扛式反无人机装备准备开卖】
+来源：雷锋网
+随着无人机的大热，俄罗斯已经开始防范这一新兴的侦查工具。根据俄罗斯电视台报道，俄罗斯国内将上市推出一款专用于反无人机的装备——肩扛式反无人机装置SkyWall100。该装备是通过压缩气体进行驱动，从而发射网状捕捉器实现对非法入侵的无人机进行捕获，并通过降落伞让无人机安全落地。
+[链接](http://www.leiphone.com/news/201603/QgNRcLR3AsxFYlzf.html)
