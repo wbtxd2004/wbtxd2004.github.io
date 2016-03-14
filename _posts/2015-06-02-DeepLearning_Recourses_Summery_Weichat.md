@@ -949,3 +949,191 @@ Oculus创始人帕尔默·洛基(Palmer Luckey)近期在接受Shack News采访�
 来源：雷锋网
 随着无人机的大热，俄罗斯已经开始防范这一新兴的侦查工具。根据俄罗斯电视台报道，俄罗斯国内将上市推出一款专用于反无人机的装备——肩扛式反无人机装置SkyWall100。该装备是通过压缩气体进行驱动，从而发射网状捕捉器实现对非法入侵的无人机进行捕获，并通过降落伞让无人机安全落地。
 [链接](http://www.leiphone.com/news/201603/QgNRcLR3AsxFYlzf.html)
+
+### 2016-03-08
+
+1.【今日资讯头条|亚马逊也要进军虚拟现实了：招聘VR内容开发者】
+来源：腾讯科技
+据科技媒体Fast Company报道，亚马逊最近发布了一则招聘启事，招聘对象为虚拟现实内容开发人员，这表明亚马逊视频平台Amazon Video很快将制作并推出自己的虚拟现实内容。
+[链接](http://tech.qq.com/a/20160308/057372.htm)
+
+2.【业界|今年前两月AR/VR投资达11亿美元 超2015全年】
+来源：新浪科技
+科技咨询公司Digi-Capital发布的最新数据显示，今年前两个月，现实增强和虚拟现实市场获得的投资达到11亿美元。 作为对比，2015年全年，这一市场的投资只有6.86亿美元。这同时也是相关投资在一年内首次超过10亿美元。
+[链接](http://tech.sina.com.cn/it/2016-03-08/doc-ifxqaffy3736061.shtml
+)
+3.【新闻|虚拟现实：穿上这件T恤衫可透视体内各个器官】
+来源：TNW中文站
+Virtuali-Tee其实就是一款带有屏幕打印代码的T恤衫，它是由一位名叫库里斯科普（Curiscope）的开发者研制和推出的。这款可穿戴设备可以利用对应的应用将体内脏器比如肋骨、跳动的心脏和其他器官等的活动实时显示在屏幕上，就像实时X光透视一样好玩。
+[链接](http://tech.qq.com/a/20160308/013078.htm)
+
+4.【新闻|续航可达24小时的自动监控无人机】
+来源：网易科技
+DRONE VOLT是一家法国的专业无人机企业，他们最近加强了他们的Z18 UF无人机的能力，这款无人机可以对需要安全监控的地区实行持续的监控。该无人机可以被运用于设施监控、道路网络监控、搜救行动、自然灾害以及人群集会等情形。
+[链接](http://tech.163.com/16/0308/11/BHKP6JJ700094P0U.html#index_wit)
+
+### 2016-03-09
+
+[neural networks and deep learning 中文版 欢迎大家以各种形式拍砖](https://github.com/zhanggyb/nndl/releases/download/draft/nndl-ebook.pdf)
+
+1.【今日资讯头条|AlphaGo赢！世界围棋冠军李世石首场认输】
+来源：腾讯科技
+3月9日下午3点30分，人机世纪大战第一场结果公布，谷歌人工智能系统AlphaGo挑战世界围棋冠军李世石成功，李世石认输。这次比赛采用中方的围棋规则，黑贴3又3/4子（黑贴7目半）。每位棋手各有两个小时布局时间，3次60秒的读秒，每场比赛预计需要大约4-5个小时。
+[链接](http://tech.qq.com/a/20160309/045905.htm)
+
+2.【业界|英伟达：无人驾驶车“幕后黑手”】
+来源：腾讯科技
+但是在谷歌无人驾驶汽车取得重大进展的背后，离不开另一家公司的鼎力支持，即芯片制造商英伟达。在过去几年中，这家公司利用其Tegra处理器帮助谷歌完善其无人驾驶汽车，最近又发布了第二代无人驾驶汽车软件技术。
+[链接](http://tech.qq.com/a/20160309/045905.htm)
+
+3.【新闻|今年巴西奥运将提供虚拟现实及8K画面转播】
+来源：TNW中文站
+“奥运转播服务机构”（OBS）近日已经证实，在今年的巴西奥运会转播中将会采用虚拟现实技术。其中开幕式和闭幕式会提供虚拟现实服务，另外每天也会选择一个赛事，提供虚拟现实转播。
+[链接](http://tech.qq.com/a/20160309/010252.htm)
+
+4.【新闻韩国批准无人驾驶车路试 花落现代捷恩斯】
+来源：环球网
+韩国政府通过首辆官方许可进行自动驾驶测试的车型，确认为现代捷恩斯轿车。实际上，韩国自动驾驶轿车的牌照及相关许可证比预想中更为严格。目前，该车仅被允许在6条预先设定的道路上行驶，全程必须有2人在车内，而且证件有效期仅为五年。
+[链接](http://tech.163.com/16/0309/08/BHN1A5DT00094P0U.html#index_wit)
+
+[【推荐】研究生课程《数据挖掘和预测分析》 : http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401877890&idx=1&sn=bc98702ed9da3ebaa19b5059f9a959a6&scene=1&srcid=0309fp2bGruE2bhFO8YTvkQF#rd]
+
+[【干货】Machine Learing With Spark：构建分类器](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401877890&idx=2&sn=9993d591bdd1f2aee193deb1ec3298dd&scene=1&srcid=0309yxfqz6sDkhXyXbKicFOJ#rd)
+
+[【推荐】CVPR2016 Paper 单目3D人体姿态估计论文（论文+代码）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401877890&idx=3&sn=158e8ffb53f290ca239eff6320958fc4&scene=1&srcid=03095WsJI7tiSbhWlEGnYCBY#rd)
+
+[【学习】An Introduction to Feature Selection](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401877890&idx=4&sn=056cf5b602b1a195aa29a74c2309830c&scene=1&srcid=0309ZNJUjsFAHE0JzjNt1l2K#rd)
+
+
+### 2016-03-10
+
+1.［今日资讯头条｜希尔顿与IBM沃森合作测试AI礼宾机器人］
+来源：新浪科技
+酒店运营商希尔顿已与IBM沃森（Watson）计划达成一项合作，正在旗下美国连锁酒店测试一种人工智能（AI）礼宾机器人。这种人工智能机器人被命名为“康妮”（Connie），得名来自于希尔顿创始人康拉德·希尔顿（Conrad Hilton）。
+[链接](http://tech.sina.com.cn/it/2016-03-10/doc-ifxqhmve8991016.shtml)
+
+2.［业界｜VR厂商们看中iPhone 大量VR配套设备今秋问世］
+来源：腾讯科技
+美国投资公司派杰（Piper Jaffray）本周举办了一系列关于虚拟现实技术的会议，该领域内的13家企业都参与了其中。初创企业IonVR就是其中之一，该公司在会议上透露自己希望在今年秋季推出一款基于iPhone的虚拟现实头戴式设备。
+[链接](http://tech.qq.com/a/20160310/035268.htm)
+
+3.［新闻｜英特尔宣布收购以色列VR技术公司Replay］
+来源：智东西
+英特尔宣布将收购以色列体育影像初创企业Replay TechnologiesReplay Technologies。该公司开发出了多项多维视频影像技术，例如Free Dimensional Video(FreeDTM)视频技术，允许观众通过来自多个角度的沉浸式摄像头影相观看和体验实施场景。
+[链接](http://tech.163.com/16/0310/08/BHPK0HNK00094P0U.html#index_wit)
+
+4.［新闻｜2:0！谷歌AlphaGo再度击败世界围棋冠军李世石］
+来源：腾讯科技
+3月10日下午16时27分，人机大战五番棋大战第二场结束，谷歌人工智能AlphaGo再赢一局，在五局比赛中，暂时以2：0领先世界围棋冠军李世石。双方的第三场比赛将于本周六中午12时举行。
+[链接](http://tech.qq.com/a/20160310/046504.htm)
+
+[【推荐】XGBoost: A Scalable Tree Boosting System](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401887104&idx=1&sn=189b57b8eb0f7cec91765422c556eb16&scene=1&srcid=0310etDxnD6oHl2ceNGt07S4#rd)
+
+[【学习】专门实现各种nerual style的开源项目](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401887104&idx=2&sn=16d2585ecbd2b98efe7e69f0f7a26fc6&scene=1&srcid=0310XZK7TdKu5SuMUgchcfJF#rd)
+
+[【推荐】谷歌最新成果：单目图片学习机器人抓取的手眼协调能力](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401887104&idx=3&sn=c2b947a0943d70e3c501d328c4c8e16f&scene=1&srcid=0310YnzIooV3lRqkm8wN5aOd#rd)
+
+[【学习】利用Word Embedding自动生成语义相近句子](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401887104&idx=4&sn=51c310eaacbec4512ac2d1afe50ed896&scene=1&srcid=03107mk0brBWKQQgZjMH8Un7#rd)
+
+
+### 2016-03-11
+
+[【推荐】（6M大图预警）实时SLAM的未来及SLAM与深度学习的比较](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401895911&idx=1&sn=eef616f3e95c7851cd31540c0e64fbd4&scene=1&srcid=0311Vab1OCd1exUrvL2p5GJI#rd)
+
+[【干货】目前常用的自然语言处理开源项目/开发包有哪些？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401895911&idx=2&sn=f2282d2806fe7c9d08c8659afb57b3e9&scene=1&srcid=0311vixDpSSMyM9JLg6ngekk#rd)
+
+[【学习】AlphaGo 这么火，你也想学机器学习了吗？看攻略！](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401895911&idx=3&sn=3a84e3652aacf95ac10d76a4ce405a99&scene=1&srcid=0311XxJGRzNY3YLBK0labDl6#rd)
+
+[【学习】Deep or Shallow, NLP is Breaking Out]()http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401895911&idx=4&sn=3fb2490f4526457193c2cbd572e176c3&scene=1&srcid=0311Mer9MoEv9IOpwZlQiaPI#rd
+
+[杨鹏谈世纪佳缘推荐算法：基于Spark GraphX，弃GBDT和LR用FM](http://mp.weixin.qq.com/s?__biz=MzA3MjY1MTQwNQ==&mid=207834378&idx=2&sn=215634eb9e1f41f164d7a2bb6043ea37&scene=1&srcid=03114slqBoYCJaS3VlGtBaBP#rd)
+
+1.［今日资讯头条｜美交通部门要求谷歌提供无人车碰撞细节］
+来源：网易科技
+3月11日消息，据路透社报道，Alphabet旗下谷歌的一辆无人驾驶汽车最近在加州发生碰撞事故，美国国家公路交通安全管理局（NHTSA）周四表示，该机构希望获得此次事故的更多细节。
+[链接](http://tech.163.com/16/0311/13/BHSNEBD4000915BF.html)
+
+2.［业界｜还在为翻译文章发愁？融合深度学习的Google翻译要来了］
+来源：雷锋网
+Google不仅用深度学习技术在AlphaGo和李世石的“人机大战”中取得了2:0的领先，还已经利用深度学习技术提升了旗下多个产品的智能体验，该技术藉由大量的数据来训练神经网络，从而对新数据做出预测。比如Google地图、Google照片、Gmail等等产品的用户体验提升都与这种增强技术不无关系。
+[链接](http://www.leiphone.com/news/201603/j9M2UfyyiFN5GxdK.html)
+
+3.［新闻｜BroadLink推双恒开关 DNA systemt系统平台升级］
+来源：智东西
+3月10日AWE期间，BroadLink以”Linking Everything/连接一切”为主题，发布了智能家居第三方DNA system平台、白魔方家居恒温恒湿套装，并宣布与招商创新/产网融合达成合作。
+[链接](http://zhidx.com/p/41324.html)
+
+4.［业界｜相互学习效率高，Google 让 14 台机器人手臂相互学习］
+来源：36Kr
+Google 的研究人员正试图让机器人像人一样认识世界，这意味着机器人要进行大量的练习。研究员 Sergey Levine 和他的团队对 14 台机器人手臂进行试验，这 14 只手臂相互连接，研究人员使用卷积神经网络让这些机器人自主学习如何抓取小物体，如杯子、胶带座和柠檬绿的玩具海豚。
+[链接](http://36kr.com/p/5044415.html)
+
+[简单看的话 可以看看这个 Ng写的 的入门教程](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+
+[deeplearning.net/reading-list/](deeplearning.net/reading-list/)
+
+[【上周精华版】【20160306群沙龙精华版】智能金融：无人金融？- 阿里、宜信、PayPal顶级专家揭示金融未来等文章](http://mp.weixin.qq.com/s?__biz=MzAxNTE2MjcxNw==&mid=404659110&idx=1&sn=a9d92a0e124ba688e9d68d4739b6b02f&scene=1&srcid=0311lSswOQIbMoXDbCbFLFLv#rd)
+
+### 2016-03-12
+
+1.［今日资讯头条｜Oculus们都在抢注.健康域名，VR的下一个战场是健康？］
+来源：虎嗅网
+除了游戏、视频、房地产等行业，拥有虚拟现实（VR）技术的公司开始将目光抛向了医疗健康市场。showalk获悉，当前炙手可热的虚拟现实设备供应商Oculus已经注册了“OCULUSRIFT.健康”和“OCULUSVR.健康”中文域名。
+[链接](http://www.huxiu.com/article/141651/1.html?f=index_feed_article)
+
+2.［业界｜AlphaGo 3比0拿下赛点 人机大战第三场比赛回顾］
+来源：雷锋网
+今日，AlphaGo与李世石的第三场比赛如期进行，AlphaGo在盘中就占据较大优势，最后AlphaGo在无悬念的情况下拿下本局比赛。
+[链接](http://www.leiphone.com/news/201603/pU3UYuijy2SGQ2vA.html)
+
+3.［新闻｜通用汽车收购无人车技术初创企业Cruise］
+来源：新浪科技
+汽车巨头通用汽车今天宣布打算收购无人车技术初创企业Cruise Automation，但是并未透露具体金额。
+[链接](http://tech.sina.com.cn/it/2016-03-12/doc-ifxqhmve9109466.shtml)
+
+4.［业界｜英伟达发布第二代无人驾驶汽车软件］
+来源：腾讯科技
+现在谷歌在无人驾驶汽车领域最受关注，其无人驾驶汽车在无人干预的情况下已经自动行驶了160多万公里。但是在谷歌无人驾驶汽车取得重大进展的背后，离不开另一家公司的鼎力支持，即芯片制造商英伟达。
+[链接](http://tech.qq.com/a/20160312/006869.htm)
+
+[【推荐】（论文+代码）Hybrid Collaborative Filtering with Neural Networks ](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401904694&idx=1&sn=8ad8fb983ab7aa106e3a92ba77d3293b&scene=1&srcid=0312DCqYRSLbYuQEe3aigtJG#rd)
+
+[【干货】从语义网到知识图谱——语义技术工程化的回顾与反思 ](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401904694&idx=2&sn=0342401cec0aff28c44968c27daca942&scene=1&srcid=03123BKQaJhDmRzHILdJHdH1#rd)
+
+[【学习】DeepMind背后的人工智能：深度学习原理初探](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401904694&idx=3&sn=441fdbe1bee0951c68e1283f16d12f33&scene=1&srcid=0312L7ahk4BbwTMJC4d0wFik#rd)
+
+[【学习】DarkForest对AlphaGo和李世石前两局每步的胜率估计（仅供参考）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401904694&idx=4&sn=078bbff2d31a8a86c3cf8edb56134323&scene=1&srcid=0312NxFklI6h3SEnGr750cTr#rd)
+
+
+### 2016-03-13
+
+1.【今日资讯头条|扎克伯格：虚拟现实革命将比想象中更早到来】
+来源：腾讯科技
+自从2014年斥资20亿美元收购虚拟现实设备制造商Oculus VR后，Facebook始终在关注新兴的虚拟现实市场。Facebook将于今年第一季度发布虚拟现实头盔Oculus Rift，但其专用的虚拟现实手柄Oculus Touch要到下半年才能上市。
+[链接](http://tech.qq.com/a/20160313/028929.htm)
+
+2.【业界|谷歌无人驾驶汽车撞了公交车 但也学会了避让行人】
+来源：腾讯科技
+对于谷歌无人驾驶汽车主管克里斯·厄姆森（Chris Urmson）来说，2月14日绝对是“令人难受的一天”，因为那天谷歌无人驾驶汽车以每小时2英里的速度在山景市道路上行驶时竟然撞上了一辆公交车。
+[链接](http://tech.qq.com/a/20160313/012865.htm)
+ 
+3.【新闻|AI赢了棋局，但胜利的是人类】
+来源：新浪科技
+五个月前刚刚被AlphaGo击败的欧洲围棋冠军樊麾提到： 我们面对新生事物要放宽眼界，毕竟人类的想象力和创造力还是机器学不会的，人还是最牛的。
+[链接](http://tech.sina.com.cn/it/2016-03-13/doc-ifxqhmvc2383117.shtml?cre=techpc&mod=inf&loc=1&r=0&rfunc=76)
+
+
+4.【新闻|HTC Vive也能玩Steam游戏了】
+来源：雷锋网
+内容少是VR最受诟病的问题之一，花大价钱买了个头盔，结果发现没什么东西可玩的。HTC Vive很快要推出的最新功能“桌面影院模式”（Desktop Theater Mode)可以一举解决这个问题。
+[链接](http://www.leiphone.com/news/201603/DZ4XBZTCVb3rCJ4I.html)
+
+[【推荐】（视频+讲义）AlphaGo团队负责人David Silver在UCL的reinforcement learning课程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401910986&idx=1&sn=e2abccb3fb66927b4f0572415804dc2f&scene=1&srcid=0313EdkfpjKyB7s3M9C6U1QM#rd)
+
+[【干货】Materials to understand LSTM](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401910986&idx=2&sn=cc51ed208559e37367ffe0f65e6fc7ef&scene=1&srcid=0313FUpXI7JgUMfvncjZImFK#rd)
+
+[【推荐】蒙特卡洛搜索树在游戏中的应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401910986&idx=3&sn=8179b4e4afd998dfe7b8b09274c7a32d&scene=1&srcid=0313i39Xy8wOKN2SgXzRJJFP#rd)
+
+[【学习】卷积的物理意义](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401910986&idx=4&sn=909c0b2254184d4e90b742d75e03c6e6&scene=1&srcid=0313bj6qhcTC6C36nM49yEEx#rd)
+
+### 2016-03-14
