@@ -1136,4 +1136,163 @@ Google 的研究人员正试图让机器人像人一样认识世界，这意味�
 
 [【学习】卷积的物理意义](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401910986&idx=4&sn=909c0b2254184d4e90b742d75e03c6e6&scene=1&srcid=0313bj6qhcTC6C36nM49yEEx#rd)
 
-### 2016-03-14
+### 2016-03-15
+
+1.【今日资讯头条|AMD 持续发力 VR，联合 Solun 推出 Windows 10 系统一体机式 VR 头显】
+来源：36氪
+据roadtovr，最近，AMD 在其 YouTube 主页上传了 Sulon Q 的介绍视频，Sulon Q 是 Solun 和 AMD 合作的一款 VR/AR 一体机式头显，运行 Win 10 系统。
+[链接](http://36kr.com/p/5044545.html)
+
+2.【业界|撞车之后：谷歌获得“检测公交车专利”】
+来源：雷锋网
+近日，谷歌申请成功了一项“检测公交车”的专利，该专利通过特殊的图像识别技术，可准确的对公交车的体积、颜色进行判断，从而避开公交车。
+[链接](http://www.leiphone.com/news/201603/K7yiYXMT9lEFkjdp.html)
+
+3.【新闻|迪拜拟明年起两年举办一届机器人奥运会】
+来源：网易科技
+迪拜最近宣布，它计划从2017年开始每两年举办一次机器人奥运会。据迪拜的官方宣传，未来的机器人奥运会将包括9项比赛，包括无人驾驶汽车竞赛、机器人足球、机器人跑步等
+[链接](http://tech.163.com/16/0315/08/BI6F4P7F00094P0U.html)
+
+4.【新闻|汽车厂商欲用人工智能防止司机分神】
+来源：新浪科技
+通用、丰田、大众，以及多家创业公司正在开发司机监控系统，利用人工智能技术去观察司机，判断司机在驾驶时的状态是否会带来安全风险。
+[链接](http://tech.sina.com.cn/it/2016-03-14/doc-ifxqhmvc2427733.shtml)
+
+[【推荐】计算机数理逻辑知识汇总](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401934345&idx=1&sn=af3c56c9726126ed6c3e869e7da708f8&scene=1&srcid=0315AaUCHYHqbGoNX6kTS6OJ#rd)
+
+[【干货】深度学习的一些技巧和经验](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401934345&idx=2&sn=fef3e1b553c73cfaf334f4a5f2589a81&scene=1&srcid=0315ShzFBlJ2MT7P2Jm9hVcg#rd)
+
+[【推荐】XGBoost4J发布](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401934345&idx=3&sn=b1ccd6c56604a488113982934a98481b&scene=1&srcid=03159ZYOGqrhBBEWmw0gxVKE#rd)
+
+[【学习】使用深度RNN模型构建语义搜索引擎](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401934345&idx=4&sn=a725658770c91c7fbac583f1e6317b1d&scene=1&srcid=0315andNHYCOPDcO7TSczZap#rd)
+
+
+### 2016-03-16
+
+1.【今日资讯头条|人工智能终究会对人类俯首称臣?】
+来源：网易科技
+AlphaGo与李世石的这一次世纪之战之所以如此受到瞩目，就因为在基础原理不变的情况下，发展出了新的训练和处理模式，使人工智能更进一步。
+[链接](http://tech.163.com//16/0316/12/BI9GJP2D00094OE0.html)
+
+
+2.【业界|三星做了一款耳机，能消除Gear VR的晕动症】
+来源：雷锋网
+在西南偏南电影音乐节上，三星的内部创业孵化器Creative Lab推出一款名为Entrim 4D的耳机。目前，Entrim 4D还处于原型阶段，具体的售价和上市日期不祥。
+[链接](http://www.leiphone.com/news/201603/2nJdJeTQXK2zvLmb.html)
+
+3.【新闻|大疆回应无人机漏洞：数月前已经解决】
+来源：新浪科技
+央视315晚会对包括无人机在内的智能设备安全风险进行了曝光，大疆回应称，已在数月前通过固件升级的方式将潜在安全漏洞解决。
+[链接](http://tech.sina.com.cn/it/2016-03-15/doc-ifxqhmve9229491.shtml)
+
+4.【新闻|谷歌的Johnny Lee计划解决虚拟现实最大的问题】
+来源：网易科技
+谷歌的 Johnny Lee 和他的员工正在为虚拟现实和增强现实寻求移动位置跟踪技术的解决方案。位置跟踪是虚拟现实最基本的技术，它能够让用户行走，沉浸在一个房间里，目前仅限于有线的虚拟现实头显。
+[链接](http://tech.163.com/16/0316/13/BI9K0ST900094OE0.html)
+
+[【推荐】技术派天使投资男深思考：谈人工智能和大数据创业机会](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401944931&idx=1&sn=31a3a2c56728486296f1db75a557d2db&scene=0#rd)
+
+[【干货】深度学习的一个资源集合Deep Learning Resources](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401944931&idx=2&sn=11f97725431b8abee0b9543afb297d55&scene=0#rd)
+
+[【推荐】2016可能是自动驾驶创业的最佳时间点](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401944931&idx=3&sn=3983cecaf8b2179f1729c3aae87961ba&scene=0#rd)
+
+[【论文】Semi-Supervised Learning with Ladder Networks](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401944931&idx=4&sn=a76a0af320d2c929e8debc8c7adc6ea9&scene=0#rd)
+
+### 2016-03-17
+
+1.【今日资讯头条|索尼VR设备来了 巨头战场竞争激烈】
+来源：网易科技
+索尼电脑娱乐公司作为全球虚拟现实(VR)设备的先行者之一，将于今年10月在日本、北美、欧洲和亚洲其他地区发售PlayStation 4(PS4)专用虚拟现实设备PlayStation VR(PS VR)。
+[链接](http://tech.163.com/16/0317/02/BIATTMBH00094P0U.html)
+
+2.【业界|PK谷歌！百度赴美测试无人驾驶汽车】
+来源：雷锋网
+据外媒报道，百度首席科学家吴恩达于本周二接受接受外媒采访时透露，百度将在美国开始测试自家研发的无人驾驶汽车，最早会在2018年推出商用车型。
+[链接](http://www.leiphone.com/news/201603/xufMUX0h3qiTlV26.html)
+
+3.【新闻|Uber联合创始人：人工智能将彻底改变世界】
+来源：腾讯科技
+Uber联合创始人、独立创业家奥斯卡·萨拉查（Oscar Salazar）萨拉查对人工智能的发展非常乐观，他计划在未来5到10年间，向人工智能领域大量投资。
+[链接](http://tech.qq.com/a/20160317/010077.htm)
+
+4.【新闻|苹果专卖店展示大疆无人机】
+来源：网易科技
+据美国媒体报道，正常情况下苹果在官方专卖店展示区域只会展示自己的产品，但最近出现了变化，苹果给合作伙伴大疆一个展示区用于推广新的Phantom 4（大疆精灵4）无人机。
+[链接](http://tech.163.com/16/0317/12/BIC0G3M8000915BF.html)
+
+[【干货】常见数据挖掘分析处理工具](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401952642&idx=1&sn=2ffc6cf5ab9789c78cec24e0f6e9b2b4&scene=0#rd)
+
+[【推荐】Fundamentals of deep learning](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401952642&idx=2&sn=03736aa79f98656ae06180efc07cc232&scene=0#rd)
+
+[【学习】微软要在Minecraft里做个机器人，教它怎么爬山](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401952642&idx=3&sn=6a3895d342798932e222e59479f28b4f&scene=0#rd)
+
+[【推荐】王飞跃：ALphaGo于是人工智能将成新常态](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401952642&idx=4&sn=0e79a50d0345a5551091500877972aa0&scene=0#rd)
+
+### 2016-03-18
+
+1.【今日资讯头条|波士顿动力机器人公司要被 Google 出售了】
+来源：36氪
+上个月，谷歌旗下的机器人公司Boston Dynamics 发布了新一代 Atlas 视频，视频中新 Atlas 进行了户外行走、搬盒子、自主稳定和自主站立等任务，将人形机器人的发展带到了更高的高度。然而，最近据外媒消息，Google 的父公司 Alphabet 正打算将波士顿动力出售。据说可能的买家包括亚马逊和丰田汽车研究所。
+[链接](http://36kr.com/p/5044709.html)
+
+2.【业界|新加坡一公司测试无人机送餐服务】
+来源：网易科技
+据美国全国广播公司财经频道报道，新加坡“美食熊猫”公司近日公布正在测试无人机订餐送餐服务，改善后的送餐速度将从之前的60-70分钟缩减至30分钟
+[链接](http://tech.163.com//16/0318/08/BIE6EDE200094OE0.html)
+
+3.【新闻|拟脑吴义坚 : 机器人这个行业还很初级】
+来源：雷锋网
+上海元趣创始人吴义气坚表示整个机器人行业的发展目前还处于一个很初级的阶段，机器人的功能和定位没有一个标准，谷歌的AlphaGo，从人工智能角度来讲还属于弱人工智能。AlphaGo离我们真正的人工智能或者智能学习还是很遥远的。
+[链接](http://www.leiphone.com/news/201603/n6VldDsgIMZbfIN8.html)
+
+4.【新闻|森海塞尔推3D音频技术 让虚拟现实视频更真实】
+来源：engadget中文站
+在今年晚些时候，森海塞尔将首先推出一部虚拟现实麦克风。它看上去和普通麦克风没什么区别，但如果将其安装到3D摄像头上，你所录制的音频就可以随着视频的拍摄一起移动。
+[链接](http://digi.tech.qq.com/engadget.htm)
+
+[【干货】做好数据挖掘模型的9条经验](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401965278&idx=1&sn=4566237e7e39b8e69e647a51f732dba7&scene=0#rd)
+
+[【推荐】Understanding LSTM and its diagrams](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401965278&idx=2&sn=40bfda3c5fea66dd884aca5ce0bd46b0&scene=0#rd)
+
+[【学习】Weight Normalization: 加速深度神经网络训练的方法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401965278&idx=3&sn=68ad3ac87956a0b94db21043b578f16c&scene=0#rd)
+
+[【推荐】Deep Learning常用库简要介绍和对比](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401965278&idx=4&sn=97056c385c7693a47b5a9fb3b4c45774&scene=0#rd)
+
+### 2016-03-19
+
+[【干货】挑战国际剧透吹响中国人工智能原创技术的集结号](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401972875&idx=1&sn=da04c4f6dcabc9079d6c784700ee0dab&scene=0#rd)
+
+[【学习】A review of retional machining learning for knowledge Graphs](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401972875&idx=2&sn=21831b1563d56609020b68d5a90f78cb&scene=0#rd)
+
+[【推荐】Deep Q-Network学习怎么玩 flappy bird](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401972875&idx=3&sn=5c907872a8bb30a51c881977e97997da&scene=0#rd)
+
+[【学习】Top 10 Hot Big Data Technologies](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401972875&idx=4&sn=58bb2553dc988a27e4795d3ae2e5e492&scene=0#rd)
+
+1.【今日资讯头条|曾被 Google 拒绝的无人驾驶公交，今天在这座城市上路了】
+来源：爱范儿
+还记得一个月前，那台用 8km/h 走了 200 米的无人驾驶公吗？
+那台无人驾驶公交车叫做 WEpods。用户只需要预先设定好路线，它就会自动将人送到目的地，既不需要司机也不需要跟着导轨走。
+今天，该公司宣布这台 WEpods 已经进入试运营阶段，并且在今年 5 月正式投入使用。届时，它会作为大学、游乐场、机场之间的短途公交，完成着每次运送 6 名乘客在这些地点中来回穿梭的任务。
+[链接](http://www.ifanr.com/635264)
+
+
+2.【业界|Phantom 4背后的功臣，是它赋予了无人机人工智能】
+来源：雷锋网
+几周前，DJI大疆推出了新款无人机产品——Phantom 4，该产品具备强大的避障能力，并依靠计算机视觉来实现自主飞行。由于大疆在此前就展示过这种技术，所以外界普遍猜测Phantom 4上的硬件要么是国产的，要么就是Intel这种巨头所友情提供的。
+但是，几天前theverge的消息显示，芯片制造商Movidius打破了人们的猜测——宣布Phantom 4上所搭载的芯片乃是他们公司旗下的Myriad 2芯片。
+[链接](http://www.leiphone.com/news/201603/I2oQZ1DBRC4iCKkh.html)
+
+3.【新闻|从阿里的布局，看VR/AR如何重新定义电子商务】
+来源：VR看天下
+3月17日，阿里巴巴宣布成立VR实验室，发布“Buy+”计划，将全面布局VR，这一消息也表明，以阿里为首的国内巨头正式开始在VR领域发力。
+其实阿里此举并不让人感到意外，从优酷土豆低调上线360度的全景视频，到领投Magic Leap7.94亿融资，再到Buy＋计划，阿里的VR帝国野心早已开始显露。此次布局，阿里的主要发力点是硬件+内容，硬件依托淘宝+天猫，搭建VR商业生态，加速VR设备普及，助力硬件厂商发展；内容上协同阿里影业、阿里音乐以及优酷土豆，推动优质VR内容产出。
+[链接](http://toutiao.com/a6263667486438195458/)
+
+4.【新闻|索尼 PlayStation VR 推出 500 美元捆绑包，包含 1 个摄像机和 2 个控制器，3月22日 预售】
+来源：36氪
+三天前，索尼宣布于今年10月 份发布价值 400 美元的 PlayStation VR 头显，昨天索尼官方确认将于 3月22日 在北美推出特殊的捆绑包。
+与 Oculus Rift 和 HTC Vive 相比，PlayStation VR 相对较低的售价让它获得称赞，有人说 PlayStation VR 的实际价格比发布的价格高，因为你需要为额外的设备付费，比如摄像机和动作控制器。3月17日，索尼宣布即将发布的 500 美元捆绑包中包含一个 PlayStation 摄像机和 2 个动作控制器。
+[链接](http://36kr.com/p/5044759.html)
+
+### 2016-03-20
+
