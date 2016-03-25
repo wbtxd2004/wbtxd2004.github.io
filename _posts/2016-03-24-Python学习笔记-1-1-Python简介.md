@@ -2,7 +2,7 @@
 layout: post
 category: Python
 title:  Python学习笔记-基础篇-[1]Python简介
-date:   2016-03-22 09:37:05
+date:   2016-03-24 09:37:05
 tagline: by WuBin 武斌
 tags: [Python]
 published: true
@@ -27,7 +27,7 @@ Python的官方解释器是CPython，该解释器用C语言编写，是一个由
 Python支持命令式程序设计、面向对象程序设计、函数式编程、面向侧面的程序设计、泛型编程多种编程范式。
 
 ## 实现
-Python是一门跨平台的脚本语言，Python规定了一个Python语法规则，根据该规则可编写Python解释器。
+Python是一门跨平台的脚本语言，Python规定了一个Python语法规则，根据该规则可编写Python解释器。关于Python解释器的解释可以参考[廖雪峰的博客](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/00143161198846783e33de56d4041058c3dfc7e44ee1203000).
 
 - CPython，官方的解释器。需要区别于其他解释器的时候才以CPython称呼。这是最常用的Python版本。
 - Jython（原名JPython；Java语言实现的Python，现已正式发布）。Jython可以直接调用Java的各种函数库。
