@@ -282,5 +282,3 @@ tuple一开始指向的list并没有改成别的list，所以，tuple所谓的�
 1. [廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/0014317848428125ae6aa24068b4c50a7e71501ab275d52000)
 2. [慕课网](http://www.imooc.com/learn/317)
 3. [Python官方文档](https://docs.python.org/3/)
-4. [维基百科](https://zh.wikipedia.org/wiki/Python)
-6. [谷歌的Python课程](http://code.google.com/edu/languages/google-python-class/)
