@@ -1,6 +1,6 @@
 ---
 layout: post
-category: 记录
+category: WEB开发
 title:  ThinkPHP3.2.3使用composer
 date:   2016-03-04 11:37:05
 tagline: by WuBin 武斌

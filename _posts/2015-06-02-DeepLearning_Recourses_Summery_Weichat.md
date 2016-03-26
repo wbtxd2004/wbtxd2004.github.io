@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Deep Learning
+category: 分享
 title:  深度学习资源汇总
 date:   2015-07-04
 tagline: by WuBin 武斌

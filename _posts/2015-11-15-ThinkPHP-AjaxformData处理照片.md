@@ -1,6 +1,6 @@
 ---
 layout: post
-category: 记录
+category: WEB开发
 title:  ThinkPHP＋AJAX＋JQuery实现了图片不刷新页面上传
 date:   2015-11-15 19:52:05
 tagline: by WuBin 武斌

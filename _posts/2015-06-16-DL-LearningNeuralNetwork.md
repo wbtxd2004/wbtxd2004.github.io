@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  神经网络学习笔记
-category: Machine Learning
+category: Deep Learning
 date:   2015-06-26
 tagline: by WuBin 武斌
 tags: [DeepLearning, Machine Learning, Neural Network]

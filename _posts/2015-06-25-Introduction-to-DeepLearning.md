@@ -5,7 +5,7 @@ date:   2015-06-25
 category: Deep Learning
 tagline: by WuBin 武斌
 tags: [DeepLearning, Machine Learning]
-published: true
+published: false
 author: wubin
 
 ---

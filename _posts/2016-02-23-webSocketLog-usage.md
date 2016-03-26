@@ -1,6 +1,6 @@
 ---
 layout: post
-category: 记录
+category: WEB开发
 title:  webSocketLog学习使用
 date:   2016-02-23 19:37:05
 tagline: by WuBin 武斌

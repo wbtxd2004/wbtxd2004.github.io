@@ -1,6 +1,6 @@
 ---
 layout: post
-category: 记录
+category: WEB开发
 title:  php微信自定义菜单用json_encode不转义中文汉字的方法
 date:   2015-12-01 15:52:05
 tagline: by WuBin 武斌

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: 记录
+category: 运维
 title:  Apache使用点滴总结
 date:   2015-10-28 09:52:05
 tagline: by WuBin 武斌
