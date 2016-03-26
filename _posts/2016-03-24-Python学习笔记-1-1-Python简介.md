@@ -2,7 +2,7 @@
 layout: post
 category: Python
 title:  Python学习笔记-基础篇-[1]Python简介
-date:   2016-03-24 09:37:05
+date:   2016-03-24 09:00:00
 tagline: by WuBin 武斌
 tags: [Python]
 published: true
