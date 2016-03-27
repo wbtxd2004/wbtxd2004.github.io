@@ -1534,6 +1534,15 @@ Oculus日前宣布，Rift的SDK已经可以支持异步时间扭曲了。这项�
 调研公司CBInsights日前发布报告称，2015年全球机器人公司共获得5.87亿美元投资，同比增长115%。此外今年该领域投资趋势依旧强劲，截至3月21日，已有15家公司在15笔交易中获得了总共8900万美元的投资。
 [链接](http://tech.sina.com.cn/it/2016-03-27/doc-ifxqswxn6441157.shtml)
 
+[【干货】KDD China 专题讲座第一讲：语义分析和终身学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402071848&idx=1&sn=8aaadb2578784f2a53236f6b59375379&scene=0#rd)
+
+[【学习】Misleading modelling: overfitting, cross-validation](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402071848&idx=2&sn=5db91dc42718f6f47fc51d8e0189e8e9&scene=0#rd)
+
+[【学习】Google的深度学习强在哪？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402071848&idx=4&sn=ff2147bd47f1e9e8bfc647bd835e9b73&scene=0#rd)
+
+[【论文】Semantic object parsing with Graph LSTM](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=400771103&idx=3&sn=2e26c2f255aa70ce830cdfdc14aedddd&scene=0&previewkey=hNkFUIVKn2RXjA0hSBe8AZ1iJUUG%2F7eLf7OA%2FVEtaJE%3D#rd)
+
+
 [【上周精华版】【干货】谁说机器学习遥不可及，史上最易懂的入门介绍来了！等文章](http://mp.weixin.qq.com/s?__biz=MzAxNTE2MjcxNw==&mid=404979762&idx=1&sn=8ec0ce0592c5e720655c9a1af25c6e1e&scene=0#rd)
 
 ### 2016-03-28
