@@ -84,7 +84,7 @@ Python的dict就是专门干这件事的。用dict表示“名字”-“成绩�
 		if 'Paul' in d:
 		    print d['Paul']
 
-如果 'Paul' 不存在，if语句判断为False，自然不会执行 print d['Paul'] ，从而避免了错误。
+	如果 'Paul' 不存在，if语句判断为False，自然不会执行 print d['Paul'] ，从而避免了错误。
 
 2. 使用dict本身提供的一个 get 方法，在Key不存在的时候，返回None：
 
