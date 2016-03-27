@@ -25,7 +25,7 @@ author :
 # 页脚显示的联系方式的信息
 contact :
   E-mail : mailto:wbtxd2004@gmail.com
-  Github : https://github.com/wbtxd2004ßß
+  Github : https://github.com/wbtxd2004
   
 # Links showed on the footer
 # 页脚显示的链接信息
@@ -126,7 +126,6 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  # 以下为武斌注释，去掉评论
   comments :
     provider : false #以前是duoshuo
     duoshuo :
@@ -142,7 +141,6 @@ JB :
       num_posts: 5
       width: 580
       colorscheme: light
-  # 注释结束
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
@@ -185,4 +183,4 @@ timezone: 'Asia/Shanghai'
 encoding:     "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 textile_ext:  "textile"
-safe:         falseí
+safe:         "false"

@@ -2,7 +2,7 @@
 layout: post
 category: 分享
 title:  深度学习资源汇总
-date:   2015-07-04
+date:   2017-07-04
 tagline: by WuBin 武斌
 tags: [DeepLearning, weichat]
 author: wubin

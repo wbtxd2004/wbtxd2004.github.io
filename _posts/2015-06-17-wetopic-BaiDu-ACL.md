@@ -5,7 +5,7 @@ title:  ACL主席王海峰和百度巨牛们探讨NLP的挑战和未来(微信�
 date:   2015-06-17 23:26:05
 tagline: by WuBin 武斌
 tags: [DeepLearning, weichat, BaiDu, NLP]
-published: false
+published: true
 author: wubin
 
 ---
