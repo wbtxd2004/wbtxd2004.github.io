@@ -1296,3 +1296,227 @@ Uber联合创始人、独立创业家奥斯卡·萨拉查（Oscar Salazar）萨�
 
 ### 2016-03-20
 
+[【干货】简论人工智能](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401979213&idx=1&sn=572cacfb70fb3e2b997f896ac929dbb7&scene=0#rd)
+
+[【论文】采用卷积神经网络动态参数预测的图像问题回答系统](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401979213&idx=2&sn=b4248895b35d1470bc1d8666224257d4&scene=0#rd)
+
+[【推荐】Palantir产品技术解读](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401979213&idx=3&sn=355362833d9f891a80f080f842965ded&scene=0#rd)
+
+[【学习】Jeff Dean谈Google的大规模deep learning](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401979213&idx=4&sn=477d6796fbd4db498bc1831ed4ef849b&scene=0#rd)
+
+1.【今日资讯头条|当机器人与人爆发冲突 法庭如何裁决】
+来源：腾讯科技
+据大西洋月刊报道，随着机器人越来越深入地融入人类社会，如何在机器人技术和法律制度之间保持平衡，已成为机器人立法面临的重大挑战。当机器人与人类爆发冲突时，法庭将如何作出裁决？
+[链接](http://tech.qq.com/a/20160320/006729.htm)
+
+2.【业界|大疆Phantom 4如何拥有人工智能】
+来源：网易科技
+DJI大疆最近推出了新款无人机产品——Phantom 4，该产品具备强大的避障能力，并依靠计算机视觉来实现自主飞行。由于大疆在此前就展示过这种技术，所以外界普遍猜测Phantom 4上的硬件要么是国产的，要么就是intel这种巨头所友情提供的。但是，几天前theverge的消息显示，芯片制造商Movidius打破了人们的猜测——宣布Phantom 4上所搭载的芯片乃是他们公司旗下的Myriad 2芯片。
+[链接](http://tech.163.com/16/0320/08/BIJC5AOH000915BF.html)
+
+3.【新闻|英媒：“虚拟现实革命”不会很快到来】
+来源：新浪科技
+每年在伦敦举办的Wearable Technology Show 被称作欧洲可穿戴技术领域的最大展会。今年，虚拟现实(VR)和增强现实(AR)技术成了这里最炙手可热的话题。尽管想象空间和估值前景都已经被足够放大，但对于这个刚刚兴起的行业而言，仍然缺少和智能手机、个人电脑等领域同样清晰明确的商业模式和产业标准。
+[链接](http://tech.sina.com.cn/it/2016-03-20/doc-ifxqnski7758318.shtml)
+
+4.【新闻|百度首席科学家吴恩达、IDL负责人林元庆谈无人驾驶汽车】
+来源：雷锋网
+无人驾驶的实现不是任何一个组织的事情。它需要公私合作，需要科研人员、工程师、科技公司、汽车厂商等密切合作。安全的无人驾驶汽车需要对道路的基础设施进行适当的改变、采用易于识别和可预测的设计以及让行人和人类驾驶员理解计算机的驾驶模式等。
+[链接](http://www.leiphone.com/news/201603/CIYUyDnvt8hiKni0.html)
+
+### 2016-03-21
+
+1.【今日资讯头条|机器人也能当CEO 表现超越人类】
+来源：腾讯科技
+据外媒报道，2016年世界经济论坛上曾发布报告称，在未来数年，数以百万计的人类工作岗位将被机器人取代。工人、司机和飞行员可能最容易受到影响，而艺术家、演员以及经理人等需要与人类打交道的工作则会继续保持安全。有些工作可能必须由人类继续承担，但对于经理人来说，被取代的危险却越来越高。
+[链接](http://tech.qq.com/a/20160321/031354.htm)
+
+2.【业界|大疆本周发售喷农药植保无人机 售价52999元】
+来源：Tech web
+无人机公司大疆创新今日宣布，将从本周开始，在中日韩三地同时发售MG-1农业植保机。大陆地区零售价为52999元人民币。同时，大疆将打造农业植保无人机生态链，在全国培养一万名植保机专业飞手，建立一百家售后服务网点等。
+[链接](http://www.techweb.com.cn/it/2016-03-21/2300460.shtml)
+
+3.【新闻|“VR一体机”有望引领行业新格局】
+来源：网易科技
+从今年的GDC现场我们可以看出VR的发展趋势呈迅猛态势，此次展会也首度为VR开辟了VRDC专场，VR技术已经发展成为全球科技企业最受关注的领域。行业普遍认为2016年将是VR爆发的元年，Oculus、索尼、HTC等都推出了新的VR消费级产品。
+[链接](http://tech.163.com/16/0321/06/BILNEPHA00094P0U.html#index_wit)
+
+4.【新闻|“脸书”人工智能亮相】
+来源：新浪科技
+本月，世界规模最大的电脑围棋大赛在日本东京都调布市开幕。虽然美国谷歌公司研发的“阿尔法狗”没来，但美国“脸书”公司推出的人工智能程序将首次参赛。
+[链接](http://tech.sina.com.cn/zl/post/detail/it/2016-03-21/pid_8504956.htm)
+
+[【干货】Facebook 机器学习应用团队的负责人Candela谈机器学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401988359&idx=1&sn=faddb9ed3a8f6ca743b2c33446dce4b6&scene=0#rd)
+
+[【干货】数据科学的线性模型导论](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401988359&idx=2&sn=d041aaa19344511d49d5631d5e205c44&scene=0#rd)
+
+[【论文】面向文本处理的感知变分推理](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401988359&idx=3&sn=9f0856540d62bc29350a6d48228d9ce5&scene=0#rd)
+
+[【学习】牛津视觉组2016自然场景下文本识别的新文](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401988359&idx=4&sn=60a982331311c161958e808633f23029&scene=0#rd)
+
+### 2016-03-22
+
+1.【今日资讯头条|无人驾驶技术将如何“杀死”私家车】
+来源：腾讯科技
+谷歌正在陷入与传统汽车厂商的纷争之中，双方对于汽车的发展前景有着根本性的分歧。”相较于谷歌对无人驾驶的笃定，传统汽车厂商更愿意称呼自己的研究方向是辅助驾驶系统。
+[链接](http://tech.sina.com.cn/zl/post/detail/it/2016-03-22/pid_8505024.htm
+)
+
+2.【业界|诺基亚VR相机OZO发货 售价近40万一台】
+来源：腾讯科技
+早前，诺基亚就推出一款VR相机设备OZO，传闻近日这款售价高达6万美金的诺基亚VR相机OZO即将发货。
+[链接](http://tech.sina.com.cn/e/z/2016-03-22/doc-ifxqnskh1086479.shtml)
+
+3.【新闻|这样指导自动驾驶汽车，MIT说交通灯可以取消了】
+来源：网易科技
+据外媒报道，麻省理工（MIT）可感城市实验室Senseable City Lab最近正进行一项研究，测试没有任何交通信号灯的道路网络的可行性
+[链接](http://www.leiphone.com/news/201603/EeLOt9SkGIoBJkTQ.html)
+
+4.【新闻|日本人工智能撰写的小说参赛通过初审】
+来源：网易科技
+用人工智能撰写小说并参赛的项目研究人员近日在东京召开报告会，称虽然最终未能获奖，但也有作品通过了初审。文章没有破绽，今后能在多大程度上减少人的参与将成为研究课题。
+[链接](http://news.china.com.cn/rollnews/news/live/2016-03/22/content_35616981.htm)
+
+[【干货】梯度下降优化及其各种变体](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402000009&idx=1&sn=b81454078c93459346bdbf602c343335&scene=0#rd)
+
+[【推荐】关于人工智能的十大误解，看看你中招没](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402000009&idx=2&sn=8184d9afbe23076dec3a50d22cb8218a&scene=0#rd)
+
+[【推荐】专访Geoffrey Hinton：人工智能会继续发展，请不要误用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402000009&idx=3&sn=f201731b746163734ac6071027a42729&scene=0#rd)
+
+[【人机大战】影响世界的十大比赛](http://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=403116988&idx=1&sn=e3c33bb7d64d5c6d9fb084649698d7ee&scene=1&srcid=03224pdi87uOAcQvJ4BpHksF#rd)
+
+[AlphaGo算法论文《精通围棋博弈的深层神经网络和树搜索算...](http://mp.weixin.qq.com/s?__biz=MzIwMTQ4MzQwNQ==&mid=405332501&idx=1&sn=1223cae3d5c8a02ad4379f3097dd331f&scene=23&srcid=03224UR0ZqnQfmAg2mO6K3bq#rd)
+
+### 2016-03-23
+
+1.【今日资讯头条|AlphaGo为何不敢和人类比打麻将？】
+来源：腾讯科技
+马云最近在“中国发展高层论坛2016年会”上表示，机器会比人类更聪明，但是机器永远不会像人类那样有智慧，“应该用机器来解决问题，应对气候变化、疾病和贫穷。
+[链接](http://tech.qq.com/a/20160323/055525.htm)
+
+2.【业界|三星将在4月SDC大会上公开虚拟现实商业计划】
+来源：搜狐科技
+在成为虚拟现实和增强现实市场的领头羊之际，韩国科技巨头三星电子决定将之视为未来经济的增长引擎。下个月在旧金山举行的2016三星开发者大会上，三星将会公布虚拟现实和增强现实的商业计划。
+[链接](http://it.sohu.com/20160323/n441646128.shtml)
+
+3.【新闻|微软全新人工智能系统首次曝光】
+来源：网易数码
+日前，有名开发者h0x0d曝光微软即将推出AI聊天机器人Tay，并且给出了网站：www.tay.ai，不过当笔者试图进入这个网站时发现，必须要有一个经过授权的账号才可以访问。除了仅仅给出一个URL之外，目前还没有更多的相关消息公布。
+[链接](http://digi.163.com/16/0323/16/BIRUA5J900162OUT.html)
+
+4.【新闻|爱尔兰梅奥郡欲打造商用无人机发展中心】
+来源：uavsnews
+据《爱尔兰时报》报道爱尔兰梅奥郡正计划将该地区打造成商用无人机发展中心。爱尔兰希望诸如Amazon、Google与Facebook等需要进行无人机快递测试的企业前来爱尔兰进行合作测试。
+[链接](http://uavsnews.com/news/2160.uavs)
+
+[【干货】A comparison of Supervised learning Algorithm](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402014430&idx=1&sn=f2100afa4123ae0d1a37ad3e42c59eb3&scene=0#rd)
+
+[【推荐】CNN+LSTM model for Visual Question Answer](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402014430&idx=2&sn=da4788adfd173202c28d86b941077ca9&scene=0#rd)
+
+[【推荐】一个图像处理和分析的库VIGRA](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402014430&idx=3&sn=19394c50b8bd1c33db43d18c28c92f11&scene=0#rd)
+
+[【论文】解决并行训练困境](htp://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402014430&idx=4&sn=78dcbd967c469da7f6f23d107b292355&scene=0#rd)
+
+### 2016-03-24
+
+1.【今日资讯头条|人工智能有了定制“大脑”】
+来源：搜狐科技
+日前，中科院计算所发布了全球首个能够“深度学习”的“神经网络”处理器芯片，名为 “寒武纪”。该课题组负责人之一、中科院计算所陈天石博士透露，这项成果将于今年内正式投入产业化。在不久的未来，反欺诈的刷脸支付、图片搜索等都将更加可靠、易用。
+[链接](http://roll.sohu.com/20160324/n441862987.shtml)
+
+2.【业界|HTC Vive确认将于4月5日开始发货】
+来源：yivian
+过几周，Oculus Rift和HTC Vive头显就要出现在世界各地了。预购HTC Vive的用户在国外社交网站Twitter上询问4月5日是否为始发货日。HTC则回应并确认4月5日当天就会开始发货。
+[链接](http://yivian.com/2016/03/24/vr330/14956)
+
+3.【新闻|微型无人机成为无人机投资者的下一个大方向】
+来源：uavsnews
+美国联邦航空管理局对微型无人机进行了级别分类同时又评估了各类别的风险程度。无人机的投资者们开始纷纷尝试从微型无人机着手开拓市场。
+[链接](http://uavsnews.com/news/2164.uavs)
+
+4.【新闻|Google开放语音识别API，发布新机器学习云平台】
+来源：雷锋网
+今日Google Next云计算大会在美国旧金山召开，会上Google面向开发者发布了新的机器学习平台，并开放语音识别的API。该公司董事长Eric Schmidt表示，Google相信机器学习是“下一步未来”，有了这个新的平台，开发者将能够更加容易地应用该领域的最新技术。
+[链接](http://www.leiphone.com/news/201603/KD6jVNk7ZiLQGTTi.html)
+
+[【干货】CNN、RNN、DNN的内部网络结构有什么区别？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402026161&idx=1&sn=b864575c7091eb5ea078db6c03f8135a&scene=0#rd)
+
+[【推荐】麻省理工科技：大数据分析自动化](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402026161&idx=2&sn=9cbc8e5bf0c8252ecb55365131bc9116&scene=0#rd)
+
+[【推荐】人工智能革命特辑：把决定权交给汽车，那么人类呢？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402026161&idx=3&sn=96029759d61ea6aabc11cac41ce9be76&scene=0#rd)
+
+[【论文】综述：深度学习在神武信息学中的应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402026161&idx=4&sn=2ed54e161ec3cbc07b10e97e128e67da&scene=0#rd)
+
+### 2016-03-25
+
+1.【今日资讯头条|百度要用人工智能防止踩踏事故发生】
+来源：新浪科技
+北京时间3月25日下午消息，百度旗下的一个部门开发了一种新算法，可以预测人群聚集状况，从而向主管部门和个人用户发出预警，避免异常人群聚集可能引发的公共安全威胁。
+[链接](http://tech.sina.com.cn/it/2016-03-25/doc-ifxqswxn6404305.shtml)
+
+2.【业界|微软聊天机器人上线不到1天就被强制休眠 】
+来源：雷锋网
+微软聊天机器人Tay在美国主要针对18至24岁之间的用户。但上线不到一天，竟然出现攻击性和种族歧视言论，微软不得不马上让其短暂休眠。
+[链接](http://www.leiphone.com/news/201603/iwxj4dzM3jV7MFjy.html)
+
+3.【新闻|Steam立功 你能直接在虚拟现实中阅读邮件了】
+来源：腾讯数码
+Steam向VR头戴式设备的用户提供了一个称之为“桌面影院”（Desktop Theater）的模式。在该模式下，用户可以将二维的游戏以及视频拖放到设备中展示。
+[链接](http://digi.tech.qq.com/a/20160325/010113.htm)
+ 
+4.【新闻|腾讯首款无人机产品“空影YING”正式发布】
+来源：网易科技
+北京时间3月25日，在腾讯举办的互动娱乐年度发布会上，腾讯旗下首款无人机产品“空影YING”正式发布，这款小巧的无人机专为用户户外娱乐、旅游打造，相比目前市售主流的无人机产品，空影YING小巧的身材填补了国产便携性无人机的空白。
+[链接](http://tech.china.com/hardware/11146634/20160325/22309145.html)
+
+
+[【干货】谁说机器学习遥不可及，史上最易懂的入门介绍来了!](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402052937&idx=1&sn=f50f9db34cd1b8edface86285108c72b&scene=0#rd)
+
+[【干货】Github上深度学习资料汇总](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402052937&idx=2&sn=2169a8016d9dd1c3d0bc29e5c3f6d91d&scene=0#rd)
+
+[【论文】通过resistive cross-point devices 加速深度神经网络的训练](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402052937&idx=3&sn=b86622e5b72c02a7b69b0fe45c9b330a&scene=0#rd)
+
+[【学习】Google公开语音识别的API，与Nuance不相上下](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402052937&idx=4&sn=d3bce52f53e8ba6282b51dafc6b3f363&scene=0#rd)
+
+### 2016-03-26
+
+1.【今日资讯头条|人工智能成博鳌论坛热门话题：人机融合是趋势】
+来源：新浪科技
+在博鳌亚洲论坛2016年年会上，人工智能和“智造”再次成为热门话题。在多场分论坛和活动中，不少专家表示，除了让机器在某一个专业领域像人一样，代替人类或者比人类做得更好，还应更多强调机器与人类的配合，去做人和机器各自擅长的事情；通过人机更好的融合，实现之前单独无法完成的事情，甚至诞生一个新新人类的时代。
+[链接](http://tech.sina.com.cn/it/2016-03-26/doc-ifxqswxk9662645.shtml)
+
+2.【业界|阿里云人工智能打败马云“御用”全球速记亚军】
+来源：驱动之家
+日前，AlphaGo以4:0的明显优势战胜韩国9段围棋手李世石，彰显了人工智能的强大。
+而在近日，阿里云也在人工智能领域向人类发起挑战。阿里云在2016年会上公开展示实时语音识别技术，并现场挑战第50届世界速记大赛亚军姜毅，最终在准确率上以0.67%的微弱优势战胜马云“御用”速记姜毅。
+[链接](http://news.mydrivers.com/1/475/475516.htm)
+
+3.【新闻|美媒:华盛顿拟让小机器人送货】
+来源：腾讯科技
+参考消息网报道 美媒称，华盛顿市推出一项法案，在华盛顿市允许机器人把小型邮件投递到顾客手中，这样不但可以节省费用，也有助环境保护。
+据美国之音电台网站报道，不久的将来你可能会在华盛顿市看到这样的小机器人穿街走巷，为顾客送货上门。
+[链接](http://tech.qq.com/a/20160326/022509.htm)
+
+4.【新闻|探秘谷歌庞大数据中心 可容纳7.5万台机器】
+来源：新华网
+国际在线专稿：据英国《每日邮报》报道，谷歌位于俄勒冈州达勒斯市（Dalles）的数据中心是一栋非常独特的建筑，大多数谷歌员工都不允许入内。现在Youtube360度全景视频让人们有机会一睹这些大规模设施的真容。这些数据中心可容纳7.5万台机器，信息处理速度远远超过家用互联网。
+谷歌云平台博客称，这段视频可在台式电脑、手机以及谷歌虚拟现实设备Cardboard观看，可享受“身临其境的观赏体验”。在谷歌云平台开发者桑迪普（Sandeep）的引领下，观众可以浏览整栋建筑，从数据中心基础设施到冷却装置等。
+[链接](http://www.yn.xinhuanet.com/photos/2016-03/26/c_135224883.htm)
+
+
+[【推荐】一种通用的Deep Q-learning 算法框架代码](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402063862&idx=1&sn=4de48b80c2ca12f1a5cae8d693ea30f3&scene=0#rd)
+
+[【推荐】人工智能入门基础之一代宗师](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402063862&idx=2&sn=c03754f69017389595c72bfbbae1db99&scene=0#rd)
+
+[【论文】Deep Learning at x.ai](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402063862&idx=3&sn=cadef2f5550a66322188bc6d375a8ee4&scene=0#rd)
+
+[【学习】人工智能如何改变Facebook](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402063862&idx=4&sn=01b0345fb1d85d90f3f8e322682f371e&scene=0#rd)
+
+### 2016-03-27
+
+[【上周精华版】【干货】谁说机器学习遥不可及，史上最易懂的入门介绍来了！等文章](http://mp.weixin.qq.com/s?__biz=MzAxNTE2MjcxNw==&mid=404979762&idx=1&sn=8ec0ce0592c5e720655c9a1af25c6e1e&scene=0#rd)
+
+### 2016-03-28
+### 2016-03-29
+### 2016-03-30
+### 2016-03-31

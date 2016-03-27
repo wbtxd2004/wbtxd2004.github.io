@@ -10,7 +10,7 @@ author: 武斌
 
 ---
 
-本篇主要介绍了Python的List(类型)和Tuple(元祖)类型。
+本篇主要介绍了Python的List(列表)和Tuple(元祖)类型。
 
 <!--more-->
 
