@@ -1546,6 +1546,303 @@ Oculus日前宣布，Rift的SDK已经可以支持异步时间扭曲了。这项�
 [【上周精华版】【干货】谁说机器学习遥不可及，史上最易懂的入门介绍来了！等文章](http://mp.weixin.qq.com/s?__biz=MzAxNTE2MjcxNw==&mid=404979762&idx=1&sn=8ec0ce0592c5e720655c9a1af25c6e1e&scene=0#rd)
 
 ### 2016-03-28
+
+1.【今日资讯头条|虚拟现实峰会将召开 新品密推望再引爆产业链】
+来源：搜狐新闻
+虚拟现实产业近期将迎来行业盛会，2016中国首届虚拟现实+高峰论坛将于2016年4月1日在中国长沙举行，届时国内外行业大咖、专家学者、各路大佬精英齐聚，微软Hololens、HTC Vive、暴风魔镜及中航等先进产品展示，同时会上还将发布VR重磅产品。
+[链接](http://stock.sohu.com/20160328/n442552602.shtml)
+
+2.【业界|399 元搭载了 FPV 的 ELF 迷你无人机，想靠性价比打开市场】
+来源：36氪
+一款名为ELF迷你无人机最近在京东众筹，体积 194mmx182mmx36mm ，采用 iphone5 的镜头，通过手机蓝牙控制遥控，控制距离是 30m ,极限距离 50m，重量为 100 克，但在这 100 克的身材下却搭载了单手体验遥控、虚拟现实眼睛的 FPV、空中自拍录影、实时流畅回传视频、一键分享朋友圈、气压悬停定高等功能。
+[链接](http://36kr.com/p/5045140.html)
+
+3.【新闻|AlphaGo确认将挑战星际2 谷歌与暴雪沟通中】
+来源：新浪科技
+据游戏媒体报道，日前，暴雪娱乐制作总监Tim Morten在WCS中国站决赛上表示，AlphaGo确认将挑战《星际争霸2》，但谷歌目前正在和暴雪沟通，具体细节还没有确定。
+[链接](http://tech.sina.com.cn/it/2016-03-28/doc-ifxqswxk9719404.shtml)
+
+4.【新闻|传Google摄像头应用加入AR技术，可直接搜素图片局部区域】
+来源：雷锋网
+据外媒报道，传闻称Google计划为其摄像头应用增加增强现实（AR）技术。如果真的是这样，该公司将利用Google Goggles中的技术，从而让用户能够看到比如附近的餐馆、公交信息等相关的搜索结果。
+[链接](http://www.leiphone.com/news/201603/e5zgQerXsdxG7yuW.html)
+
+[【干货】Facebook AI负责人：深度学习技术趋势报告](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402085413&idx=1&sn=488faf905c3e009329a91bb021b169c3&scene=0#rd)
+
+[【学习】机器学习在量化投资中的应用（三）--再谈增强学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402085413&idx=2&sn=51efae005fae17fac7f59fd9646a7405&scene=0#rd)
+
+[【论文】使用风格与结构对抗网络对图像生成模型建模](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402085413&idx=3&sn=00e477647a408ff2cc4a5a15d24a8d9f&scene=0#rd)
+
+[【讲座】16-09期VALSE Webinar活动](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402085413&idx=4&sn=4b351a99087eddd3d98c8892c8b968e2&scene=0#rd)
+
 ### 2016-03-29
+
+1.【今日资讯头条|索尼挑战乐高推编程机器人KOOV 今秋上市】
+来源：网易智能
+在29日索尼中国成立20周年的魅力赏活动上，KOOV概念模型首次亮相中国。KOOV是索尼在2016年3月向全球发布了一款机器人教育产品。据悉，KOOV是一款结合了多面积木、创客组件及互联网服务的全概念机器人教育产品，主要面向中小学生编程教育。
+[链接](http://tech.163.com/16/0329/15/BJB8UAMT00094P0U.html#index_wit)
+
+2.【业界|《星战大战》场景成真？微软HoloLens能瞬间传送真人】
+来源：腾讯科技
+据国外媒体报道，微软研究院近来发布视频，演示利用微软增强现实头盔HoloLens将远处的亲人带到眼前，并且进行互动交流的场景。这意味着，类似《星球大战》中的全息通信即将成为现实。
+[链接](http://tech.qq.com/a/20160329/048224.htm)
+
+3.【新闻|AR初创野心不小：买下全息技术开发商 要挑战微软】
+来源：腾讯科技
+据福布斯杂志报道，总部位于美国洛杉矶的Daqri是一家鲜为人知的增强现实初创企业，但其却拥有很大的野心。有鉴于此，Daqri决定收购英国公司Two Trees Photonics，后者根据剑桥大学的研究成果研发出一种全息技术。
+[链接](http://tech.qq.com/a/20160329/044407.htm)
+
+4.【新闻|IDC可穿戴设备报告：中国市场第一名不是苹果】
+来源：雷锋网
+IDC近日一项基于全球可穿戴设备市场的报告指出，可穿戴设备在今年的出货量将增长32.8%，达到上亿体量。按照IDC的推测，到2020年，这一数字将会达到2.37亿。而报告也显示，2015年第四季度中国可穿戴设备市场出货量为790万台，同比增长404.9%。占据可穿戴市场前三名的品牌分别是小米、乐心和苹果。
+[链接](http://tech.163.com/16/0329/07/BJADKD5000094P0U.html#index_wit)
+
+[【干货】机器学习中的梯度下降法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402097744&idx=1&sn=7e22704cb666155251df77e5097d18b5&scene=0#rd)
+
+[【学习】How to do data science with machine learning](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402097744&idx=2&sn=51824048c418c2254922788ada6ee511&scene=0#rd)
+
+[【推荐】Bayesian machine learning](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402097744&idx=3&sn=7e9f792e3bded3a62c58dd5499c3c6c0&scene=0#rd)
+
+[【干货】机器学习资源](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402097744&idx=4&sn=d1afc4ffbe581707f426a6589fda59a0&scene=0#rd)
+
 ### 2016-03-30
+
+1.［今日资讯头条｜谷歌董事长施密特：AI不会威胁到人类］
+来源：网易智能
+据国外媒体Fortune报道，科幻电影中经常会出现机器接管一切，人类沦为计算机的奴隶的情节。而在谷歌母公司Alphabet  董事长埃里克·施密特（Eric Schmidt）看来，那都是胡扯。他认为，人工智能不会威胁到人类及其工作岗位。
+[链接](http://tech.163.com/16/0330/08/BJD31O8E000915BF.html#index_wit)
+
+2.［业界｜日本成田机场设机器人接机 精通中英日文］
+来源：中国新闻网
+人型接客机器人“NAO”，也在该机场第1航站楼内的三菱东京UFJ银行分店，闪亮登场。它不仅精通日文、英文及中文，还能告知汇率、介绍机场内的设施。这台机器人将试验性地安置在外币兑换窗口前，直至4月22日，若无问题发生，则将改为常设。
+[链接](http://news.qq.com/a/20160330/029073.htm)
+
+3.【新闻|预测：2055年美国将全面采用自动驾驶车辆】
+来源：网易智能
+据路透社报道，穆迪投资者服务公司在本周二发布的一份研究报告中表示，美国预计将在2055年全面使用自动驾驶车辆，这将给汽车保险公司造成长期的威胁。这份报告预测完全自主或者自动驾驶汽车将在2030年左右成为美国车辆的常见选择，它很可能在2035年成为出售的所有新车辆的标准。
+[链接](http://tech.163.com/16/0330/04/BJCM9HOG00094P0U.html#index_wit)
+
+4.［新闻｜Facebook透露如何为AI和VR打造硬件］
+来源：网易科技
+Facebook 正在打造下一代开源硬件，将新技术融入其数据中心平台，Facebook使用大量强大科技——包括固态硬盘（SSDs）, 图形处理器（GPUs）, 非易失性存储器（NVM）和闪存簇（JBOFs）——以打造新的服务器和存储装置，加速基础设施。
+[链接](http://tech.163.com/16/0330/07/BJD15VFL00094P0U.html#index_wit)
+
+[【干货】深度学习亮眼ICASSP2016](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=400771103&idx=1&sn=199441d132999397df2b84fe8ffb7610&scene=0&previewkey=hNkFUIVKn2RXjA0hSBe8AZ1iJUUG%2F7eLf7OA%2FVEtaJE%3D#rd)
+
+[【推荐】二值神经网络：催生手腕上的AlphaGo](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=400771103&idx=2&sn=2e004673a87b11909cef56461eddb8b2&scene=0&previewkey=hNkFUIVKn2RXjA0hSBe8AZ1iJUUG%2F7eLf7OA%2FVEtaJE%3D#rd)
+
+[【推荐】深度-拥抱不确定性：深度学习还需一场分离冷凝式的革命](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402116500&idx=3&sn=03a200234257281c308b9f8b6b74cadb&scene=0#rd)
+
+[【学习】我对卷积网络的理解](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402116500&idx=4&sn=1f378ce0a1daf327b7b27b152660c9ee&scene=0#rd)
+
+
 ### 2016-03-31
+
+1.［今日资讯头条｜VR游戏创造新机会 Unity新一轮融资将估值15亿美元］
+来源：腾讯科技
+据彭博社报道，知情人士透露，游戏开发引擎初创企业Unity科技正在与投资者接洽，欲以15亿美元的估值开展新一轮的融资。Unity的主要产品是为游戏开发者提供工具。Oculus Rift自带的30款游戏中有16款都是使用Unity开发的。
+[链接](http://tech.qq.com/a/20160331/046367.htm)
+
+2.［业界｜微软推视觉AI项目：让盲人"看见"世界］
+来源：网易智能
+微软新推出的识别服务框架包含22个新智能API，在发布会上，微软CEO萨提亚·纳德拉（Satya Nadella）向我们展示了它的“Seeing AI”（视觉AI）项目，该技术聚焦于为盲人提供服务，或能帮助我们更好地看清楚我们所处的世界。
+[链接](http://tech.163.com/16/0331/14/BJG97L1800094P0U.html#index_wit)
+
+3.【新闻|百度发智慧汽车战略 将与长安展开无人车测试】
+来源：腾讯科技
+百度今日正式发布“智慧汽车战略”，并与长安汽车签署战略合作协议。今年4月，百度与长安汽车还将对使用百度高精地图信息的无人车展开高速公路测试。此外，双方还将在全新的地图生产模式、自主品牌驾驶方案、车队管理平台、大数据分析系统上进一步合作。
+[链接](http://tech.qq.com/a/20160331/047138.htm)
+
+4.［新闻｜AR终将超越VR 你需要做的只是保持耐心］
+来源：智东西
+VR封闭了用户的视线，用密封的环境来替换用户的视野；AR却将虚拟物件叠加在真实世界之上。不论是VR还是AR都需要强大的计算力支持。就目前而言，VR头盔占据优势，因为它可以和电脑或者游戏机连在一起。这种方案是行得通的，因为头盔限制了用户的移动性。
+[链接](http://tech.163.com/16/0331/07/BJFIMKRO00094P0U.html#index_wit)
+
+[【推荐】决策森林和卷积神经网络二道归一](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402128868&idx=1&sn=33d855841487c0f4b4f4470dc38c855f&scene=0#rd)
+
+[【干货】使用Spark MLlib来训练并服务于自然语言处理模型](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402128868&idx=2&sn=dd387f06fecb014986187bc18c157023&scene=0#rd)
+
+[【论文】Adaptive Computation Time for Recurrent Neural Networks](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402128868&idx=3&sn=6bf0bb15c97d39b348903a7ba12b0b08&scene=0#rd)
+
+[【学习】EFM显因子模型](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402128868&idx=4&sn=6c71be626227158b8ac0ef350ff060b2&scene=0#rd)
+
+
+### 2016-04-01
+
+[【推荐】清华大学大数据平台核心技术课程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402148875&idx=1&sn=f8c4048ce14ef202e239235eceddd56c&scene=1&srcid=0401FoxeS3jPHILAxMaQAuhe#rd)
+
+[【干货】Lasso大神推荐的9篇统计/机器学习论文](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402148875&idx=2&sn=bf129b1ad50c5b879ca9a18debb67d69&scene=1&srcid=04014KHnB3oPnDbaDfzqBRIX#rd)
+
+[【推荐】全新译作《Python 进阶》首发](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402148875&idx=3&sn=cc2ce4cf3ba419aeec5bd42c6198c9f0&scene=1&srcid=040109ylM6q2KZm5Dspi3zop#rd)
+
+[【学习】Deep Networks with Stochastic Depth](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402148875&idx=4&sn=398218effb66625837baa4f593890bd0&scene=1&srcid=0401SQS1WNBiz59D7oqGw1NR#rd)
+
+1.【今日资讯头条|索尼预测PSVR年内销200万 产能不足导致上市晚】
+来源：腾讯科技
+之前，日本索尼已经正式对外发布了虚拟现实头盔PS VR，索尼价格之便宜（399美元）让消费者十分激动，同时十月份才发货让人又感到失望。日前索尼高管解释称，产能不足导致秋季才能够上市销售。
+[链接](http://tech.qq.com/a/20160401/011250.htm)
+
+2.【业界|中国人工智能科学家团队今年将挑战AlphaGo】
+来源：中国证券网
+由中国围棋协会、中国人工智能学会共同主办的“Alpha Go人机大战的解读与中国人工智能论坛”在北京航空航天大学举行，来自学术界、围棋界的专家们，罕见地齐聚一堂深入解析AlphaGo。在论坛研讨会上，世界计算机围棋锦标赛创始人陈昭透露，中国计算机围棋科学家团队将在今年底向谷歌AlphaGo发起挑战。
+[链接](http://tech.sina.com.cn/it/2016-03-31/doc-ifxqxcnr5086152.shtml)
+
+3.【新闻|无人驾驶汽车之后 黑莓雷达盯上运货卡车】
+来源：腾讯科技
+据外电报道，加拿大智能手机制造商黑莓正努力对自身进行改造。黑莓周四推出了“黑莓雷达”（Blackberry Radar）追踪系统，能够被货运公司用于追踪卡车。通过使用“物联网”平台，黑莓雷达的目标是确保客户改进货运车与拖车的使用率、交货时间等。
+[链接](http://tech.qq.com/a/20160401/008934.htm)
+
+4.【新闻|HTC为Vive发布iOS应用 或将整合电话功能】
+来源：yivian
+2016年初，HTC计划将蓝牙功能整合至Vive头显，以便用户在虚拟现实时，也可接收信息。今天，HTC官方推出了iOS APP。然而目前尚未推出安卓版 APP，但也有可能安卓的蓝牙功能更加开放，也就是说无需专门的APP，安卓手机也可原生连接Vive。
+[链接](http://tech.163.com/16/0401/09/BJIA827300094OE0.html#index_wit)
+
+### 2016-04-02
+
+[【推荐】程序员如何学习Machine Learning](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402158265&idx=1&sn=a3bc50a88b227931ed9a3ba13c82a77a&scene=1&srcid=0402z2wIm48rvFYv6Yu58B7q#rd)
+
+[【干货】斯坦福CS224N/Ling284自然语言处理Final Projects 2015-2016](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402158265&idx=2&sn=de5ac085c00f1290534ba5992d745de8&scene=1&srcid=0402duf696UtFcmzc1S3fj0Q#rd)
+
+[【学习】自然语言处理(NLP)概念浅析及国内外学习资料盘点](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402158265&idx=3&sn=e25349da1794fc2507fa04629d107b4a&scene=1&srcid=0402CKTGLgkZas6H9QhZdY1h#rd)
+
+[【学习】大数据驱动下的微博社会化推荐](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402158265&idx=4&sn=ad7c68c642781d1ac24b5b271bf159e3&scene=1&srcid=0402xnHzQ3IddOmbtNJMjSYg#rd)
+
+1.【今日资讯头条|谷歌智能家居野心破灭 Nest上演高管离职潮】
+来源：Re/code中文站
+2014年，谷歌斥资32亿美元收购了开发家庭智能烟雾探测器的Nest公司，希望进入智能家居领域，Nest也开始承担谷歌的物联网市场战略。不过，谷歌梦想遭到了破灭，该公司业绩令人失望，并且出现了高管离职潮，日前，又有两位高管离职。
+[链接](http://tech.qq.com/a/20160402/007404.htm)
+
+2.【业界|大疆在美国起诉中国对手专利侵权 要求产品禁售】
+来源：腾讯科技
+据国外媒体报道，大疆本周在美国加州对竞争对手Yuneec（昊翔）提起诉讼，称该公司侵犯其两项专利。大疆指控称，Yuneec销售的产品侵犯了该公司关于目标跟踪和“可更换云台”的一项或多项专利。
+[链接](http://tech.qq.com/a/20160402/006314.htm)
+
+3.【新闻|虚拟现实大战赢家——游戏引擎开发商】
+来源：腾讯科技
+据彭博社报道，无论消费者愿意购买哪家公司制造的虚拟现实头盔，最终赢家都是总部位于旧金山的小公司Unity Technologies。这家公司的软件被400多万名开发者用于开发视频游戏。随着虚拟现实趋势的崛起，它将成为新时代的“宠儿”。
+[链接](http://tech.qq.com/a/20160402/008021.htm)
+
+4.【新闻|微软亚马逊要为自动驾驶汽车提供云计算服务】
+来源：新浪科技
+路透社今日援引多位知情人士的消息称，亚马逊和微软均有意为HERE地图业务提供云计算服务，从而在自动驾驶汽车业务中扮演大数据管理者的角色。
+[链接](http://tech.sina.com.cn/it/2016-04-02/doc-ifxqxcnp8431937.shtml)
+
+### 2016-04-03
+
+[【推荐】斯坦福CS231n面向视觉识别的卷积神经网络Winter 2016 Course Project Reports](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402167802&idx=1&sn=a3dd5511d948f24ceb7997b13fcb5254&scene=1&srcid=04030xKYPQtJ8XQMsIIsgxIW#rd)
+
+[【推荐】深度学习、机器学习相关的进展总结Keep Up With New Trends（2016-4-1）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402167802&idx=2&sn=4bf832e2db64c840bd20b8e33f897df3&scene=1&srcid=04039QDdh3jIesYwMP3uBKYB#rd)
+
+[【论文】谷歌ICML16论文《快速场景理解的生成式模型》](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402167802&idx=3&sn=a8cc0d062c64bfe519a6a8b335b2fcfb&scene=1&srcid=0403pFzVA0FlEB6co3915Ict#rd)
+
+[【学习】百度硅谷AI实验室的一篇关于Persistent RNNs的技术报告](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402167802&idx=4&sn=289ffb37e045a40b0acb1dddda086e37&scene=1&srcid=0403G047LrWaNt0qacihQIaV#rd)
+
+1.【今日资讯头条|Oculus因零件短缺推迟发货：取消运费补偿用户】
+来源：新浪科技
+虽然Facebook旗下的Oculus率先推出了虚拟现实眼罩，但这款产品的发布却并非一帆风顺。由于零部件短缺，因此Oculus的首批产品出现发货延迟现象。Oculus Rift眼罩预售价为599美元，原计划从3月28日开始正式发货。
+[链接](http://tech.sina.com.cn/it/2016-04-03/doc-ifxqxcnr5242171.shtml)
+
+2.【业界|微软聊天机器人“学坏” 给人工智能敲记警钟】
+来源：新华社
+她叫Tay，是微软专为年轻人设计的人工智能聊天机器人，虚拟年龄为19岁。然而，上线不到24小时，这“姑娘”就“学坏”了：出言不逊、脏话不断，言语甚至涉及种族主义、色情、纳粹，充满歧视、仇恨和偏见。作为“家长”，微软只得不停删除Tay的不当言论，并急忙“喊她回家”。
+[链接](http://tech.sina.com.cn/2016-04-02/doc-ifxqxcnp8460466.shtml)
+
+3.【新闻|我国首款智能水下无人机“白鲨”发布】
+来源：经济日报
+人们可以通过手机或者平板电脑控制它的方向、速度和视角，享受属于自己的深海之旅。它便是我国拥有完全自主知识产权的首款智能水下无人机——“白鲨”。
+[链接](http://tech.sina.com.cn/it/2016-04-02/doc-ifxqxcnr5203921.shtml?cre=techpc&mod=inf&loc=2&r=0&doct=0&rfunc=25)
+
+4.【新闻|虚拟现实眩晕问题有望通过科学方法解决】
+来源：中关村在线
+晕动症主要是因为视觉看到的动与内耳传达的静立相错位所造成的，这样会致使用户产生恶心感，尤其是看到太过真实的画面时，这种眩晕感会更加的明显。为了解决晕动症问题，洛杉矶初创公司vMocion计划利用梅奥诊所的航空航天医学和前庭研究实验室研究的电前庭刺激(GVS)技术去解决这个问题。
+[链接](http://digi.163.com/16/0403/06/BJN57ICO00161MAH.html)
+
+### 2016-04-04
+
+[【推荐】斯坦福CS224d：面向自然语言处理的深度学习课程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402178504&idx=1&sn=538ec1427e19d32e67ce92e3da889354&scene=1&srcid=0404FoCXakDAREL7W1cUOMXq#rd)
+
+[【推荐】LIME - Local Interpretable Model-Agnostic Explanations](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402178504&idx=2&sn=2cb09323e26f78d1267d210d4d3826b0&scene=1&srcid=0404Zg5sJMWF6bIMDRv76gvL#rd)
+
+[【学习】Bengio的《Deep Learning》第10章(序列标注：RNN)的读书笔记](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402178504&idx=3&sn=b41c6287525dd9d8df110b623158641c&scene=1&srcid=0404IxQJZbTcfInKgjnISlTG#rd)
+
+[【学习】人体姿态估计-香港中文大学王晓刚团队研究CVPR2016新进展](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402178504&idx=4&sn=fb57b269384f6287c74d3676b0c8d874&scene=1&srcid=0404rczKoQDlBeQvhFsy9VTA#rd)
+
+1.【今日资讯头条|三星Gear VR开始支持VR网页】
+来源：雷锋网
+三星之前为Gear VR开发了一款网页浏览器，现在他们打算更进一步，让用户可以浏览原生的VR格式网页内容。新的实验性功能名为WebVR，用户可以浏览支持的网页时可以享受到完全沉浸的体验，不过需要自己打开这项功能。
+[链接](http://www.leiphone.com/news/201604/NmVimF9cAlH1Yg8P.html)
+
+2.【业界|3Glasses发布“蓝珀”S1头显及360度VR相机Luna】
+来源：网易科技
+3Glasses日前在深圳召开名为“Here VR现在就是未来”的活动，现场召集了众多VR从业者和内容开发团队。现场3Glasses方面正式宣布推出面向消费级市场的第三代产品“蓝珀”系列VR以及多款新品，并同时发布了即将上线的内容与VR SHOW。
+[链接](http://tech.163.com/16/0401/11/BJIH931C00094P0U.html#index_wit)
+
+3.【新闻|美国货运码头要用机器人干活】
+来源：界面
+在预计未来几年全球贸易稳定增长的愿景下，世界各地的港口都在加紧实现自动化的步伐，但美国却落后于整体水平。美国最大的两个港口分别位于洛杉矶和长滩，总共13个的海港码头中仅有2个实现了自动化。
+[链接](http://tech.sina.com.cn/it/2016-04-04/doc-ifxqxcnp8530208.shtml)
+
+4.【新闻|MIT研发精确Wi-Fi，让人难以蹭网】
+来源：雷锋网
+MIT的计算机科学与人工智能实验室发明了一个名为Dubbed Chronos的新系统，能够只通过Wi-Fi信号检测某一区域内人或物体的位置，这一技术可以应用于“无人机、智能家居以及免密码Wi-Fi”方面。
+[链接](http://tech.sina.com.cn/t/2016-04-04/doc-ifxqxcnr5268779.shtml?cre=techpc&mod=inf&loc=1&r=0&doct=0&rfunc=25)
+
+### 2016-04-05
+
+1.【今日资讯头条|光场相机Lytro放弃消费市场 将进军虚拟现实】
+来源：新浪科技
+光场相机制造商Lytro CEO詹森·罗森塔尔(Jason Rosenthal)在Backchannel上撰文，解释了该公司撤出消费相机市场的原因。该公司去年11月推出了一款名为Lytro Immerge的虚拟现实照相机设备。这项战略调整也导致Lytro展开了大幅裁员。
+[链接](http://tech.sina.com.cn/it/2016-04-05/doc-ifxqxcnr5303059.shtml)
+
+2.【业界|谷歌和微软终于有了一个共识：AR比VR更有前途】
+来源：BI中文站
+虽然微软在萨特亚·纳德拉（Satya Nadella）的带领下已经跟很多对手握手言和了，但谷歌仍然是它最仇恨的竞争对手。纳德拉甚至在今日接受采访时还在对谷歌的互联网热气球计划指手画脚。
+[链接](http://tech.qq.com/a/20160405/030506.htm)
+
+3.【新闻|美监管机构建议方案曝光：无人机快递或成现实】
+来源：新浪科技
+美联社获得的一份建议文件显示，美国联邦航空管理局FAA可能将制定规则，允许企业在人口稠密地区运营无人机，这将给无人机快递和其他商业应用打开大门。
+[链接](http://tech.sina.com.cn/it/2016-04-05/doc-ifxqxcnp8595241.shtml)
+
+4.【新闻|美军将在2018年前为士兵配备“口袋型”无人机】
+来源：cnbeta
+据外媒报道，美军现在宣布将在2018年之前为士兵配备这种袖珍的飞行装置。 美军规定，这种无人机的重量不能超过150克，需要能被放进士兵的口袋里。无人机电池的续航时间需要至少达到15分钟。
+[链接](http://tech.163.com/16/0405/10/BJSNKFJ200094P0U.html#index_wit)
+
+[【推荐】（论文+代码）华盛顿大学CVPR2016新进展-Deep3D: 基于深度学习将2D电影转换为3D电影](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402192130&idx=1&sn=809e387612b98bdba141cf2d2dcc8e7f&scene=1&srcid=0405Q8ih7hygTXiC2y05SORR#rd)
+
+[【干货】TensorFlow源码学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402192130&idx=2&sn=27cff4a692e5bb9ab172408cd0c998b3&scene=1&srcid=0405tAKMv7qyOuA1CgEukH7P#rd)
+
+[【学习】知识图谱——机器大脑中的知识库](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402192130&idx=3&sn=50b941a8354febaac2ae3990d6c0132d&scene=1&srcid=0405vRoiucDKhvHwHvIfhaSU#rd)
+
+[【学习】（论文+代码）GPU GENIE并行倒排索引代码发布](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=402192130&idx=4&sn=be1a9c834827c83734408452e524156c&scene=1&srcid=0405QfySX3Jlrm9G7vb2lGlP#rd)
+
+### 2016-04-06
+
+1.【今日资讯头条|Oculus CEO：未来也要做AR或MR】
+来源：智东西
+尽管Oculus Rift消费版头盔已经开售，在最近举行的圣何塞动漫展上，Oculus CEO帕尔默·拉基（Palmer Luckey）却暗示，公司可能最终会涉足AR产业。斯韦舍对VR有点担心，因为现在的用户低头沉迷于智能手机。
+[链接](http://tech.163.com/16/0406/14/BJVN0QU100094OE0.html#index_wit)
+
+2.【业界|谷歌无人车挖走苹果供应链经理 或瞄准大众市场】
+来源：新浪科技
+谷歌最近一直在扩充无人驾驶汽车团队，甚至将苹果前全球供应链经理丹尼尔·穆诺兹(Daniel Munoz)招致麾下，帮助该公司管理无人驾驶汽车的供应链。
+[链接](http://tech.sina.com.cn/it/2016-04-06/doc-ifxqxcnr5406647.shtml)
+
+3.【新闻|紧跟潮流：英伟达CEO豪赌深度学习和虚拟现实技术】
+来源：腾讯科技
+据外电报道，英伟达公司的图形芯片支持着游戏行业获得了长足的发展。但是，这些芯片并不仅仅用于游戏。它们还可以给深度学习人工智能技术提供强有力的支持。该公司现在还为深度学习人工智能开发者提供了软件开发套件。
+[链接](http://tech.qq.com/a/20160406/043231.htm)
+
+4.【新闻|NASA跟微软合作举办MR（混合现实）火星展览】
+来源：yivian
+美国国家航空航天局跟微软合作创造了一场新的名为《目的地：火星》（Destination: Mars）合现实展览，让公众可以跟随全息导游探索这颗红色星球。该体验使用2012年8月好奇号火星探测器登上火星时拍摄的图像创造而成。
+[链接](http://tech.163.com/16/0406/08/BJV2KT9000094OE0.html#index_wit)
+
+[【推荐】2015年深度学习暑假学校资料汇总](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675779&idx=1&sn=26b4cc3fdfb289a71abfbd533eedf482&scene=1&srcid=0406EhtqwON2JgZeuSabY5bC#rd)
+
+[【干货】计算机看图说话最新进展](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675779&idx=2&sn=d58232f8cad286070a825033e7bae9a1&scene=1&srcid=0406jWBYasAuqm4DzbHRTQrY#rd)
+
+[【学习】Seeing AI：计算机视觉十年磨一剑，打造盲人的“瑞士军刀”](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675779&idx=3&sn=505d9f55b7a0274b87bd8fff0d0812ea&scene=1&srcid=0406A2KcQ0JdxWux45GqojNV#rd)
+
+[【讲座】清华大数据“技术·前沿”系列讲座：个性化推荐系统原理及其在大数据生产环境下的案例分析](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675779&idx=4&sn=274974aefaacff48b11bb9eb3db78ae9&scene=1&srcid=0406wbVAJQNqxoUcU9QFARl7#rd)
