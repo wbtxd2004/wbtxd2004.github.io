@@ -805,17 +805,17 @@ Alphabet旗下谷歌周一表示，2月中旬，在该公司无人驾驶汽车�
 2.【业界|HTC Vive头盔开卖10分钟售出1.5万台】
 来源：中关村在线
 据了解，HTC Vive消费者版本已经于2月29日开始在全球范围内限量预售，首批订单将于4月开始发货。由于HTC Vive售价达到800美元（国行套装为6888元），而且需要与一台1000美元的PC配合使用，加之这仍然是一项未经验证的技术，所以如此销量的确令人惊讶。
-[链接：](http://tech.163.com/16/0301/09/BH2I3JGU00094P0U.html#index_wit)
+[[链接](](http://tech.163.com/16/0301/09/BH2I3JGU00094P0U.html#index_wit)
 
 3.【新闻|专访Facebook围棋项目负责人：和谷歌仍有差距】
 来源：腾讯科技
 作为Facebook 人工智能研究院智能围棋项目的负责人，田渊栋的Dark Forest相比大名鼎鼎的谷歌Deepmind的AlphaGo低调了许多，他自己也谦虚地说，Dark Forest的水准较谷歌还是有不小的差距，自己仍在不断的做改进。
-[链接：](http://tech.qq.com/a/20160301/024236.htm)
+[[链接](](http://tech.qq.com/a/20160301/024236.htm)
 
 4.【新闻|沃尔沃用无人机和机器人来实现倒垃圾自动化】
 来源：雷锋网
 沃尔沃于本周早些时候宣布，该公司旗下的ROAR(机器人自主拒绝处理系统)项目已进入原型测试阶段。该系统的设计初衷是要实现将路边垃圾箱内的垃圾自动倾倒进垃圾车内的漏斗中，无需人力辅助。
-[链接：](http://tech.163.com/16/0301/07/BH2BFE2V00094P0U.html#index_wit)
+[[链接](](http://tech.163.com/16/0301/07/BH2BFE2V00094P0U.html#index_wit)
 
 [【推荐】面向数据科学家/机器学习工程师的机器学习/数据挖掘/NLP最佳图书推荐](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=401786679&idx=1&sn=7892118ca7345d464c0c0bfcc989f533&scene=1&srcid=0301pjtMfoK0Ji3d6TL0roA9#rd)
 
@@ -1846,3 +1846,370 @@ MIT的计算机科学与人工智能实验室发明了一个名为Dubbed Chronos
 [【学习】Seeing AI：计算机视觉十年磨一剑，打造盲人的“瑞士军刀”](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675779&idx=3&sn=505d9f55b7a0274b87bd8fff0d0812ea&scene=1&srcid=0406A2KcQ0JdxWux45GqojNV#rd)
 
 [【讲座】清华大数据“技术·前沿”系列讲座：个性化推荐系统原理及其在大数据生产环境下的案例分析](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675779&idx=4&sn=274974aefaacff48b11bb9eb3db78ae9&scene=1&srcid=0406wbVAJQNqxoUcU9QFARl7#rd)
+
+### 2016-04-07
+
+[【推荐】Bengio大神的《Deep Learning》全书已完稿可获取全书电子版](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675786&idx=1&sn=b39dcd84856eba1f597e3a091c61d569&scene=1&srcid=0407aI42XDhowaGKsPAkWNTI#rd)
+
+[【学习】Towards Bayesian Deep Learning: A Survey](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675786&idx=2&sn=3983c9580d826147b096f2e168efa164&scene=1&srcid=0407FC8gJGtQEHlNLrw7gSmH#rd)
+
+[【学习】mxnet：结合R与GPU加速深度学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675786&idx=3&sn=6d9c4df057746550b7b631a7917db638&scene=1&srcid=0407vKiRKduxaipTlxoAm0Hg#rd)
+
+[【干货】算法优化之道：避开鞍点](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675786&idx=4&sn=e0e6474fca6f3fd80d7d43a167602c11&scene=1&srcid=0407mlajBwAiYCGQk55gAJ2Z#rd)
+
+1.【今日资讯头条|三星获AR隐形眼镜专利：眨眨眼就能查看手机视频】
+来源：腾讯科技
+据外电报道，随着Gear VR推出，三星成为了首批涉足虚拟现实领域的公司之一。现在，三星又获得了一项增强现实智能隐形眼镜专利。这种隐形眼镜整合了摄像头、运动感应器、传输器和显示屏。
+[链接](http://tech.qq.com/a/20160407/049541.htm)
+
+2.【业界|谷歌解散机器人业务部门 研发人员内部再就业】
+来源：腾讯科技
+之前曾有消息称，谷歌母公司Alphabet计划转让之前收购得来的机器人企业“波士顿动力公司”，而据外媒最新消息，Alphabet已经解散了机器人业务部门，相关的研发人员正在重新寻找内部工作岗位。
+[链接](http://tech.qq.com/a/20160407/046218.htm)
+
+3.【新闻|大疆等厂商组件无人机制造商联盟】
+来源：雷锋网
+大疆、3DRobotics、Parrot和Gopro 是目前无人机领域的佼佼者，彼此之间的竞争也是白热化的。而现在，这几家企业宣布一起成立了一个联盟。根据介绍是针对消费级无人机的政策问题而跟一些有关部门进行游说工作。
+[链接](http://tech.163.com/16/0407/05/BK1CAVLL00094P0U.html#index_wit)
+
+4.【新闻|机器人产业发展5年规划 突破五大关键零部件】
+来源： 每日经济新闻
+4月6日，工信部官网显示，工信部、国家发改委和财政部近日联合印发了《机器人产业发展规划（2016~2020年）》，引导我国机器人产业快速健康可持续发展。
+[链接](http://tech.163.com/16/0407/04/BK17DK3J00094P0U.html#index_wit)
+
+### 2016-04-08
+
+1.【今日资讯头条|今年VR设备将创造8.95亿美元营收 这三家公司拿走77%】
+来源：VR次元
+据国外科技媒体VentureBeat报道，市场研究公司Strategy Analytics预测，2016年全球虚拟现实设备营收将达到8.95亿美元，其中77%的营收将被Oculus、HTC和索尼等高端虚拟现实设备厂商瓜分。
+[链接](http://tech.qq.com/a/20160408/038865.htm)
+
+2.【业界|英特尔收购机器人和无人驾驶汽车芯片制造商Yogitech】
+来源：BI中文站
+英特尔宣布收购意大利半导体制造商Yogitech，该公司专注为机器人和无人驾驶汽车开发芯片。Yogitech芯片的特别之处在于，它能够通过感应器和摄像头收集和处理无人驾驶汽车周围的环境信息，并用以指导无人驾驶汽车的行驶，防止发生可能的碰撞。
+[链接](http://tech.qq.com/a/20160408/026826.htm)
+
+3.【新闻|Uber也要大干无人驾驶技术 还挖走了福特工程总监】
+来源：Re/code中文站
+Uber周四宣布，福特全球电子和工程总监谢里夫·马拉比（Sherif Marakby）将加入该公司担任全球汽车项目副总裁。马拉比将从底特律前往匹兹堡，Uber正在积极扩张匹兹堡的先进技术中心。
+[链接](http://tech.qq.com/a/20160408/029607.htm)
+
+4.【新闻|丰田在美成立第三间实验室研发自动驾驶技术】
+来源：网易智能
+据路透社报道，本周四丰田汽车公司表示它将于今年六月在美国密西根州安娜堡成立第三间美国研究实验室，用于研究人工智能、机器人和材料科学，从而促进自动驾驶车辆的发展。
+[链接](http://tech.163.com/16/0408/05/BK3V1A0C00094P0U.html#index_wit)
+
+[【群沙龙预告】对话吴恩达（Andrew Ng）：超级大咖深度解析人工智能的发展现状与未来（扫码入群）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675790&idx=1&sn=319173121aa3c6bb0a6134fcac50f7eb&scene=1&srcid=04086S37JIskcSFLsd3ma2Ry#rd)
+
+[【干货】自然语言处理中CNN模型几种常见的Max Pooling操作]
+(http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675790&idx=2&sn=bb1ddbba1eed5c4555b5c1b36913e541&scene=1&srcid=0408T4qnk07nXICaIw2I1r7D#rd)
+
+[【干货】人人都能用Python写出LSTM-RNN的代码](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675790&idx=3&sn=9a6a473b843291f22ff81f82a5d90607&scene=1&srcid=0408UqWAPDlk8A8o6O5t2YyH#rd)
+
+[【学习】解密深度学习在智能推荐系统的实践与应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675790&idx=4&sn=ade35a8621fc091145212619223e2c73&scene=1&srcid=0408eupblufPuw22lFPqdulb#rd)
+
+### 2016-04-09
+
+[【干货】《Deep Learning》笔记--Deep Learning for Beginners](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675791&idx=2&sn=2dac96d3015cf2ac905cbf091f8665a9&scene=1&srcid=0409K0rSCO4bm8OmLlgwrHQU#rd)
+
+[【学习】CMU 镇校神课《深入理解计算机系统(CSAPP)》学习笔记](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675791&idx=3&sn=68048119705be85da7c983cf93bd7110&scene=1&srcid=0409GUP1DrU9WhTESALKyNkX#rd)
+
+[【学习】Spark在美团的实践](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675791&idx=4&sn=c4e9825b6c2696183313a9aa4f6ccb7b&scene=1&srcid=0409KSHN2iZzQf9b7B8mZxaY#rd)
+
+1.【今日资讯头条|无人机终于带着人类上天了：像会飞的特斯拉】
+来源：PingWest
+开发这款无人驾驶飞机的公司名叫Volocopter, 是一家德国企业。这次试飞也是第一次获得政府许可的载人无人驾驶飞机的上天测试。这家创业公司的总经理Alexander Zosel 亲自负责驾驶它上了天。
+[链接](http://tech.sina.com.cn/it/2016-04-09/doc-ifxrcizs7111974.shtml)
+
+2.【业界|Oculus给免费游戏开绿灯:但VR广告公司并不看好】
+来源：新浪科技
+Oculus VR上月在旧金山举行的游戏开发者大会上表示，只要符合该公司的的指导原则，就可以在免费游戏中附带应用内广告。也就是说，只要一款游戏技术过硬，而且能够提供完善的体验，那么即使内部包含广告，仍然可以在Oculus的商店上架。
+[链接](http://tech.sina.com.cn/it/2016-04-08/doc-ifxrcizs7059177.shtml)
+
+3.【新闻|欧洲急救人员将使用大疆无人机进行救援活动】
+来源：网易智能
+据TheVerge网站报道，大疆宣布它将在欧洲训练第一批急救人员使用无人机进行救援活动。这个与总部位于布鲁塞尔的非政府组织欧洲紧急数字协会（EENA）合作的项目将提高营救效率，拯救生命。
+[链接](http://tech.163.com/16/0408/05/BK3UISLD00094P0U.html#index_wit)
+
+4.【新闻|VR元年虚拟现实起步令人沮丧不已】
+来源：yivian
+2016年是虚拟现实的元年，因为令全球瞩目的三大虚拟现实头显Oculus Rift、HTC Vive和PlayStation VR都将在2016年正式上市发售消费版。实际情况是，虚拟现实黄金时代确实已经开始，但还只是小部分人的狂欢。
+[链接](http://tech.163.com/16/0408/03/BK3NQBSH00094OE0.html#index_wit)
+
+### 2016-04-10
+
+[【上周精华版】（论文+代码）华盛顿大学CVPR2016新进展-Deep3D: 基于深度学习将2D电影转换为3D电影等文章](http://mp.weixin.qq.com/s?__biz=MzAxNTE2MjcxNw==&mid=405211259&idx=1&sn=184a991b78dc6296600f631ff6affe3c&scene=1&srcid=0410V27QszZbwAqFl7GT4rrj#rd)
+
+1.【今日资讯头条|微软亚马逊发力，智能聊天机器人即将到来】
+来源：腾讯科技
+美国科技博客The Verge本周刊文称，智能聊天机器人正在快速发展，微软、Facebook和亚马逊正在发力这一技术，而一款名为艾米的智能聊天机器人近期完成了2300万美元融资。
+[链接](http://tech.qq.com/a/20160410/006090.htm)
+
+2.【业界|谷歌子公司黑科技机器人：神似《星际穿越》】
+来源：新浪科技
+就在谷歌母公司Alphabet打算出售机器人子公司波士顿动力的消息引发行业关注之际，Alphabet的又一家机器人子公司Schaft不失时机地发布了另一款人形两足机器人，似乎意在向外界展示谷歌在机器人领域的雄厚实力。
+[链接](http://tech.sina.com.cn/it/2016-04-10/doc-ifxrcizs7150975.shtml)
+
+3.【新闻|VR+汽车设计，宝马与HTC Vive擦出的火苗】
+来源：雷锋网
+据外媒报道，宝马近日宣布，计划把HTC Vive引入汽车研发的早期工作中，让其在车内设计、远程协作、测试评估等方面发挥作用。具体来说，在宝马汽车设计环节，可以通过VR实现车饰可视化，并且还可以模拟出试驾场景，帮助设计师快速修正草案。
+[链接](http://www.leiphone.com/news/201604/DtcNRKZi89kbkpMW.html)
+
+4.【新闻|苹果申请触控键盘专利 整个键盘是一平面】
+来源：BI中文站
+苹果推出的最新笔记本电脑MacBook键盘十分特殊，其键程非常短，以至于手指按下去后没有明显感觉，这意味着其可比同类设备更薄。但是据苹果去年秋季提交的专利申请显示，苹果可能正在考虑彻底放弃笔记本电脑键盘，转而使用完全平坦的触控键盘代替。
+[链接](http://tech.qq.com/a/20160408/007495.htm)
+
+[【群沙龙预告】对话吴恩达（Andrew Ng）：超级大咖深度解析人工智能的发展现状与未来（扫码入群）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675793&idx=1&sn=b73a674270c9775e2906ce1e6f852ba7&scene=1&srcid=0410yrMuzbKvE5SBEo2FcdMM#rd)
+
+[【干货】经典的深度学习教程笔记及Python代码实现](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675793&idx=2&sn=4dc3604fc3b1d6a7836da8f6ca2c4c30&scene=1&srcid=0410JDyEi7vn4gPt2idOBC7V#rd)
+
+[【学习】kaggle实战-从KNN,LR,SVM,RF到深度学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675793&idx=3&sn=3bbc1af28ee6e87998456abf55ef2ea5&scene=1&srcid=0410Xk0U9r7j26mSn6dQLcI3#rd)
+
+[【学习】邢波教授谈人工智能科学路径：为人工智能装上「无穷动」引擎](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675793&idx=4&sn=24f039232beefc49c0414d2c4cfaec0a&scene=1&srcid=0410t5uk8lv7sfe3EcRkLoFY#rd)
+
+### 2016-04-11
+
+1.【今日资讯头条|传统汽车厂商希望美国推迟无人驾驶汽车上路】
+来源：新浪科技
+美国高速公路交通安全管理局(NHTSA)今年1月表示，未来6个月内，该部门计划“制定关于自动驾驶汽车安全部署和运营的指导性原则”。目前，NHTSA正在与美国各州以及美国机动车辆管理协会合作，制定州范围的示范性政策，最终在美国全国范围内促成政策的一致性。
+[链接](http://tech.sina.com.cn/it/2016-04-11/doc-ifxrcizu3944500.shtml)
+
+2.【业界|调查称仅37%游戏玩家知道虚拟现实】
+来源：yivian
+最近的Nielsen调查显示，仅有37%的美国游戏玩家知道至少一款虚拟现实或增强现实设备。千禧一代对虚拟现实最感兴趣。2000名青少年和成人玩家对一项网上调查进行投票，结果显示有22%的人知道Oculus Rift的发布，位居榜首。
+[链接](http://tech.163.com/16/0411/06/BKBPVOUF00094OE0.html#index_wit)
+
+3.【新闻|喷气背包公司高管试飞失控，半空中坠落】
+来源：雷锋网
+据科技网站Gizmodo报道，喷气背包开发商Jet Pack International副总裁Mick Macomber近日在丹佛市的一次试飞中发生了事故，过程中设备失控，导致Macomber头部着地被紧急送院。
+[链接](http://www.leiphone.com/news/201604/KLKaqZdRUbEqiS7f.html)
+
+4.【新闻|黑飞、续航短、定位乱等或使无人机行业折翼】
+来源：腾讯科技
+续航时间一直是限制无人机技术发展的重要瓶颈。目前市面上包括大疆无人机在内的多旋翼无人机大多使用锂电池作为能源，因为它采购方便，工艺成熟，但因个体差异，电芯无法做到100%均衡的充放电，且大功率电池的充电时间比较长使用起来较为麻烦。
+[链接](http://tech.qq.com/a/20160411/021001.htm)
+
+[【群沙龙预告】对话吴恩达（Andrew Ng）：超级大咖深度解析人工智能的发展现状与未来（扫码入群）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675795&idx=1&sn=892923b24c2d49ae6e36ab4f675d095b&scene=1&srcid=0411qgTA02G1jogMcPJnEvwX#rd)
+
+[【干货】微软研究院邓力老师在CASSP2016上的关于深度学习报告slides](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675795&idx=2&sn=722a025ce9ac5b20dbfd40c75f97f45c&scene=1&srcid=0411k2MKIqFz3xC6QGjZcpSe#rd)
+
+[【学习】（论文+代码）ICCV2015论文-PoseNet：卷积网络实时6自由度相机重再定位](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675795&idx=3&sn=d5e3f6f9b4feaade6e44d23eeae317fb&scene=1&srcid=0411vGAs2U6gvmiGBhkiRHYt#rd)
+
+[【学习】机器学习的推荐系统初学者指南](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675795&idx=4&sn=7ceed94fb45e25e377ae6aaa65175008&scene=1&srcid=0411UHcI2VzBGTlZgNBi9qs9#rd)
+
+### 2016-04-12
+
+1.【今日资讯头条|日立推出人形机器人，挑战软银Pepper】
+来源：TNW中文站
+百货商店店员被机器人取代或许只是时间问题。上周，日立在东京展示了新的人形机器人EMIEW3，试图在商店和公共场所实现顾客服务的自动化。这款机器人有90厘米高，与儿童身高相仿，行动速度约为每小时6公里。
+[链接](http://tech.qq.com/a/20160411/062622.htm)
+
+2.【业界|新式滑板能飞 最高时速150公里】
+来源：腾讯科技
+据每日邮报报道，法国喷气滑雪冠军弗兰克·扎帕塔(Franky Zapata)宣布发明新式滑板FlyBoard Air，它可以飞行10分钟，最高时速可达150公里。
+[链接](http://tech.qq.com/a/20160412/045884.htm)
+
+3.【新闻|人脸识别医保在线支付系统在武汉启用】
+来源：中国青年报
+就医忘带医保卡？不要紧，在手机上“刷脸”，即可实现在线医保支付，记者从武汉市中心医院获悉，该院近日已启用人脸识别医保在线支付系统。
+[链接](http://tech.qq.com/a/20160412/010807.htm
+
+4.【新闻|井喷期或将来临 投资无人机的正确姿势是什么】
+来源：网易科技
+据外媒VB报道，上周，随着大疆四轴无人机 Phantom 4 的发布，国内外业界开始讨论一个问题：无人机市场的投资潜力尚未达到全盛。
+[链接](http://tech.163.com/16/0412/07/BKEFMBGL00094P0U.html#index_wit)
+
+[【干货】基于Tensorflow实现的论文列表](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675797&idx=2&sn=379763bb8b1278449ad1714a7e299992&scene=1&srcid=04122UpWUAO9J5FBREVnZWWD#rd)
+
+[【干货】Alex Smola在Quora上对“需要用Deep Learning做推荐系统吗？”的回答 ](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675797&idx=3&sn=166b79febe90e8b631e86f3f2feb0f75&scene=1&srcid=0412w3e5jcZYWtG2YA8gmddG#rd)
+
+[【学习】 CMU神课15-853: Algorithms in the “Real World”](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675797&idx=4&sn=47004314345fd877f09f8f6bfd37b7ba&scene=1&srcid=04122k32AGdS2hAcUCEkBJuM#rd)
+
+### 2016-04-13
+
+1.【今日资讯头条|AMD高管：正研发自主VR设备 单眼4K分辨率】
+来源：驱动之家
+AMD高管Roy Taylor今天在英国布里斯托尔举行的VR世界大会上发表主题演讲，透露AMD实验室正在开发自己的VR设备。他表示，使用AMD VR设备时，用户的每只眼睛都可以看到4K分辨率的画面，超越了Oculus Rift和HTC Vive。
+[链接](http://tech.163.com/16/0413/07/BKH14UEH00094P0U.html#index_wit)
+
+2.【业界|扎克伯格：除了VR外 Facebook还将开发AR眼镜】
+来源：新浪科技
+扎克伯格在F8开发者大会的主题演讲中表示，该公司正在围绕虚拟现实平台开发“一整套全新的社交体验”。“今后10年，设备尺寸将越来越小，最终将通过一副与普通眼镜类似的设备同时提供虚拟现实和增强现实。”
+[链接](http://tech.sina.com.cn/it/2016-04-13/doc-ifxrcizu4111452.shtml)
+
+3.【新闻|谷歌推出语音准入特征 可语音控制手机】
+来源：网易科技
+目前处于测试阶段的语音准入特征使得你可以通过声音在屏幕上移动，切换到其它屏幕或者打开应用程序。语言准入以及其它应用程序的图标边上还有特定数字，你只需要读出数字，即可打开这个应用程序。
+[链接](http://tech.163.com/16/0413/05/BKGQQJ93000915BD.html#index_wit)
+
+4.【新闻|霍金联合富豪启动"突破摄星"项目:飞去半人马座】
+来源：新浪科技
+霍金联合互联网投资人尤里-米尔纳(Yuri Milner)周二宣布启动一个新的1亿美元项目，以更好地了解宇宙。该项目的目标是开发数千个邮票大小的纳米小型太空飞船，飞往我们最近的星系，并发回照片。
+[链接](http://tech.sina.com.cn/d/s/2016-04-13/doc-ifxrcizu4115378.shtml)
+
+[【学习】全面了解随机森林的好材料《理解随机森林：从理论到实践》](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675798&idx=2&sn=0130aadf487aa97f962e13128bfa99f8&scene=1&srcid=0413ksTV4MByDxVuaAAXScvP#rd)
+
+[【干货】分类算法之朴素贝叶斯算法](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675798&idx=3&sn=8b369fc5d28fd95539eba24d96c9e6ec&scene=1&srcid=0413PltIgx0ZYIUAl3P6ynHn#rd)
+
+[【学习】GPU训练的快速大规模分布式扩展-GPU多机多卡Machine Learning Middleware](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675798&idx=4&sn=92f2adefeeae41d21089c33ddd23ed64&scene=1&srcid=0413aaf83mkztlRMtlISvEGA#rd)
+
+### 2016-04-14
+
+[【推荐】Ross Girshick大神CVPR2016新进展](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675799&idx=1&sn=a40df7199ed00b9daba77f74c156bb82&scene=1&srcid=0414MCcaczXyLumZ0uoyWi2n#rd)
+
+[【学习】Statistics, Computing, and Future -李航博士4月11日在信工所的报告slides下载](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675799&idx=2&sn=53ebfe75d80e5352a3f385de0ce5a1f3&scene=1&srcid=0414YhMIN8Ryx1IenZDNrQ5w#rd)
+
+[【学习】论推荐系统的Exploitation和Exploration](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675799&idx=3&sn=b37a364ccb479ea65395afd26ea99b8a&scene=1&srcid=04144Tcum3VNvF7SZUGot4YP#rd)
+
+[【学习】谷歌今天开源TensorFlow 0.8版本正式支持分布式学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675799&idx=4&sn=69938ac7ce5f6e11b5e93c276a8811ed&scene=1&srcid=0414IcCqPWk9rdB3oHmShtwd#rd)
+
+### 2016-04-15
+
+1.【今日资讯头条|华为宣布进军VR领域 发布首款虚拟现实头盔】
+来源：网易科技
+今天下午，在华为P9/P9 Plus国行版的发布会上，华为正式宣布进军VR领域，并发布了旗下第一款VR头盔Huawei VR。Huawei VR实际上是一款VR手机盒子，需要将华为手机插入作为显示屏幕。
+[链接](http://tech.163.com/16/0415/17/BKN7QNC200094P0U.html#index_wit)
+
+2.【业界|谷歌无人驾驶车要预测司机行为：通过识别转向信号】
+来源：腾讯科技
+据每日邮报报道，判断前面的汽车是否会在下个路口转弯或减速是驾驶员的基本技能，而在公路上保持眼观八方堪称是司机的“第二本能”。可是谷歌申请的专利显示，它正欲改善无人驾驶技术，提前预判前方汽车司机接下来的行为。
+[链接](http://tech.qq.com/a/20160415/051017.htm)
+
+3.【新闻|日本机器人被取录为高中生 精通日语英语】
+来源：腾讯科技
+据英国《每日邮报》4月14日报道，人工AI智慧蓬勃发展，日本一所高中最近更破天荒录取一名机器人入学，相信它是全球首个跟人类学生一同学习的机器人，这位与众不同的新生备受瞩目，精通英语和日语的他，势必会在学校带来骚动。
+[链接](http://tech.qq.com/a/20160415/034827.htm#p=1)
+
+4.【新闻|德银VR报告中文完整版：了解关于VR的一切】
+来源：VR次元
+德意志银行（以下简称“德银”）发布最新VR报告，以Oculus、HTC Vive、PS VR等主流VR产品为例，解读VR产品面对的机遇和挑战。
+[链接](http://tech.qq.com/a/20160415/009083.htm)
+
+[2016年4月14日对话吴恩达（Andrew Ng）：超级大咖深度解析人工智能的发展现状与未来沙龙实录](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675801&idx=1&sn=b4106d8877c40d2a4e196893bb0df1ef&scene=1&srcid=0415Jj95oDMoaBKg1yPfdzoM#rd)
+
+[【推荐】剑桥大学信息论大神David MacKay《信息论、模式识别与神经网络》入门课程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675801&idx=2&sn=72f242c5124f730983c2617b15e89a7a&scene=1&srcid=0415xAedTuh2E1qRcmWOTseO#rd)
+
+[【干货】Yann LeCun 2016深度学习课程的幻灯片](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675801&idx=3&sn=8702ca6cd4bba8e0e31ce2a34ff5cebf&scene=1&srcid=04153uIK67cMXwVkrbPQyWx3#rd)
+
+[【学习】深度学习进行目标识别的资源列表](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675801&idx=4&sn=144500d5fc4bc77cb4eccf6cd43f0672&scene=1&srcid=04158OyKxkPRhNUgIu9dHA62#rd)
+
+### 2016-04-16
+
+[2016年4月14日对话吴恩达（Andrew Ng）：超级大咖深度解析人工智能的发展现状与未来沙龙实录](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675804&idx=1&sn=c2160327a4117b8be5c0b0ca3a4b466b&scene=1&srcid=041678cjkswU2I4sROVwvipO#rd)
+
+[【干货】IPython Notebook/Scikit-Learn机器学习学习资源汇总](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675804&idx=2&sn=112df3dc9d5c1d329a1c826fbd62d881&scene=1&srcid=0416R4TQFYFbKhRHupc71LDT#rd)
+
+[【论文】深度学习在生物医学领域的应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675804&idx=3&sn=d9d90752ee4b51531f5021fa928674fa&scene=1&srcid=0416V9biE9iH1E73Ylv9q7TM#rd)
+
+[【学习】斯坦福教授李飞飞：揭开优秀研究和优质论文的面纱](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675804&idx=4&sn=92f45c53299471584dc5442431b72507&scene=1&srcid=0416UbRWqa5XmdzZCZIFvIzl#rd)
+
+1.【今日资讯头条|北上2000公里，长安汽车完成了一次无人驾驶旅途】
+来源：雷锋网
+虽然国内汽车厂商的无人驾驶起步稍晚，但毋庸置疑，今年北京车展将是它们集中展示无人驾驶的大舞台。在车展举办前，一些厂商开始亮出杀手锏进行预热。其中最惹人注目的是长安汽车研发的无人驾驶汽车——从重庆出发前往 2000 公里外的北京。
+[链接](http://www.leiphone.com/news/201604/LqiUCJIEzAtF9atj.html)
+
+2.【业界|联网无人驾驶卡车军团成功环游欧洲:老司机再见】
+来源：雷锋网
+在欧洲卡车军团挑战赛中，一打卡车在环游欧洲大陆后，抵达目的地鹿特丹。六家卡车制造商参与了：Scania、Daimler、Volvo、IVECO、MAN和DAF。卡车军团还有一个联网的护航车队，作为一个单独小队驾驶和行动。
+[链接](http://tech.sina.com.cn/it/2016-04-16/doc-ifxriqqx2740986.shtml)
+
+3.【新闻|虚拟现实产业“虚火”旺 今年或陆续出台标准】
+来源：21世纪经济报道
+工信部电子技术标准化研究院全文发布《虚拟现实产业发展白皮书5.0》，呼吁尽快启动虚拟现实标准化工作研究，建立标准体系，规范行业发展。
+[链接](http://tech.163.com/16/0415/05/BKM0437M00094P0U.html#index_wit)
+
+4.【新闻|全球首个投资机器人亮相】
+来源：京华时报
+近日，中关村创业企业因果树，联合中关村管委会、中关村创业大街，推出全球首个投资机器人。创始人马超表示，投资机器人可以做四件事，即建立数据库、跟踪分析、分析建模、项目预测。
+[链接](http://tech.sina.com.cn/it/2016-04-16/doc-ifxriqqx2647168.shtml?cre=techpc&mod=inf&loc=2&r=0&doct=0&rfunc=25)
+
+### 2016-04-17
+
+1.【今日资讯头条|谷歌的虚拟现实计划：先让它普及 再去完善】
+来源：腾讯科技
+谷歌对VR的兴趣远远超出了Cardboard。谷歌是Magic Leap投资者之一，而且还收购了VR应用Tilt Brush。其他VR公司的行事顺序都是先完善，再普及。谷歌却把这个顺序颠倒了过来——他们想让尽可能多的人尽快接触到VR，然后再进行完善。
+[链接](http://tech.qq.com/a/20160417/006698.htm)
+
+2.【业界|澳大利亚测试无人机快递，快递小哥离失业还有多远？】
+来源：雷锋网
+澳大利亚邮政对无人机快递进行了实地测试，并成功使用无人机将小型包裹运送到指定位置。澳大利亚邮政表示，在未来无人机将用于在线购物的包裹以及一些类似药品等急件的运送。
+[链接](http://www.leiphone.com/news/201604/2BYVKpDF3HWecmUi.html)
+
+3.【新闻|小米VR来了：死磕三星华为 产业布局即将浮出水面】
+来源：腾讯科技
+官方认证信息为“小米通讯技术有限公司”的新浪微博ID“小米VR”今日悄然在微博亮相。“小米VR”的亮相，预示着小米在VR领域的布局或将在不久后正式对外公布。此外，小米在VR领域的首款产品也可能即将问世。
+[链接](http://tech.qq.com/a/20160416/033222.htm)
+
+4.【新闻|微软新机器人又被花式吐槽】
+来源：雷锋网
+不久前微软的人工智能Tay在Twitter暴走，被强制下线，但是这并没有让微软放弃玩机器人，这一次的玩法是看图描述图片内容。几周前刚上线时，CaptionBot出人意料地好用，精确描述了比较复杂的图片内容。
+[链接](http://www.leiphone.com/news/201604/pUlgzl7fx7bLRVvu.html)
+
+[【干货】特征学习和深度学习热门会议ICLR的两篇最佳论文](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675810&idx=1&sn=be2210b1ebb7758b06a5eec723211ec9&scene=0#rd)
+
+[【推荐】微软最新的序列图像叙事数据集](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675810&idx=2&sn=d4186cdce9cf8baed64e4dee131d08c0&scene=0#rd)
+
+[【学习】Matlab14个机器学习实例](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675810&idx=3&sn=8d8682cdbfdde8c45eff912fffff2d8f&scene=0#rd)
+
+[【推荐】Yann LeCun 2016深度学习课程的幻灯片](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675810&idx=4&sn=61f1390c73bd86b22dc78c62c6025a5d&scene=0#rd)
+
+### 2016-04-18
+
+1.【今日资讯头条|英航客机与无人机相撞：安全着陆后未发现故障】
+来源：新浪科技
+今天早些时候，英国航空的一位驾驶员向伦敦希斯罗机场报告称，他认为自己的飞机刚刚撞上了一架无人机。英国航空表示，受到撞击的民航客机并未发生任何故障。警方正在对此展开调查，不过尚未拘捕任何人。根据英国法律的规定，在机场周围使用无人机将面临最高5年的监禁。
+[链接](http://tech.sina.com.cn/it/2016-04-18/doc-ifxriqqx2900242.shtml)
+
+2.【业界|传谷歌将发布VR头戴设备，Android N已加入VR模式】
+来源：VR次元
+据Ars Technica网站报道，第二个开发者预览版Android N中包含了“VR Listener”和“VR Helper”应用的标记，以及提醒用户某个应用“将在你以虚拟现实模式打开应用时启动”的权限警告。
+[链接](http://tech.qq.com/a/20160418/038671.htm)
+
+3.【新闻|兰德公司：有了无人驾驶后 汽车安全测试已过时】
+来源：新浪科技
+美国兰德公司发布的最新报告显示，传统的汽车安全测试方法已经无法适应无人驾驶汽车的复杂需求，必须设计全新的方法。兰德公司发现，无人驾驶汽车创造了全新的安全测试需求，因此现有的安全测试方法将会过时。
+[链接](http://tech.sina.com.cn/it/2016-04-18/doc-ifxriqqx2930418.shtml)
+
+4.【新闻|美政府:击落无人机违法 哪怕它带着武器飞进家】
+来源：新浪科技
+目前为止，至少已经有12架无人机在美国的5个州遭到当地居民击落，但美国联邦航空管理局(FAA)表示，这是一种犯罪行为，即便无人机飞过居民家的上空，甚至携带已经启动的电锯也不例外。
+[链接](http://tech.sina.com.cn/it/2016-04-18/doc-ifxriqqv6184412.shtml)
+
+[【干货】揪出bug！解析调试神经网络的技巧](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675811&idx=1&sn=c7c87e43aea9a0450bc1bb0ef0149ddc&scene=1&srcid=0418kliHuezsqqEjOTbxdhpO#rd)
+
+[【推荐】两个面向自然语言处理的深度学习资源列表](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675811&idx=2&sn=2a2cee7b95784a1c77c74869b0a6f75d&scene=1&srcid=0418c5e7qFA6jl4guVetJTGN#rd)
+
+[【学习】知识图谱与问答系统前沿技术研讨会slides下载](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675811&idx=3&sn=934fb6c60beb835e90cf7bdec5c26a66&scene=1&srcid=04186DozGaygGTFa3tniZ6Fw#rd)
+
+[【推荐】爱丁堡大学《算法/数据结构和机器学习》](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675811&idx=4&sn=2c7f14af8384fc030ed63596cdb13dda&scene=1&srcid=0418OEE7ksAPlGAsL9EJ5IKx#rd)
+
+### 2016-04-19
+
+1.【今日资讯头条|苹果在德国组建秘密实验室 或从事Apple Car开发工作】
+来源：BI中文站
+根据《法兰克福汇报》周一的报道，苹果目前正在柏林的秘密实验室开发传闻中的Apple Car。外界此前一致认为，苹果正在硅谷的秘密实验室开发Apple Car，当然这家公司也有资格在全球按照自己的想法运营多个秘密实验室。
+[链接](http://tech.qq.com/a/20160419/005977.htm)
+
+2.【业界|优土推出VR计划 探索流量变现新方式】
+来源：21世纪经济报道
+2016 中国VR/AR产业峰会上，优酷土豆、乐视和芒果TV三大视频内容平台首次公布其VR战略。短期来看，优酷的“合计划”将拓展自己的VR分发和内容变现能力，加快优质内容和杀手级应用出现，同时丰富的开发者工具和SDK，推动VR播放引擎提升。
+[链接](http://tech.163.com/16/0419/08/BL0HOCP000094P0U.html#index_wit)
+
+3.【新闻|德国VR极客远程操控把一辆坦克开上街】
+来源：TECH2IPO创见
+“他们搞来了一辆主战坦克，装上了全套远程操作设备——高性能个人电脑，360°全景摄像头，以及提供 VR 视野即时监控状况的 Oculus DK2——随后，他们把这辆车内无人的庞然大物大摇大摆地开上了街头。”
+[链接](http://tech.163.com/16/0419/08/BL0JICE200094P0U.html#index_wit)
+
+4.【新闻|VR投资分化：硬件当道内容匮乏】
+来源：第一财经日报
+无论是从创业抑或投资角度而言，VR内容产业都滞后于硬件设备的研发。根据艾瑞咨询发布的中国VR行业融资情况数据：2014年1月至2016年1月，在各细分行业中，VR硬件开发商的融资总占比占到整个VR行业的51.9%，是投资人最为关注也是竞争最为激烈的板块。
+[链接](http://tech.sina.com.cn/it/2016-04-19/doc-ifxriqqv6230837.shtml)
+
+[【推荐】Understanding Convolution in Deep learning](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675817&idx=1&sn=e2b8808a7ccf80859d4d9ee47c0bd329&scene=0#rd)
+
+[【干货】Github上28款最流行的机器学习开源项目整理](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675817&idx=2&sn=377f5e82314e5981cd8db4539711991e&scene=0#rd)
+
+[【学习】机器学习：现在与未来](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675817&idx=3&sn=a9512291c47e62e5526410959f94a163&scene=0#rd)
+
+[【推荐】开源后5个月，Google的深度学习系统都有了哪些改变](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675817&idx=4&sn=2f0f2f67815c659aef2d9fd262c3bebb&scene=0#rd)
