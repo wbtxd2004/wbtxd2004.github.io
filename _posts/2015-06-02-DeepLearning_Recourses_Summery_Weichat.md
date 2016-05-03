@@ -2064,6 +2064,26 @@ AMD高管Roy Taylor今天在英国布里斯托尔举行的VR世界大会上发�
 
 [【学习】谷歌今天开源TensorFlow 0.8版本正式支持分布式学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675799&idx=4&sn=69938ac7ce5f6e11b5e93c276a8811ed&scene=1&srcid=0414IcCqPWk9rdB3oHmShtwd#rd)
 
+1.【今日资讯头条|Oculus Rift延迟交货惹怒消费者 微软：这事不赖我们】
+来源：腾讯科技
+昨日，一名自称知晓Oculus VR公司内情的人在社交新闻网站Reddit发帖称，Rift虚拟现实设备之所以无法按时交货，是因为微软没能提交足够数量的Xbox One控制器。据外电报道，如果你预定了Oculus Rift虚拟现实设备，你可能还在等待当中。但是，这并不是微软惹的祸。
+[链接](http://tech.qq.com/a/20160414/040477.htm)
+
+2.【业界|大脑芯片植入帮助瘫痪者重新控制肢体】
+来源：网易科技
+据国外媒体报道，伊恩·伯克哈特因五年前一场车祸而导致全身从肩部以下瘫痪。不过其在两年前接受了大脑芯片植入手术，现今24岁的他终于又能开始自由控制右手臂和右手腕了，为全球首例通过大脑芯片植入“复活”瘫痪肢体的人。
+[链接](http://tech.163.com/16/0414/04/BKJAGKCB00094P0U.html#index_wit)
+
+3.【新闻|ESPN将转播无人机竞赛：选手用VR操控无人机】
+来源：新浪科技
+ESPN周三表示，该公司已经与国际无人机竞赛协会签订了为期多年的协议。这场竞赛将通过ESPN 3网络直播频道播出，部分画面将直接通过无人机拍摄。
+[链接](http://tech.sina.com.cn/it/2016-04-14/doc-ifxriqqv5609172.shtml)
+
+4.【新闻|英国医生将VR直播手术：360度观看肿瘤切除】
+来源：新浪科技
+本周四，英国医生夏飞·艾哈迈德给一名70多岁的结肠癌患者实施肿瘤切除手术。这项手术虽然比较常规，但由于采用了360度摄影技术，因此世界各地的人都可以通过任意角度观看手术过程。
+[链接](http://tech.sina.com.cn/it/2016-04-14/doc-ifxriqqx2413226.shtml)
+
 ### 2016-04-15
 
 1.【今日资讯头条|华为宣布进军VR领域 发布首款虚拟现实头盔】
@@ -2213,3 +2233,395 @@ AMD高管Roy Taylor今天在英国布里斯托尔举行的VR世界大会上发�
 [【学习】机器学习：现在与未来](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675817&idx=3&sn=a9512291c47e62e5526410959f94a163&scene=0#rd)
 
 [【推荐】开源后5个月，Google的深度学习系统都有了哪些改变](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675817&idx=4&sn=2f0f2f67815c659aef2d9fd262c3bebb&scene=0#rd)
+
+### 2016-04-20
+
+[【干货】Generalized principle component analysis](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675822&idx=1&sn=4f12769817a46223e5c355fac93f346c&scene=0#rd)
+
+[【推荐】一篇基于对抗及深度学习的实时纹理合成的文章](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675822&idx=2&sn=37af229a97361c863e0577ea60fe3bfc&scene=0#rd)
+
+[【推荐】深度专访|微软研究院人工智能首席科学家邓力：人工智能的成功在于将多种理论方法整合成一个完整系统](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675822&idx=3&sn=2aa6a9d2b22d4d70359abf6c4bfc2d73&scene=0#rd)
+
+[【学习】《NAACL2016年度论文：无监督神经网络理解虚构人物关系》](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675822&idx=4&sn=2ab20e2ce775f07362079e0c3ac4a882&scene=0#rd)
+
+1.【今日资讯头条|16个月后乐视无人驾驶汽车终于亮相 还要在北京国贸建旗舰店】
+来源：腾讯科技
+2014年12月乐视首次宣布“SEE计划”，将造车计划公之于众，至今经历了16个月。从和北汽、阿斯顿•马丁的合作，到战略投资充电桩公司、控股易到用车，和美国初创电动车公司Faraday & Future达成战略合作，乐视汽车到今天终于亮相。
+[链接](http://tech.qq.com/a/20160420/050176.htm)
+
+2.【业界|Fabric为建模工具“犀牛”注入虚拟现实元素】
+来源：yivian
+Fabric 宣布将会升级公司的虚拟现实工具，其中包括任意多边形建模包犀牛（Rhino 3D ）的更新。在 2015 年 11 月首次公布时该工具还只处于雏形阶段，而现在已经允许用户进行实时提取、审查和优化 CAD 数据。
+[链接](http://tech.163.com/16/0420/08/BL34I2Q400094OE0.html#index_wit)
+
+3.【新闻|10年后去洛杉矶富人区 没准能坐无人驾驶公交车】
+来源：新浪科技
+10年内，美国洛杉矶的富人区比佛利山庄的公交系统将由无人驾驶汽车来运营。本月早些时候，该地区一致通过了一项决议，将利用无人驾驶汽车来打造公共交通系统。无人驾驶汽车将成为正在规划的Purple Line的一部分，该项目有望于2026年投入运营。
+[链接](http://tech.sina.com.cn/it/2016-04-20/doc-ifxriqqv6384904.shtml)
+
+4.【新闻|Kellogg用VR做麦片营销 让客户“品尝”新食品】
+来源：yivian
+Kellogg公司的品牌会通过Oculus Rift DK2头显显示，而Razr Hydra控制器则会连接到勺子上， 随着食客在尝试 Ancient Legends麦片的时候， 控制器将会追踪勺子的轨迹。随着头显打开和勺子的移动，食客们已经准备好第一次在虚拟现实中尝试麦片了。
+[链接](http://tech.163.com/16/0420/08/BL34I2RF00094OE0.html#index_wit)
+
+### 2016-04-21
+
+1.【今日资讯头条|为了安全 Uber在国内上线司机人脸识别功能】
+来源：好奇心日报
+从今天开始，Uber 中国上线的司机的人脸识别登陆功能。Uber 和国内人脸识别算法厂商 Face++ 合作，使用 Face++ 开源的算法实现的功能。现在 Uber 司机端在开始上线接单前，会自动开始一个人脸识别程序，用前置摄像头确认是否是注册时的本人。
+[链接](http://tech.163.com/16/0421/08/BL5NTJ0F00094P0U.html#index_wit)
+
+2.【业界|儿童医院将利用HTC Vive减轻孩童痛苦】
+来源：yivian
+位于密歇根的C.S. Mott儿童医院向我们展示了虚拟现实技术在治疗方面的潜力， 虚拟现实技术可以帮助到世界上最脆弱的人。去年年底， 一个视频向我们展示了医院中的小孩如何使用Oculus开发包。 而我们发现虚拟现实技术在治疗重度自闭症儿童方面有很大的潜力。
+[链接](http://tech.163.com/16/0421/09/BL5SL3E700094OE0.html#index_wit)
+
+3.【新闻|新加坡今年将让无人驾驶汽车上路行驶】
+来源：新浪科技
+新加坡将在今年底之前启动无人驾驶汽车的试运行。新加坡即将测试的无人驾驶汽车并非轿车，而是被称作“群体快速出行”的全自动驾驶车辆。每辆车能够搭载约24名乘客。
+[链接](http://tech.sina.com.cn/it/2016-04-21/doc-ifxrpvea1036095.shtml)
+
+4.【新闻|挥手间收放天地 HoloLens给你打开地图新方式】
+来源：爱范儿
+HoloLens 在做面桌面上投影出一栋建筑及周边的植物模型，并且可以对建筑进行多角度的观察。随后，佩戴者通过简单的手势，将建筑切换为透视模式，我们能够看到建筑内部的更多细节。并且还可以对画面进行缩放、移动，纵览整个区域的建筑。
+[链接](http://tech.163.com/16/0421/08/BL5OIS8700094P0U.html#index_wit)
+
+[【干货】Deep learning library featuring a higherlevel for TensorFlow](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675827&idx=1&sn=a59f365fbf944580ceb998df5bf42a9a&scene=0#rd)
+
+[【推荐】算法揭秘深度学习大牛，谁影响了谁？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675827&idx=2&sn=a968471f76b2f7d534f3a7868936cf99&scene=0#rd)
+
+[【论文】DenseCap:by Feifei Li](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675827&idx=3&sn=225f6e0ae7d257e5383e3667916be724&scene=0#rd)
+
+[【推荐】微软资深研究员展望机器学习10年趋势](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675827&idx=4&sn=760ca6652712a9b1da395f87ca185c07&scene=0#rd)
+
+### 2016-04-22
+
+1.【今日资讯头条|国产手机纷纷杀入VR战局 三星们要被围攻了】
+来源：腾讯科技
+在经历了资本初期的骚动和观望后，各大手机厂商开始对VR跃跃欲试，继三星、HTC、索尼之后，国产手机品牌也纷纷加入了VR战局。中兴通讯和酷派也将在下月推出自己的VR产品。
+[链接](http://tech.qq.com/a/20160422/009683.htm)
+
+2.【业界|别盯着Android了 VR才是谷歌开发者大会重点】
+来源：新浪科技
+虚拟现实将贯穿今年的谷歌I/O开发者大会，该公司专门针对虚拟现实和增强现实开辟了7个环节。谷歌正在虚拟现实领域缓慢扩大触角，该公司已经开发了虚拟现实绘画应用Tilt Brush，被一些业内人士称作HTV Vive的“杀手级应用”。
+[链接](http://tech.sina.com.cn/it/2016-04-22/doc-ifxrpvcy4335610.shtml)
+
+3.【新闻|宏碁加入OSVR虚拟现实开源平台】
+来源：yivian
+宏碁在电子游戏市场上已经打滚了大概40年的时间。他们同意加入到虚拟现实开源系统并将为开源软件和硬件上作贡献， 这也意味着他们可以为自己的电脑生产出高端的虚拟现实设备， 这将会大大丰富系统的选择。
+[链接](http://tech.163.com/16/0422/09/BL8CGSKA00094OE0.html#index_wit)
+
+4.【新闻|两大VR厂商都出现供货问题 导致黄牛炒货】
+来源：中关村在线
+虽然Oculus Rift和HTC Vive已经上市，但这两家缺货问题却让很多玩家失望，不过却让黄牛党看到了甜头。由于发货推迟，原价分别为600美元和800美元的两款产品现在在eBay上已经炒到了2000美元（约合人民币12950元）。
+[链接](http://tech.163.com/16/0422/07/BL87OTLQ00094P0U.html#index_wit)
+
+[【推荐】降低知识图谱的构造成本](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675836&idx=1&sn=eb6c5afc48420bbeab03b1f561306ca0&scene=0#rd)
+
+[【干货】Training Deep Nets with Sublinear Memory Cost？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675836&idx=2&sn=2fc69294bf8c088d30677a71cce068ae&scene=0#rd)
+
+[【推荐】当AlphaGo火了以后，我们来聊聊深度学习](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675836&idx=3&sn=e90e58a438c8d9507f9dd1e3602bdd05&scene=0#rd)
+
+[【论文】Character-based Neural Machine Translation](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675836&idx=4&sn=b7a274e101f0b39f072b0f94e7ba7879&scene=0#rd)
+
+### 2016-04-23
+
+[【推荐】七步做好数据科学](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675841&idx=1&sn=6eda3d7bfbbc7f88f2760913df391b20&scene=0#rd)
+
+[【干货】NAACL最佳论文:问答系统的神经网络构建](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675841&idx=2&sn=420ab54d0bb88bd51d3bb9d15524dd57&scene=0#rd)
+
+[【推荐】Multi-class hexbins](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675841&idx=3&sn=12baee677dead7d546944e55ad2f5846&scene=0#rd)
+
+[【论文】学习社交知识图谱的多模态贝叶斯embeddings](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675841&idx=4&sn=32021c93d0e0d3fc3089f5b65069d0ae&scene=0#rd)
+
+1.【今日资讯头条|IDC：今年VR设备出货量将超900万台】
+来源：新浪科技
+市场研究公司IDC预计，2016年全球虚拟现实设备的出货量将超过900万台，远高于去年的35万多台。IDC表示，这一高速增长部分是由于，首批面向消费者的虚拟现实产品逐步开售。不过，销量最大的将会是“无屏幕”的虚拟现实产品，这些产品以智能手机当作显示屏。
+[链接](http://tech.sina.com.cn/it/2016-04-23/doc-ifxrpvea1123209.shtml)
+
+2.【业界|MIT利用4D地图帮助机器人躲避移动物体】
+来源：腾讯科技
+麻省理工学院日前发布了一种新的机器人算法，利用4D地图帮助机器人躲避移动物体。接下来，这台机器人会把自己计算出的无障碍物区域地图共享给周围较近距离内的其他机器人。
+[链接](http://tech.sina.com.cn/it/2016-04-22/doc-ifxrpvcy4359316.shtml)
+
+3.【新闻|百度在硅谷建无人车研究团队 年底超100人】
+来源：新浪科技
+百度今日宣布已经在硅谷建立了一支专注于自动驾驶的团队，还称会在今年年底扩充超过100人，这支团队将在硅谷专注于自动驾驶的研究、开发和测试。
+[链接](http://tech.sina.com.cn/it/2016-04-22/doc-ifxrpvcy4358593.shtml)
+
+4.【新闻|贾跃亭反驳硬件免费质疑 称无人车也可能免费】
+来源：华夏时报
+在“无破界不生态”为主题的春季新品发布会上，乐视一口气发布了电视、手机、VR以及无人驾驶超级汽车四大终端新产品。尽管贾跃亭对记者表示，乐视造车的确有可能拖垮整个的乐视生态，因为乐视不是资金见长的公司，但他依然表示超级汽车有可能免费。
+[链接](http://tech.qq.com/a/20160423/008323.htm)
+
+### 2016-04-24
+
+1.【今日资讯头条|GoPro推出自主VR平台：摆脱对谷歌依赖】
+来源：新浪科技
+美国运动相机制造商GoPro最近推出了GoPro VR网站，并面向iOS和Android发布了免费应用，帮助用户分享和查看虚拟现实视频。这个网站的目的是推广该公司的新款6镜头Omni虚拟现实相机，上面有很多音乐、体育、艺术和娱乐视频。
+[链接](http://tech.sina.com.cn/it/2016-04-24/doc-ifxrpvcy4395350.shtml)
+
+2.【业界|独特咖啡厅荷兰开业 无人机当服务员点餐送酒】
+来源：新华网
+为庆祝埃因霍芬理工大学建校60周年，这所院校20名大学生历时9个月研发小型无人机项目，在校庆期间大显身手。当有客人点餐时，“蓝色杰伊”便会飞到餐桌前，盘旋着扫描客人的菜单；点餐完成后，另外一架无人机会用“爪子”抓住鸡尾酒送到客人面前。
+[链接](http://tech.sina.com.cn/it/2016-04-24/doc-ifxrpvcy4400068.shtml?cre=techpc&mod=inf&loc=2&r=0&doct=0&rfunc=25)
+
+3.【新闻|人口老龄化倒逼 日本下一代农民可能是机器人】
+来源：华尔街见闻
+据联合国数据，发达国家农民平均年龄为60岁，日本政府计划在3月开始的新财年中支出40亿日元(3600万美元)发展农用自动化，其中研发20种不同的农业机器人。
+[链接](http://tech.sina.com.cn/it/2016-04-24/doc-ifxrpvcy4402227.shtml)
+
+4.【新闻|柳传志：我的忧虑来自人工智能的影响】
+来源：新浪科技
+柳传志说，十年前，第一波互联网高潮已经过去了，对于互联网的影响，之前有想象过，但并没有预料到会有如此巨大的改变。现在也一样，新技术的改变到底有多大？这是留给所有企业家去思考的问题。
+[链接](http://tech.sina.com.cn/it/2016-04-23/doc-ifxrpvea1135214.shtml)
+
+[【干货】强化学习系列笔记](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675846&idx=1&sn=36420d46fd6faeb8748a3508f2f370bc&scene=0#rd)
+
+[【推荐】How IoT security can benefit from machine learning](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675846&idx=2&sn=2c39dad3e3b2afd5170e0dfad49ce93b&scene=0#rd)
+
+[【论文】Learning Efficient algorithm with HAM](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675846&idx=3&sn=17a2435265a92ac5c6412c3de5dddd46&scene=0#rd)
+
+[【推荐】机器视觉离消费市场有多远](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675846&idx=4&sn=d0e5dce88a6d55ca6c775f8f6dbd3439&scene=0#rd)
+
+### 2016-04-25
+
+[【Valse大会首发】领域自适应及其在人脸识别中的应用](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324562&idx=1&sn=d1ee439f03d161478144ccb245bcdf0d&scene=1&srcid=04257eb9MpXzHQZWiI0IF5Dr#rd)
+
+1.【今日资讯头条|虚拟现实技术还未成主流 科技巨头押重注已获利】
+来源：网易科技
+据外媒报道，当前世界上最受关注的虚拟现实设备依然昂贵而笨重，还未能吸引主流用户关注的目光。然而，对于研发虚拟现实技术的公司来说，这种技术可能帮助它们提高销量和提升收益，为此投资者们应该保持关注。
+[链接](http://tech.163.com/16/0425/11/BLGACO3U00094P0U.html#index_wit)
+
+2.【业界|AMD将推VR显卡 股价狂涨52%】
+来源：智东西
+AMD在纳斯达克的股票狂涨52%，创下AMD自上市以来的最大涨幅，这或许与AMD授权中国公司进行X86处理器研发有关。AMD的股票同时是纳斯达克中最受欢迎的股票，平均每日成交量达到1200万手。
+[链接](http://tech.163.com/16/0425/08/BLG1QGAF00094P0U.html#index_wit)
+
+3.【新闻|CTA主席：借VR和手游，中国正成为科技圈领导者】
+来源：腾讯科技
+美国消费电子协会（CTA）主席加里·夏皮罗（Gary Shapiro）近期撰文称，随着虚拟现实、移动游戏，以及创新在中国的发展，中国正成为全球科技圈的领导者。
+[链接](http://tech.qq.com/a/20160425/050365.htm)
+
+4.【新闻|龙泉寺机器僧火到海外 路透社说这是用高科技吸引信徒】
+来源：新浪科技
+龙泉寺表示，他们已经开发了一种机器僧，可以诵读佛经佛法，根据指令移动，还能展开简单的对话。这台60厘米高的机器僧名为“贤二”，它的外观酷似动画片中的小僧，身穿僧袍，顶着光头，胸前还拿着一个触摸屏。
+[链接](http://tech.sina.com.cn/it/2016-04-25/doc-ifxrpvcy4446378.shtml)
+
+[【干货】NLP中的自动文摘技术](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675852&idx=1&sn=50ef73a5221cb3326d54913ad66a7fc8&scene=0#rd)
+
+[【推荐】Google内部计划：让虚拟现实惊艳到每一个人](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675852&idx=2&sn=d06bf216909da69538f5089094d63339&scene=0#rd)
+
+[【论文】Yan LeCun最新论文Orthogonal RNNs and Long-Memory Tasks](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675852&idx=3&sn=85a54b0fea932072afd9877c20f07894&scene=0#rd)
+
+[【推荐】Let there be Color!端对端的全局与局部图像先验学习，同时用于自动图像染色及分类任务](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675852&idx=4&sn=2b0cf2810556c4216981efda16698579&scene=0#rd)
+
+### 2016-04-26
+
+[【干货】知识图谱技术原理介绍](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675857&idx=1&sn=8bcbdca6788301dec7a3f056621792ad&scene=0#rd)
+
+[【推荐】Nonparametric Bayes Tutorial](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675857&idx=2&sn=7a368cb01dc899cf5db4ce23a9c0c9d3&scene=0#rd)
+
+[【论文】利用一个深度迁移网络为女性推荐化妆](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675857&idx=3&sn=1eb0c6dc25a118931f72c4046140ddad&scene=0#rd)
+
+[【推荐】用递归网络来编写简历](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675857&idx=4&sn=93370177fc033bba6e5e5b37f51c3987&scene=0#rd)
+
+1.【今日资讯头条|奥巴马默克尔体验VR头显：太震撼了】
+来源：yivian
+路透社报道：奥巴马总统在戴上PMD科技（谷歌深度传感项目Tango的合作伙伴）的Cardboard新型头显后表示，“这为我们开创了一个全新的世界。”这款3D相机头显是由IMF公司（PMD附属公司）生产制造， 被誉为“世界上最小的3D相机。”
+[链接](http://tech.163.com/16/0426/07/BLIG4MC100094OE0.html#index_wit)
+
+2.【业界|HTC VR设备国内开放预售 王雪红砸一亿美元建生态】
+来源：腾讯科技
+在今日HTC VIVE中国战略暨VR生态圈大会上，HTC VR中国总经理汪丛青表示，从即刻起，HTC Vive虚拟现实头盔可以在国美、苏宁、京东、天猫进行预定。并承诺首批预定的用户还可以送货到家。
+[链接](http://tech.qq.com/a/20160426/044324.htm)
+
+3.【新闻|无人驾驶即将成为现实 卡车司机成了夕阳职业】
+来源：新浪科技
+北京时间4月26日下午消息，一队无人驾驶卡车最近跨越欧洲到达了鹿特丹港，这项技术有望大幅降低卡车运输成本。但从经济角度来看，卡车司机也因此成了鸡肋一般的职业。
+[链接](http://tech.sina.com.cn/it/2016-04-26/doc-ifxrpvcy4501201.shtml)
+
+4.【新闻|马斯克放话：特斯拉自动驾驶技术安全性是人类两倍】
+来源：腾讯科技
+据外电报道，一般来说，无人驾驶汽车及其自动驾驶功能尚需要赢得消费者的信赖。但是，特斯拉汽车公司CEO伊隆•马斯克（Elon Musk）声称，该公司的自动驾驶功能Autopilot的安全性是人类司机的两倍。
+[链接](http://tech.qq.com/a/20160426/038048.htm)
+
+### 2016-04-27
+
+[【推荐】迁移学习（transfer learning）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675861&idx=1&sn=34aed6b71c258a3f167bbdce088fb049&scene=0#rd)
+
+[【推荐】机器学习顶级会议ICML2016论文赏析deep reinforcement learning benchmarking](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675861&idx=2&sn=72bc5d567ecad09be49352725f1f6034&scene=0#rd)
+
+[【论文】IGGRAPH 2016 Paper：Sketch Simplification](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675861&idx=3&sn=3bdf5487f3d5b980e9f01e9d31ff516a&scene=0#rd)
+
+[【干货】Google DeepMind在ICML 2016发表9篇论文](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675861&idx=4&sn=fe2645277338a0b430a2463d2d50fdca&scene=0#rd)
+
+1.【今日资讯头条|亚马逊将利用VR技术制作原创剧：自制剧工作室牵头】
+来源：新浪科技
+据The Wrap网站报道，亚马逊的好莱坞部门正在接触专注虚拟现实技术的公司，试图利用虚拟现实技术拍摄自制剧。
+[链接](http://tech.sina.com.cn/i/2016-04-27/doc-ifxrpvcy4532036.shtml)
+
+2.【业界|看Google如何解决无人机与人类碰撞的问题】
+来源：雷锋网
+4月25日，Google提出了无人机运送货物的新专利。该文件显示:无人机在送货过程中通过语音警告人类与无人机保持安全距离。无人机会在卸货过程中警告用户：“小心，退出去！”而在卸货完毕之后，它会说：“运输完毕。”
+[链接](http://tech.163.com/16/0427/12/BLLIR94N00094P0U.html#index_wit)
+
+3.【新闻|最早能买到的自拍无人机 悬浮漂移可折叠】
+来源：PingWest
+这款名叫Hover Camera（悬浮相机）的便携式自拍无人机今天刷爆了美国人的“朋友圈”。创始人王孟秋及张通是两位毕业于美国斯坦福大学的计算机及机械工程博士。这款产品的主要用途在于自拍，而且是360度全景，可以跟随人物运动而进行自主跟拍。
+[链接](http://tech.163.com/16/0427/11/BLLI4SEV00094P0U.html#index_wit)
+
+4.【新闻|谷歌福特Uber等组建自动驾驶技术联盟】
+来源：新浪科技
+北京时间26日晚路透社称，谷歌、福特汽车、沃尔沃与优步等公司周二宣布，将组建一个联盟，以促进自动驾驶技术的推广和应用。该联盟的成员还包括优步的竞争对手Lyft。
+[链接](http://tech.sina.com.cn/it/2016-04-26/doc-ifxrpvea1245826.shtml)
+
+### 2016-04-28
+
+1.【今日资讯头条|亚马逊将利用VR技术制作原创剧：自制剧工作室牵头】
+来源：新浪科技
+据The Wrap网站报道，亚马逊的好莱坞部门正在接触专注虚拟现实技术的公司，试图利用虚拟现实技术拍摄自制剧。
+[链接](http://tech.sina.com.cn/i/2016-04-27/doc-ifxrpvcy4532036.shtml)
+
+2.【业界|看Google如何解决无人机与人类碰撞的问题】
+来源：雷锋网
+4月25日，Google提出了无人机运送货物的新专利。该文件显示:无人机在送货过程中通过语音警告人类与无人机保持安全距离。无人机会在卸货过程中警告用户：“小心，退出去！”而在卸货完毕之后，它会说：“运输完毕。”
+[链接](http://tech.163.com/16/0427/12/BLLIR94N00094P0U.html#index_wit)
+
+3.【新闻|最早能买到的自拍无人机 悬浮漂移可折叠】
+来源：PingWest
+这款名叫Hover Camera（悬浮相机）的便携式自拍无人机今天刷爆了美国人的“朋友圈”。创始人王孟秋及张通是两位毕业于美国斯坦福大学的计算机及机械工程博士。这款产品的主要用途在于自拍，而且是360度全景，可以跟随人物运动而进行自主跟拍。
+[链接](http://tech.163.com/16/0427/11/BLLI4SEV00094P0U.html#index_wit)
+
+4.【新闻|谷歌福特Uber等组建自动驾驶技术联盟】
+来源：新浪科技
+北京时间26日晚路透社称，谷歌、福特汽车、沃尔沃与优步等公司周二宣布，将组建一个联盟，以促进自动驾驶技术的推广和应用。该联盟的成员还包括优步的竞争对手Lyft。
+[链接](http://tech.sina.com.cn/it/2016-04-26/doc-ifxrpvea1245826.shtml)
+
+[【干货】迁移学习的研究与应用（附PPT下载）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675870&idx=1&sn=2ef100c91f7ebbb435092ee87d93f39c&scene=0#rd)
+
+[【推荐】图解神经网络算法工作原理Here's how a neural network works](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675870&idx=2&sn=06aa65d76d99ffbd4159a9380f6a4775&scene=0#rd)
+
+[【学习】计算机视觉资料汇总](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675870&idx=3&sn=243baae3f0fdec52b45a23f2851bae03&scene=0#rd)
+
+[【干货】Valse大会首发-领域自适应及其在人脸识别中的应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=400771103&idx=4&sn=927b5f2fcde495bc34cd6ef5f62d7947&scene=0&previewkey=hNkFUIVKn2RXjA0hSBe8AZ1iJUUG%2F7eLf7OA%2FVEtaJE%3D#rd)
+
+### 2016-04-29
+
+1.【今日资讯头条|三星宣称其虚拟现实业务已实现盈利】
+来源：yivian
+在一次针对即将在旧金山举办的三星开发者大会的采访中，三星虚拟现实副总裁Pohontu说该公司不仅通过最近发布的三星Gear VR头戴的销售盈利，还对于头戴设备的销量和三星Galaxy S7和S7 Edge智能手机的销量成正比感到非常高兴。
+[链接](http://tech.163.com/16/0429/07/BLQ6FKTS00094OE0.html#index_wit)
+
+2.【业界|最新研究：换个镜片能提升虚拟现实逼真度】
+来源：威锋网
+这几位科学家使用的是能够实时调整的液体透镜，并将它安装到了谷歌 Cardboard 上。当佩戴者观看远处的目标时，镜头就会自动将焦距调远，当目标靠近时，镜头又会自动将焦距调近。
+[链接](http://tech.163.com/16/0429/01/BLPK1A4D00094P0U.html#index_wit)
+
+3.【新闻|《连线》杂志前主编：美国将在6月批准无人机商用】
+来源：新浪科技
+在全球移动互联网大会(GMIC 2016)上，美国《连线》杂志前任主编，3D Robotics 公司CEO 克里斯·安德森做了以“无人机的未来”为主题的演讲。安德森透露，今年6月，美国将会批准无人机商用。商业领域使用无人机也不需要有飞行员执照。
+[链接](http://tech.sina.com.cn/it/2016-04-29/doc-ifxrtztc3040506.shtml)
+
+4.【新闻|彭博社也要用机器人写稿，但总编说要人类记者引导自动化】
+来源：新浪科技
+彭博社成为又一家希望通过自动化技术来报道“大宗新闻”的机构，希望借此为商业记者节约更多时间。彭博社已经使用自动化程序来撰写新闻提醒、定制新闻和趋势报道。
+[链接](http://tech.sina.com.cn/it/2016-04-29/doc-ifxrtztc3050735.shtml)
+
+[【推荐】PYTHON 机器学习教程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675875&idx=1&sn=0663079c2acdbb8093a5dbc86db63a47&scene=0#rd)
+
+[【推荐】深度强化学习揭秘](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675875&idx=2&sn=2793dfbbc26176c001e1b4a60cb3be2f&scene=0#rd)
+
+[【学习】深度，人工智能60年](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675875&idx=3&sn=676ad663289a10d575e25cf2dc6e08a0&scene=0#rd)
+
+[【干货】看一眼就知道？解读谷歌Photos定位](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675875&idx=4&sn=56b6fd9a7a434bac1f1ea06b8f3a328b&scene=0#rd)
+
+### 2016-04-30
+
+1.【今日资讯头条|Facebook扎克伯格：人工智能未来10年内将超越人类】
+来源：一财网
+在昨天举行的投资人电话会议上，扎克伯格被问到如何看待聊天机器人背后的计算机学习技术。他表示：“我们想要建立的基于人工智能的计算机服务，将比人类有更好的洞察力和理解力。人类基本的听、说、读、写等核心感知力，我认为在未来5-10年，计算机一定能做得比人类自己更好。”
+[链接](http://tech.sina.com.cn/i/2016-04-29/doc-ifxrtztc3051016.shtml)
+
+2.【业界|这位英国水管工鼓捣出一辆悬浮自行车】
+来源：腾讯科技
+据外媒报道，英国林肯郡的科林·弗诺兹是个外国网红。这款神奇的装备没有刹车也没有车座，不过用户可以控制油门。就像弗诺兹在视频中说的，自己可没考过工程师证，完全是自学成才，因此这辆悬浮自行车让大家看的提心吊胆的。
+[链接](http://tech.qq.com/a/20160430/001885.htm)
+
+3.【新闻|AMD：玩游戏已经落伍 下代显卡主攻VR】
+来源：驱动之家
+AMD、NVIDIA都即将推出下一代全新工艺和架构显卡，相信游戏玩家们都摩拳擦掌了吧，不过，尽管游戏市场依然很大，游戏也是显卡的核心任务之一，但是少在AMD这边，VR虚拟现实的重要程度会越来越高。
+[链接](http://tech.163.com/16/0429/08/BLQAAIK100094P0U.html#index_wit)
+
+4.【新闻|“隐形眼镜相机”专利曝光，索尼大法就是好】
+来源：雷锋网
+据了解，一向用“黑科技”行走江湖的索尼公司最近公布了一项新专利——隐形眼镜相机。从专利的描述来看，索尼似乎真的在一片小小的隐形眼镜上搭载了一台相机。
+[链接](http://www.leiphone.com/news/201604/SgfQ6Xz5StxUrOVx.html)
+
+[【干货】Github上受欢迎的深度学习项目](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675880&idx=1&sn=9397e9ccb0636375ede10c6fc8248e2a&scene=0#rd)
+
+[【推荐】统计模式识别](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675880&idx=2&sn=d1b131b2fd0c978e4f2ab3adbfb19a0e&scene=0#rd)
+
+[【干货】最好的Python机器学习库](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675880&idx=3&sn=6bd80f886c626a3ecb724bef49c7c411&scene=0#rd)
+
+[【推荐】Deep learning meets genome biology](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675880&idx=4&sn=ab50e89702319c516a1bf81879081f7d&scene=0#rd)
+
+### 2016-05-01
+
+1.【今日资讯头条|调查显示美国约40%玩家未来一年将买VR设备】
+来源：新浪科技
+美国贸易组织“娱乐软件协会”(ESA)本周发布了美国游戏产业的年度报告。这份报告中揭示了美国游戏产业的一些关键趋势。根据ESA的调查，约40%的重度游戏玩家表示，未来一年内，他们很可能会购买虚拟现实头戴设备。
+[链接](http://tech.sina.com.cn/it/2016-05-01/doc-ifxrtzte9855901.shtml)
+
+2.【业界|Puma推出陪练机器人 比鸡血有用多了】
+来源：雷锋网
+运动品牌Puma最近就发布了一款名为“BeatBot”的田径专用训练机器人。这个机器人由NASA工程师，3个麻省理工学生联合Puma研发，主要作用是陪练时通过模拟你此前最佳成绩，来实时看到你现在成绩与此前成绩表现之间的差异，以帮助你提升成绩。
+[链接](http://tech.sina.com.cn/it/2016-05-01/doc-ifxrtztc3112236.shtml?cre=techpc&mod=inf&loc=1&r=0&doct=0&rfunc=25)
+
+3.【新闻|谷歌设想的黑科技：新屏幕不仅能折叠，还能撕开】
+来源：新浪科技
+根据谷歌的最新专利申请，未来的屏幕不仅可以弯曲折叠，还可以撕开并分享给他人。谷歌表示，这种可撕开的屏幕将便于信息的分享。从屏幕上“撕下”一块来，被撕下的这部分就可以显示此前屏幕上的全部信息。
+[链接](http://tech.sina.com.cn/it/2016-05-01/doc-ifxrtzte9855946.shtml)
+
+4.【新闻|在太空之外 马斯克还有一个更具野心的人工智能梦】
+来源：腾讯科技
+OpenAI的开价没有这么高。但它提供了别的东西：为你提供机会，让你在进行研究和探索时，只需要考虑未来，无需考虑产品和季度盈利目标，而且，最终可以将你的绝大部分（如果不是全部的话）研究成果分享给任何人。
+[链接](http://tech.qq.com/a/20160501/005657.htm)
+
+[【干货】如何通过免费在线学习的途径来学习深度学习？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675881&idx=1&sn=ed9fbe0530f77490213af387430d10a6&scene=1&srcid=0501HJSNKIeeQzrzwA3fBd8x#rd)
+
+[【干货】Learning Deep Structured Models教程（268 pages）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675881&idx=2&sn=3ecb081707324412e01edd78d312c030&scene=1&srcid=0501OAj4AOtoR214f4VDObq6#rd)
+
+[【推荐】面向高维度的机器学习的计算框架-Angel](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675881&idx=3&sn=dc73cdd0f2b8b7d799864658a92955ad&scene=1&srcid=0501Occe0ycoGHvMUQNnC9EQ#rd)
+
+[【学习】Neural Networks Are Impressively Good At Compression](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675881&idx=4&sn=699ca123790ffdc0ab52e5f6151503c6&scene=1&srcid=0501dUp4u9V5EOu1SunMdXnE#rd)
+
+### 2016-05-02
+
+1.【今日资讯头条|Skysafe要做非法无人机的捕手：获顶级风投300万美元投资】
+来源：36氪
+此前，在Indiegogo上就出现过一款专门监测附近无人机的产品DroneShield。近期，另一家更激进的公司Skysafe，还要涉足无人机拦截，要做 “非法” 无人机的捕手，获得了来自A16Z的300万美元融资。
+[链接](http://tech.sina.com.cn/it/2016-05-02/doc-ifxrtztc3135160.shtml)
+
+2.【业界|未来五年无人机将改变世界 可不只是玩具和送快递那么简单】
+来源：BI中文站
+报告剖析了美国对于商用无人机的监管现状，近年来因为美国联邦航空局商用无人机监管草案的出台而急转直下。鲜为人知的是，根据美国政府的一项“豁免”程序，许多公司已经拿到以商用名义飞行小型无人机的授权。
+[链接](http://tech.qq.com/a/20160501/029592.htm)
+
+3.【新闻|停止开发低端Atom处理器 Intel终于放弃移动市场？】
+来源：雷锋网
+日前有消息称，Intel将全面取消Broxton和SoFIA两款凌动处理器产品线的开发。昨天Intel正式确认了这一消息，这两款芯片也就此成为此次Intel业务转型中的第一批牺牲品。
+[链接](http://tech.sina.com.cn/it/2016-05-02/doc-ifxrtztc3130777.shtml)
+
+4.【新闻|机器人补贴乱象调查 地方“大跃进”拉响过热警报】
+来源：经济观察报
+对于企业套取补贴的现象，多位业内人士坦言，国家补贴政策是对的，错在了补贴监管执行上。尤其是一些地方政府补贴标准不一，追求规模和效应，忽略了机器人产业自身发展规律。
+[链接](http://tech.sina.com.cn/it/2016-05-01/doc-ifxrtztc3114228.shtml)
+
+[【推荐】（论文+代码）伯克利大学CVPR 2016关于无监督的视觉特征学习算法新进展](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675885&idx=1&sn=b204e37e4e04b430ff413162af5f658e&scene=1&srcid=0502vr2RSXyTlMSWfLHfApKG#rd)
+
+[【干货】CVPR15专题讲座：Energy Minimization and Discrete Optimization](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675885&idx=2&sn=e73bb0065ae489e544afbb7c48d98920&scene=1&srcid=0502xO6Tss2BakNfE7SHYBYF#rd)
+
+[【干货】Python的聚类算法的比较](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675885&idx=3&sn=30229e00326955b5586b5443b8448a2f&scene=1&srcid=0502XEdEH3Ld1VP6V632ded5#rd)
+
+[【学习】卷积神经网络反向传播推导](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675885&idx=4&sn=6eb40470cf1dd84ed3bca00a9030b1f0&scene=1&srcid=0502euhuNyYlBS2PhnZsZOT4#rd)
