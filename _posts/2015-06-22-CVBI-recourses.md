@@ -64,3 +64,5 @@ author: wubin
 
 [华大基因王俊组建人工智能新业务机构](http://mp.weixin.qq.com/s?__biz=MzA4MjE5NjAzMg==&mid=208694639&idx=1&sn=23b36ff568eb3388dd83644800f81af5&scene=1#rd)
 
+### 2016-05-04
+[第六届视觉与学习青年学者研讨会VALSE2016总结](http://mp.weixin.qq.com/s?__biz=MzA3Mjk0OTgyMg==&mid=2651122951&idx=1&sn=5d328259046ea276c697cfa0cf3aa9bd&scene=1&srcid=0504ZGtVbFKPKdLz3Nm54jgw#rd)
