@@ -2625,3 +2625,202 @@ OpenAI的开价没有这么高。但它提供了别的东西：为你提供机�
 [【干货】Python的聚类算法的比较](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675885&idx=3&sn=30229e00326955b5586b5443b8448a2f&scene=1&srcid=0502XEdEH3Ld1VP6V632ded5#rd)
 
 [【学习】卷积神经网络反向传播推导](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675885&idx=4&sn=6eb40470cf1dd84ed3bca00a9030b1f0&scene=1&srcid=0502euhuNyYlBS2PhnZsZOT4#rd)
+
+### 2016-05-03
+
+[什么是机器学习](http://mp.weixin.qq.com/s?__biz=MzI1MjE0NDU0NA==&mid=505209907&idx=1&sn=b049cc42573b26ab0fb05b0d421b71cb&scene=1&srcid=0503V7POPotPQ8HersroXROU#rd)
+
+[【推荐】TensorFlow资源列表](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675887&idx=1&sn=483cbfa72e62c97a5a2d0016ace730d7&scene=1&srcid=0503Yf7lJMnlIM4z7THXvwOs#rd)
+
+[【干货】支持向量机通俗导论-理解 SVM 的三层境界](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675887&idx=2&sn=46fa288124535342bcf7d4f1f39d5c75&scene=1&srcid=0503euqqlbeN02RV2pqLJahB#rd)
+
+[【论文】MSRA的CVPR16-DisturbLabel: Regularizing CNN on the Loss Layer](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675887&idx=3&sn=af87df6bb7cd2ca07bba3b691c6ec28e&scene=1&srcid=0503GLnujR4NpYcPhwyIGx2j#rd)
+
+[【学习】贝叶斯统计指南](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675887&idx=4&sn=729456f1974c936c53c9652affb2455f&scene=1&srcid=0503x1kAclYqEpBRp9NLMiNh#rd)
+
+1.【今日资讯头条|谷歌获无人机快递专利：利用索降系统下降包裹】
+来源：腾讯科技
+谷歌最新从美国专利商标局获得的专利，描述了一个可以在空中盘旋的无人机系统，利用索降的方式将商品包裹送到消费者手中。换言之，该无人机将不会降落在陆地上。
+[链接](http://tech.qq.com/a/20160503/035873.htm)
+
+2.【业界|巴菲特和盖茨都说：无人驾驶会断了汽车保险业财路】
+来源：新浪科技
+巴菲特和比尔·盖茨接受CNBC采访时表示，无人驾驶汽车的到来将终结汽车保险行业。今年早些时候，美国20家领先汽车制造商达成了一项自愿协议，到2022年将自动紧急刹车变成所有汽车中的标准配置，而美国高速公路保险协会就在其中发挥了重要作用。
+[链接](http://tech.sina.com.cn/it/2016-05-03/doc-ifxrtzte9888075.shtml)
+
+3.【新闻|20年后1/4成年人愿意与机器人约会：只要像真实的人】
+来源：新浪科技
+研究者发现，英国年轻人中有约四分之一愿意与机器人约会——只要它看起来像一个真实的人。这一结果是一项公共调查的一部分，调查的内容是让人们想象2036年的世界，包括了有关植入芯片和药片取代食物等问题。
+[链接](http://tech.sina.com.cn/d/i/2016-05-03/doc-ifxrtztc3155481.shtml)
+
+4.【新闻|换头手术都要动用VR了 VR和医疗结合】
+来源：VR次元
+今天有一则消息震惊了世界，一位名叫塞尔吉奥·卡纳维洛的意大利顶尖的神经科医生已经准备好在2017年底为一位自幼患有脊髓性肌肉萎缩症的俄罗斯人进行“换头术”，值得注意的是，这项手术将动用时下最为火爆的VR技术。
+[链接](http://tech.qq.com/a/20160503/040773.htm)
+
+[【Valse首发】CNN的近期进展与实用技巧（上）](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324619&idx=1&sn=ca1aed9e42d8f020d0971e62148e13be&scene=1&srcid=0503267gCLbBc3YGACaIUBVX#rd)
+
+[除了人脸识别应用，计算机视觉还有哪些重要的落地方向？](http://mp.weixin.qq.com/s?__biz=MzA5Njc1NjMzMw==&mid=2649431736&idx=1&sn=69e8a7ecb7d6f608825efc6976d8d189&scene=1&srcid=0503xiOTA6zpz6BvbzsFmXLe#rd)
+
+
+### 2016-05-04
+
+[valse2016大部分报告的slides已公布](http://mclab.eic.hust.edu.cn/valse2016/program.html)
+
+1.【今日资讯头条|2024年增强现实市值将达1000亿美元】
+来源：yivian
+Grand View Research发布的一项新的报告现实， 到2024年， 增强现实的市值将达到1002亿美元。Internet of Things (IoT)预计， 随着像可穿戴的头显这些新设备的出现， 对可交互的沉浸式体验的需要将会大大地增多。
+[链接](http://tech.163.com/16/0504/09/BM7B83S800094P0U.html#index_wit)
+
+2.【业界|Nvidia智能神经网络 它会是自动驾驶的未来吗？】
+来源：智东西
+在过去的9个月里，Nvidia工程团队用一个摄像头、一台Drive-PX嵌入式电脑、72小时的训练数据开发了一台自动驾驶汽车。在Cornell Research Library拥有的arXiv.org（全球最大的预印本系统）上，Nvidia以学术预印本的形式发表了DAVE2的研究结果，标题名为《自动驾驶汽车的端到端学习》。
+[链接](http://tech.163.com/16/0504/11/BM7G0CP800094OE0.html#index_wit)
+
+3.【新闻|苹果挖来谷歌X实验室联合创始人：将负责健康项目】
+来源：新浪科技
+苹果刚刚招募了Yoky Matsuoka来负责健康项目，她不仅是Google X实验室的联合创始人，还曾经担任谷歌旗下智能恒温器开发商Nest的技术主管。
+[链接](http://tech.sina.com.cn/it/2016-05-04/doc-ifxrtztc3211408.shtml)
+
+4.【新闻|谷歌将与菲亚特合作开发自动驾驶小型货车】
+来源：新浪科技
+彭博社今日援引知情人士的消息称，谷歌将与菲亚特克莱斯勒(Fiat Chrysler)在自动驾驶汽车领域展开合作，双方最快将于本周二签约。两家公司计划基于菲亚特克莱斯勒的Pacifica系列小型货车开发数十款自动驾驶原型。从今年起，新型Pacifica小型货车(混合动力)将配备谷歌的自动驾驶技术。
+[链接](http://tech.sina.com.cn/it/2016-05-03/doc-ifxrtzte9924821.shtml)
+
+[【推荐】机器学习会议ICLR 2016 论文代码集合](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675889&idx=1&sn=38dd6633a911524237b2dc8fcecda6bb&scene=1&srcid=0504aTSlpr0IGGAeCaeF4n7u#rd)
+
+[【干货】史上最全的“大数据”学习资源](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675889&idx=2&sn=8fb42171e61f0a4d079014324f063ea6&scene=1&srcid=0504G11Oetzy9SNqgm1T3gyT#rd)
+
+[【学习】《高级机器学习I：核方法》和《强化学习》课程资料](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675889&idx=3&sn=95c9debf0d0e8b264f407583153e7f9c&scene=1&srcid=0504k2kkDYqCNmHju3tqFLip#rd)
+
+[【论文】自动驾驶前沿论文和阅读笔记：End to End Learning for Self-Driving Cars](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675889&idx=4&sn=b29f85213dec8c3bdce44dceae46b659&scene=1&srcid=0504b2ASAsmgQoj8DnCRNVns#rd)
+
+### 2016-05-05
+
+1.【今日资讯头条|谷歌新专利用电子眼替换晶状体：能矫正近视眼还能拍照】
+来源：新浪科技
+北京时间5月5日上午消息，谷歌申请了一项新技术专利，可以将电子眼直接植入用户眼球。谷歌多年以来一直在开发智能眼镜和智能隐形眼镜，但该公司的最新专利技术则会采用更直接的方式实现类似的功能。
+[链接](http://tech.sina.com.cn/it/2016-05-05/doc-ifxryhhi8382395.shtml)
+
+2.【业界|无人机+农业：无人机如何促进生物燃料发展？】
+来源：36氪
+某研究团队将于5月份为一架小型空中无人机和两辆无人地面车辆安装上传感器，然后将其投放于种着数百种高粱的农田。这三架装有固定传感器的无人机在环绕整个农场转完一圈后，可以收集信息，帮助研究家们精确定位出农场里每一株高粱生长势头好过预期的具体时间。
+[链接](http://tech.sina.com.cn/i/2016-05-04/doc-ifxrtztc3213022.shtml?cre=techpc&mod=inf&loc=2&r=0&doct=0&rfunc=25)
+
+3.【新闻|爱奇艺发布VR套件 要做开放平台】
+来源：TechWeb
+在爱奇艺世界-iVR+全球虚拟现实大会上，爱奇艺公布VR计划。爱奇艺给自身的定位是VR开放平台，并启动VR生态激励计划，联合300家合作伙伴在10个高热IP上实现VR化，开放100个顶级IP进行游戏合作开发。
+[链接](http://tech.163.com/16/0505/14/BMADC2F700094P0U.html#index_wit)
+
+4.【新闻|研究人员试验用无人机解决干旱问题】
+来源：cnbeta
+一支由研究人员和无人机“飞行员”组成的团队，刚刚在内华达州顺利完成了一次试验飞行。这架无人机于上周在美国联邦航空管理局（FAA）批准的Hawthorne起飞，其翼展达到了11英尺（3.35米），可以在云层中挥洒致雨的碘化银。
+[链接](http://tech.163.com/16/0505/10/BMA19DAE00094OE0.html#index_wit)
+
+[【推荐】VALSE 2016的报告slides和视频](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675891&idx=1&sn=3ca2bdbc869a49a05dab27cd267d8334&scene=1&srcid=0505v14daXgRJCFIw8DTdpFQ#rd)
+
+[【学习】OpenAI 深度强化学习教程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675891&idx=2&sn=d4d957bc8b144ace96ee88c3e13a8bfe&scene=1&srcid=05051oFWADHIABCdnERvTrOG#rd)
+
+[【干货】计算机视觉深度学习方面的笔记](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675891&idx=3&sn=2db48a3b0f48699391a49df330b3c8de&scene=1&srcid=0505xKMZFocYpT3iHbW8DcoB#rd)
+
+[【学习】获得Peter Thiel奖学金的Chris Olah关于理解和可视化神经网络的若干篇博客](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675891&idx=4&sn=30b59ddc851bcdfc9ee9bd70a952f411&scene=1&srcid=0505eHCKbhsU47OUYaNaEN8M#rd)
+
+### 2016-05-06
+
+[【推荐】可视化大规模、高维数据](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675892&idx=1&sn=9ba5a918c0b4ef5ef27bbf4f892b4d2b&scene=1&srcid=0506DBNQZjUUMCVWW0JZpKUK#rd)
+
+[【学习】《语言处理中的机器学习法》七讲](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675892&idx=2&sn=9f57ed9026290b1f841f84e42749e496&scene=1&srcid=0506PntKkxzOJHq8WrWeTVnw#rd)
+
+[【学习】（论文+代码）Long Short-Term Memory-Networks for Machine Reading](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675892&idx=3&sn=e6491f6bbe6400ba6cbfc3067c3f0d08&scene=1&srcid=0506PUt03eYkgfgs8wpSg2JZ#rd)
+
+[【学习】拓扑数据分析在机器学习中的应用](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675892&idx=4&sn=363f4c9b64a55e32a57683aa47f83dee&scene=1&srcid=0506nzpjJAZhmD5NKB8McjhS#rd)
+
+1.【今日资讯头条|美初创团队研发增强视力AR眼镜】
+来源：智东西
+NuEyes 和 osterhout design group两家公司宣布将要发布一款帮助数以百万计的视觉受损人士恢复视力的智能眼镜。该设备拥有一个可调的高清高倍数相机，可通过语音指令在一对 720P 的镜头以60赫兹的刷新率呈现高清、全息的图片。
+[链接](http://tech.163.com/16/0506/08/BMCAR24M00094P0U.html)
+
+2.【业界|路易斯安那理工大学的学生成功制造3D打印无人机】
+来源：uavsnews
+该学校机械工程系的学生利用3D打印和可持续材料制作出了一款自定义的无人机。他们计划使用这款无人机帮助NASA研究无人机的应用并建立设施以安全管理在低空中飞行的无人机。
+[链接](http://tech.163.com/16/0506/07/BMC7OAS900094P0U.html#index_wit)
+
+3.【新闻|VR这么火Netflix却不准备开发 其CEO是这么说的】
+来源：腾讯科技
+Netflix公司的CEO里德•哈斯廷斯在接受采访时称，尽管现在虚拟现实被媒体炒得很热，但是它并不是Netflix公司优先考虑的事情。他认为，首先整个VR市场的规模仍然显得太小。第二个问题与VR提供的体验有关。“我不敢想象与我的妻子坐在沙发上，戴着VR头盔观看两个小时的电影，彼此看不到对方。”
+[链接](http://tech.qq.com/a/20160506/043564.htm)
+
+4.【新闻|自动驾驶出租车年内美国路试】
+来源：中国证券网
+据《华尔街日报》报道，通用汽车今年１月已宣布投入５亿美元，与利夫特联手推进自动驾驶汽车的研发和推广。双方合作的内容包括：建立自动驾驶车队、利夫特司机以折扣价租用通用品牌汽车等。
+[链接](http://tech.sina.com.cn/it/2016-05-06/doc-ifxryhhh1700381.shtml?cre=techpc&mod=inf&loc=2&r=0&doct=0&rfunc=25)
+
+[【Caffe实战与小数据深度学习】CNN的近期进展与实用技巧（下）](http://mp.weixin.qq.com/s?__biz=MzI1NTE4NTUwOQ==&mid=2650324652&idx=1&sn=229a7f0498aca9c03409bb537ec66929&scene=1&srcid=0506O9nMeMeRjCyx6Qxdf6Ob#rd)
+
+### 2016-05-07
+
+[Github上10大最有名的机器学习项目](http://mp.weixin.qq.com/s?__biz=MzA3Njg0MTQyOQ==&mid=2650061618&idx=1&sn=9a3cabfeddcbee57f999d7ba5ec9bed2&scene=1&srcid=05041YZmYoB1qECnXXs3YLVJ#rd)
+
+[Github上10大最有名的机器学习项目（下）](http://mp.weixin.qq.com/s?__biz=MzA3Njg0MTQyOQ==&mid=2650061639&idx=1&sn=d2d837481e38347c264812893c3794fc&scene=1&srcid=0507Wu2IoDbUdxAh0fb3n6Lb#rd)
+
+1.【今日资讯头条|奥巴马新政力推智能枪械技术 步枪协会不干了】
+来源：Re/code中文站
+上周五，奥巴马政府公布了总统在1月份首次提出的枪支管制政策的进度报告。该报告中的一大重要手段是“智能枪械”技术。“同时满足最高标准的安全性和可操作性的智能枪械能够有助于防止意外枪击事件、让社区更加安全，”
+[链接](http://tech.qq.com/a/20160507/004978.htm)
+
+2.【业界|Google让人工智能学习语言的新方式：看两千多本小说】
+来源：新浪科技
+据 BuzzFeed 报道，Google 的一个研究小组正在给人工智能阅读浪漫小说，他们希望人工智能通过阅读这类小说可以更好的理解人类的语言，为以后可以和人类更好的交流打下基础。
+[链接](http://tech.sina.com.cn/mobile/n/n/2016-05-07/doc-ifxryhhh1691791.shtml)
+
+3.【新闻|英国团队发现VR新应用：或可治疗被迫害妄想症】
+来源：新华社
+牛津大学一个研究小组在新一期《英国精神病学杂志》上报告说，利用虚拟现实技术能营造一些被迫害妄想症患者日常比较害怕的场景，例如地铁站等，并让患者与其中的虚拟角色交流，从而帮助他们克服心理障碍。
+[链接](http://tech.sina.com.cn/d/2016-05-07/doc-ifxryhhi8485587.shtml)
+
+4.【新闻|苹果造车再添证据：挖来谷歌无人车充电系统发明人】
+来源：新浪科技
+苹果公司刚刚挖来了一名曾经参与开发谷歌电动汽车充电系统的员工，有可能让其参与汽车项目的研发。《卫报》去年披露的文件显示，苹果正在开发无人驾驶汽车，而该公司还曾经会见过多位加州官员，就无人驾驶汽车监管问题展开过沟通。
+[链接](http://tech.sina.com.cn/it/2016-05-06/doc-ifxryhhi8455905.shtml)
+
+[【推荐】（代码+教程）教你用Python和Tensorflow ConvNet实现自动车牌识别系统](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675894&idx=1&sn=832fdfede65fd879b93fc1a6610f1a99&scene=1&srcid=0507hVb7XdtcCsMQkLcDI1Sr#rd)
+
+[【学习】（论文+代码）Faster R-CNN Features for Instance Search](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675894&idx=2&sn=763d2746214fcd8cf05ea8815b01b94f&scene=1&srcid=05071YqzAAtp5458LRE520in#rd)
+
+[【干货】应该选择TensorFlow还是Theano？（知乎和quora上大神观点）](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675894&idx=3&sn=0eaf34607df795621f92466cbb55868b&scene=1&srcid=0507oeWX1EeL9Pn6fQWUyVMN#rd)
+
+[【学习】支持TensorFlow的variational inference开源Python工具Edward](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675894&idx=4&sn=a0a3001c8e8ae01fa1df1c7be1e9076f&scene=1&srcid=0507E3QIMsR110CYyV0U0Koa#rd)
+
+### 2016-05-08
+
+[【上周精华版】（论文+代码）伯克利大学CVPR 2016关于无监督的视觉特征学习算法新进展等文章](http://mp.weixin.qq.com/s?__biz=MzAxNTE2MjcxNw==&mid=2652694910&idx=1&sn=a551b1e480d3c91a3bc28f83af72bef6&scene=1&srcid=0508fSVH0eDRXSfDdnVKtiSs#rd)
+
+[【推荐】十大IPython的数据科学和机器学习教程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675896&idx=1&sn=dde50d09b82c47e6df39ddb96924b5a6&scene=1&srcid=0508Lxy6HQ3K7EdkBW2PlS0W#rd)
+
+[【干货】基于深度学习的自然语言处理在2016年有哪些值得期待的发展？](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675896&idx=2&sn=64d029951a23bfcb16c992bf6894f281&scene=1&srcid=0508hmQO3mtN34Q8dmozSWYn#rd)
+
+[【干货】（Python代码+例子）回归、logistic回归和最大熵教程](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675896&idx=3&sn=46620eda41847c4706fc57aceb771321&scene=1&srcid=0508qCJsqVeGt4acZnxxY1gg#rd)
+
+[【论文】基于图嵌入的半监督学习框架](http://mp.weixin.qq.com/s?__biz=MzA4NDEyMzc2Mw==&mid=2649675896&idx=4&sn=651f8f3c4523506220cde8b07e64a56f&scene=1&srcid=0508Stk6SIM3KQFDNZtlKCmW#rd)
+
+1.【今日资讯头条|苹果跨界：要让VR与iPhone擦出火花】
+来源：钛媒体
+某种程度上说，iPhone的主要问题是难再有重大创新，它需要走出其生命周期的低潮，迎来第二春，延缓iPhone的审美疲劳。而VR可能是非常适合苹果为iPhone加入创新元素的产品领域。
+[链接](http://tech.sina.com.cn/it/2016-05-08/doc-ifxryhhh1754653.shtml)
+
+2.【业界|德国企业发明气球状无人机用于室内快递】
+来源：uavsnews
+德国的Festo对无人机的外形设计进行了重塑，他们将传统的四轴飞行器改造成了一个看起来像是气泡球的玩意儿。结果就形成了一个中心是氦气球、外围是推进器的非典型无人机。
+[链接](http://tech.163.com/16/0506/07/BMC8ANUP00094P0U.html)
+
+3.【新闻|微软首席构想官：人工智能是当今地球上最重要的科技】
+来源：BI中文站
+在一次人工智能会议上，微软英国的首席构想官（chief envisioning officer）戴夫•科普林对与会的商业领袖称，人工智能是“当今地球上人们正在研究的最重要的科技”。
+[链接](http://tech.qq.com/a/20160508/030087.htm)
+
+4.【新闻|三星Gear VR再降价 ebay只卖69.99美元】
+来源：网易科技
+三星 Gear VR 是一款基于智能手机的虚拟现实设备，售价大部分人都能够承担得起，它旨在为用户带来一套完整的虚拟现实体验。三星 Gear VR 在购物网站 ebay 上售价只需要 69.99 美元，低于官方的99美元。
+[链接](http://tech.163.com/16/0506/07/BMC96FQH00094P0U.html#index_wit)
+
+### 2016-05-09
