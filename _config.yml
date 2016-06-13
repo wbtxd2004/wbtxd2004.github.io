@@ -70,7 +70,7 @@ auto_loadmore : true
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://wubinblog.com
+production_url : wbtxd2004 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 # 所有的jekyll-Bootstrap 的详细设置在这里说明
