@@ -66,3 +66,10 @@ author: wubin
 
 ### 2016-05-04
 [第六届视觉与学习青年学者研讨会VALSE2016总结](http://mp.weixin.qq.com/s?__biz=MzA3Mjk0OTgyMg==&mid=2651122951&idx=1&sn=5d328259046ea276c697cfa0cf3aa9bd&scene=1&srcid=0504ZGtVbFKPKdLz3Nm54jgw#rd)
+
+### 2016-07-03
+
+[Facebook？内部？PPT：高效时间管理指南，扎克伯格点过赞](http://it.sohu.com/20160118/n434969200.shtml)
+
+
+[写给程序员的管理入门课程] (http://36kr.com/p/5047953.html)
